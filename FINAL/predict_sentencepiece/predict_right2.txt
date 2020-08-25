@@ -1,0 +1,554 @@
+index: 0, real:0, predict:0
+looked title expected `` book mormon '' : p disappointed .                                                                        
+index: 1, real:1, predict:1
+pretty decent review longer human , though flaws story .                                                                            
+index: 2, real:1, predict:1
+series awesome !                                                                                              
+index: 3, real:1, predict:1
+great- plug headphones listen like podcast draw . thankyou pewdiepie .                                                                  
+index: 5, real:1, predict:1
+got ta keep top subtitles . ’ allllllll da place !                                                                        
+index: 6, real:1, predict:1
+yesssss waiting another one                                                                                      
+index: 8, real:1, predict:1
+really want thank making videos .. reader got interessted                                                                            
+index: 9, real:1, predict:1
+book review pewds confirmed best pewds                                                                                      
+index: 10, real:1, predict:1
+love video ! ! ! ! love reading . interested books mentioned , got ta find soon ! thank !                                                        
+index: 11, real:1, predict:1
+love book reviews .                                                                                            
+index: 12, real:1, predict:1
+awesome ! please keep book review !                                                                                      
+index: 13, real:1, predict:1
+love book reviews bro . keep good work . n't love smell brand new book open ?                                                          
+index: 14, real:1, predict:1
+incredibly bright , pewds . love series !                                                                                    
+index: 15, real:1, predict:1
+love series ! thanks video felix                                                                                        
+index: 16, real:0, predict:0
+hate never forget ungrateful tyra banks ...                                                                                
+index: 17, real:0, predict:0
+’ shocked ’ use spf especially vitiligo ? trying hate comment                                                                        
+index: 18, real:0, predict:0
+metal messes bentonite clay . 're going use , mix none metal utensils .                                                              
+index: 19, real:0, predict:0
+yeah ... ’ supposed use metal implement face mask , messes properties ... usually use plastic spoon apply flat foundation brush                                        
+index: 20, real:0, predict:0
+omg use metal mixing aztec clay mask                                                                                    
+index: 21, real:0, predict:0
+sorry stopped watching mixed aztec clay metal fork ... made whole mask pointless leads believe cant trust anything shes saying                                              
+index: 22, real:0, predict:0
+sorry ’ , ’ beautiful rotten ! ’ fat-shamed women , makes fun modes natural hair , beef everyone antm ! including tyra !                                
+index: 23, real:1, predict:1
+god women . like .                                                                                          
+index: 24, real:1, predict:1
+interesting . never seen skin like genuinely came see makeup . good ! beautiful skin                                                                    
+index: 25, real:1, predict:1
+beautiful                                                                                                  
+index: 26, real:1, predict:1
+let take moment say , r beautiful !                                                                                    
+index: 27, real:1, predict:1
+beautiful inside & . 's successes many come !                                                                          
+index: 28, real:1, predict:1
+love put face mask fork                                                                                          
+index: 29, real:1, predict:1
+stunning                                                                                                  
+index: 30, real:1, predict:1
+lips nice ’ gorgeousss                                                                                        
+index: 31, real:1, predict:1
+omg , 're beautiful                                                                                          
+index: 32, real:1, predict:1
+honestly , 's beautiful                                                                                          
+index: 35, real:1, predict:1
+love , winnie harlow . truly one god loved much born . honesty , still beautiful . love .                                                          
+index: 36, real:1, predict:1
+'re pretty                                                                                              
+index: 38, real:1, predict:1
+'m watching video vitiligo think persons like winnie helps another people ( like ) accept many complex bodies .                                                
+index: 40, real:1, predict:1
+literally gorgeous                                                                                              
+index: 41, real:1, predict:1
+gorgeous !                                                                                                
+index: 42, real:1, predict:1
+omggg lips r everything godddd                                                                                      
+index: 43, real:1, predict:1
+'s gorgeous cute sweet                                                                                          
+index: 44, real:1, predict:1
+lovely watch                                                                                                
+index: 45, real:1, predict:1
+'s beautiful                                                                                              
+index: 46, real:1, predict:1
+honestly vitiligo pretty !                                                                                            
+index: 47, real:1, predict:1
+omg beautiful                                                                                                
+index: 48, real:1, predict:1
+love                                                                                                  
+index: 49, real:1, predict:1
+slayed                                                                                                
+index: 50, real:1, predict:1
+lips                                                                                                  
+index: 51, real:1, predict:1
+love channel recently subscribed                                                                                          
+index: 52, real:1, predict:1
+'s soo pretty                                                                                            
+index: 53, real:1, predict:1
+n't care anyone says love 's amazing                                                                              
+index: 55, real:0, predict:0
+prefer real dog bcoz cheap                                                                                        
+index: 56, real:0, predict:0
+unboxing dog ... come ...                                                                                        
+index: 57, real:0, predict:0
+number things bone -                                                                                          
+index: 58, real:0, predict:0
+real dogs love tho ...                                                                                          
+index: 59, real:0, predict:0
+’ soulless though ...                                                                                          
+index: 60, real:0, predict:0
+costs real dogs haha                                                                                          
+index: 61, real:0, predict:0
+real dog real emotions                                                                                            
+index: 62, real:0, predict:0
+end near                                                                                                
+index: 65, real:0, predict:0
+think replaces bond real dog ..... 're sociopath real yo                                                                    
+index: 66, real:0, predict:0
+'d rather buy real dog                                                                                        
+index: 67, real:0, predict:0
+thing scary                                                                                                
+index: 68, real:0, predict:0
+3000 robot dog ? spend 700 husky ?                                                                                
+index: 70, real:0, predict:0
+robot dog    1supreme box logo hoodie                                                                          
+index: 71, real:0, predict:0
+sky net terminator watch                                                                                            
+index: 72, real:0, predict:0
+feel like ’ spy device japan                                                                                        
+index: 73, real:0, predict:0
+technology seriously come far                                                                                            
+index: 76, real:0, predict:0
+imagine thing running able swim . ( unrealistic since ’ robot ai still could amazing )                                                                
+index: 77, real:0, predict:0
+would buy real dog                                                                                            
+index: 78, real:0, predict:0
+thing expensive dog                                                                                              
+index: 79, real:0, predict:0
+go bite leg ..                                                                                            
+index: 80, real:0, predict:0
+good n't emotions                                                                                          
+index: 83, real:1, predict:1
+reaction priceless                                                                                                
+index: 84, real:1, predict:1
+awww 's cute awwwwwww                                                                                        
+index: 85, real:1, predict:1
+'s cool . loved .                                                                                        
+index: 87, real:1, predict:1
+amazing like wow ! !                                                                                          
+index: 88, real:1, predict:1
+sir cute please give one please                                                                                        
+index: 89, real:1, predict:1
+want one dogs christmas reason want really sad .                                                                                
+index: 90, real:1, predict:1
+future                                                                                                  
+index: 91, real:1, predict:1
+extra 3k id buy !                                                                                        
+index: 92, real:1, predict:1
+like thumbnails                                                                                                
+index: 93, real:1, predict:1
+freaking future                                                                                              
+index: 94, real:1, predict:1
+welp know want christmasprobably expensive                                                                                  
+index: 96, real:1, predict:1
+cute                                                                                                  
+index: 98, real:1, predict:1
+wan na buy golden retriever one .... complete family ...                                                                        
+index: 99, real:1, predict:1
+poop best part lol                                                                                            
+index: 101, real:1, predict:1
+thank god ’ need poop                                                                                          
+index: 102, real:1, predict:1
+best thing n't bite                                                                                        
+index: 103, real:1, predict:1
+say little robodog cute lol                                                                                      
+index: 106, real:1, predict:1
+need one ... yes dog pee every lol                                                                                    
+index: 108, real:1, predict:1
+great thing dog bite .                                                                                          
+index: 109, real:1, predict:1
+makes wan na buy                                                                                          
+index: 110, real:1, predict:1
+really sven , wont die !                                                                                    
+index: 111, real:1, predict:1
+channel future ? ?                                                                                            
+index: 112, real:0, predict:0
+still difficult especially using opposite hand dont right                                                                            
+index: 115, real:1, predict:1
+ur ear ring beautiful second one u buy plz tell me.and r also preety .                                                            
+index: 116, real:1, predict:1
+loved fish style !                                                                                            
+index: 118, real:1, predict:1
+ur cute girl also like make wings eyes want know eyeliner u used liquid smudge eyes                                                          
+index: 119, real:1, predict:1
+loved , dearie                                                                                            
+index: 120, real:1, predict:1
+u r looking nice beautiful eyeliners .                                                                                    
+index: 121, real:1, predict:1
+hi loved ur eyeliner vid u please tell eyeliner brush want purchase . thanx . xx                                                              
+index: 122, real:1, predict:1
+fish tail beautiful                                                                                            
+index: 124, real:1, predict:1
+eye really beautiful                                                                                              
+index: 125, real:1, predict:1
+: fantastic : beautiful                                                                                          
+index: 127, real:1, predict:1
+thanks great job .                                                                                            
+index: 129, real:1, predict:1
+nice amazing                                                                                                
+index: 130, real:1, predict:1
+eyes gorgeous                                                                                                
+index: 131, real:1, predict:1
+waw beautiful liner love liner                                                                                        
+index: 132, real:1, predict:1
+thanks love                                                                                                
+index: 133, real:1, predict:1
+'s really cool .                                                                                          
+index: 134, real:0, predict:0
+’ upgrade iphone 8 apple design phone without notch top screen , without protruding camera .                                                              
+index: 135, real:0, predict:0
+still sad n't 3d touch someone uses lot                                                                            
+index: 136, real:0, predict:0
+'ll stick nokia flip phone                                                                                    
+index: 139, real:0, predict:0
+innovation ... ! apple gone ! ... one plus huawei rock !                                                                    
+index: 140, real:0, predict:0
+yep , ’ one people sayin looked ugly saw renders , hand , everyone said aw , broke .                                                        
+index: 141, real:1, predict:1
+love framing feature honestly grid overlay enabled  perfectly centered images . drives crazy subject perfectly centered .                                      
+index: 142, real:1, predict:1
+videos looks futuristic , music , animations , quality . 're genius marques                                                                  
+index: 143, real:1, predict:1
+haha listening intro thought watching casey !                                                                                    
+index: 145, real:1, predict:1
+bet galaxy 4 apple slap 3 cameras back five years                                                                        
+index: 146, real:1, predict:1
+leeeean bit chunker ! !                                                                                    
+index: 147, real:1, predict:1
+wow intro amazing .                                                                                            
+index: 148, real:1, predict:1
+king ! 1000 reviews tech video guy always best xxxx                                                                              
+index: 149, real:1, predict:1
+intro awesome .                                                                                              
+index: 150, real:1, predict:1
+great review always                                                                                              
+index: 152, real:0, predict:0
+song even worse eating shaving cream                                                                                      
+index: 154, real:0, predict:0
+damn fire dem lyrics                                                                                            
+index: 155, real:0, predict:0
+one creeped middle-aged guy , eyeing passing `` school bus '' ? ?                                                            
+index: 156, real:0, predict:0
+damn , getting worse year year ,                                                                                    
+index: 157, real:0, predict:0
+scrolling 30 mins n't found comments 7 years ago .                                                                        
+index: 158, real:0, predict:0
+hate song let 's see get likes dislikes ...                                                                              
+index: 159, real:1, predict:1
+like part says `` friday . ''                                                                                  
+index: 161, real:1, predict:1
+girl let people bring smart , kind , gorgeous love singing .                                                                          
+index: 162, real:1, predict:1
+amazing ! like ! !                                                                                          
+index: 163, real:1, predict:1
+anyone watching friday                                                                                            
+index: 165, real:0, predict:0
+youtube rewind 2019 : adds random tiktokers nothing youtube                                                                        
+index: 166, real:0, predict:0
+youtube 2019 like , ’ moving dailymotion .                                                                                
+index: 167, real:0, predict:0
+becomes disliked youtube video                                                                                        
+index: 168, real:0, predict:0
+n't forget , 2019s gon na worse .                                                                              
+index: 169, real:0, predict:0
+worst rewind ever . doubts . also , read actual comments                                                                          
+index: 170, real:0, predict:0
+youtube still ignoring biggest channel huh                                                                                    
+index: 171, real:0, predict:0
+bro video bad , ’ thing say                                                                                      
+index: 172, real:0, predict:0
+cringed every second ... made hate everyone fact                                                                                
+index: 173, real:0, predict:0
+disliked video youtube youtube .                                                                                        
+index: 174, real:0, predict:0
+fact rewind bad excited 2019 rewind                                                                                      
+index: 175, real:0, predict:0
+“ let ’ give people want ” lmao one wanted                                                                              
+index: 176, real:0, predict:0
+rewind 2019 gon na mess minecraft community raid tube headquarters                                                                    
+index: 177, real:0, predict:0
+people want minecraft youtube rewind youtube gon na make minecraft cringey .                                                                        
+index: 178, real:1, predict:1
+idk mukbang part omg , like :                                                                                  
+index: 183, real:0, predict:0
+feel like perfect example weird amd random girls get put makeup .                                                                      
+index: 184, real:0, predict:0
+looked weird eye lined                                                                                          
+index: 185, real:1, predict:1
+love 's showing us routine also explaining certain steps !                                                                    
+index: 188, real:1, predict:1
+friend told “ brat ” went channel found video , .. subscribed j love videos   ’ know tell friend                                                    
+index: 190, real:1, predict:1
+literally wish u .                                                                                          
+index: 191, real:1, predict:1
+looks different makeup lol                                                                                            
+index: 192, real:1, predict:1
+like makeup                                                                                                
+index: 194, real:1, predict:1
+amazingly beautiful without makeup                                                                                          
+index: 195, real:1, predict:1
+hi loren wish know bc ar sooo pretty btw im belgium                                                                          
+index: 196, real:0, predict:0
+   4.35 , man ca n't fill matirx column 5 row 2 , since 5 node directly connected visited set    1,2    .                    
+index: 198, real:0, predict:0
+video made dumber                                                                                          
+index: 199, real:0, predict:0
+wrong u made confused                                                                                          
+index: 200, real:0, predict:0
+bro u r wrong concept ...                                                                                        
+index: 202, real:0, predict:0
+wrongly explained . would better video reported . completely misleading people . explains clearly wrong content .                                                      
+index: 204, real:1, predict:1
+thanks lot explaining new way                                                                                        
+index: 205, real:1, predict:1
+super bro thanks lot video                                                                                          
+index: 206, real:1, predict:1
+good explanation & thanks lot                                                                                        
+index: 207, real:0, predict:0
+poor programmer .. code 0:40 n't make sense : (                                                                        
+index: 209, real:0, predict:0
+computer like air conditioner , becomes useless open windows haha                                                                            
+index: 213, real:0, predict:0
+github confusing                                                                                                
+index: 214, real:0, predict:0
+like minecraft , n't ruin getting rid made great ........ : ' (                                                            
+index: 215, real:1, predict:1
+2:54 flamethrower tesla cars ? looks good idea . : )                                                                        
+index: 216, real:1, predict:1
+siraj , 're best !                                                                                        
+index: 217, real:1, predict:1
+analogy brilliant !                                                                                          
+index: 219, real:0, predict:0
+saw , certainly n't let . thought heath ledger could n't matched wrong . solid flim !                                                
+index: 220, real:0, predict:0
+looking forward seeing film , ’ want support paedophile shape form                                                                        
+index: 221, real:0, predict:0
+'m going grain , n't good expecting & first half laugh got nerves ! bring batman & joker soon , let 's restore faith !                            
+index: 222, real:0, predict:0
+joker : best movie last 12 years ? since 'no country old men ' 2007 ? ? ?                                                            
+index: 223, real:0, predict:0
+get shirt , looks badass                                                                                          
+index: 224, real:1, predict:1
+love movie touches insight mental illness . makes think twice struggle people cant afford medication make function society .                                                
+index: 226, real:0, predict:0
+finished watching movie , avoided spoilers coming , man disappointed . shit straight frustrating times . 're gord one , chris .                                          
+index: 227, real:0, predict:0
+know 's great movie drops f bomb                                                                                    
+index: 228, real:0, predict:0
+get stuckmanized got cheesiest catchphrase ever created !                                                                        
+index: 229, real:0, predict:0
+know actually something figure end . big twist , jordan ’ make ambiguous                                                                          
+index: 231, real:0, predict:0
+us made laugh comedy                                                                                          
+index: 232, real:0, predict:0
+im really disapppinted review movie . jumping hype train movie popular ?                                                                    
+index: 233, real:0, predict:0
+well , wo n't seeing . hereditary first last horror movie . think 're bad , ca n't take . movie got skin end freaking thinking . n't count aliens first predator horror movies ,
+index: 234, real:0, predict:0
+watched lupita ? ? .                                                                                          
+index: 235, real:0, predict:0
+watched - one worst movies 've seen - made zero sense                                                                        
+index: 236, real:0, predict:0
+writing trash !                                                                                            
+index: 237, real:0, predict:0
+loved many plot holes                                                                                          
+index: 238, real:0, predict:0
+concept tunnels messed bad o.o                                                                                  
+index: 240, real:0, predict:0
+5:28 disagree . movie tells one plot twist . even crazier plot twist going movie tell .                                                            
+index: 241, real:0, predict:0
+lupita nyongo amazing loved get movie actually subpar . movie terribly written , comedic element awful throwing 5 song luniz orchestra final scene cringing . suprised seeing tim heidecker though .                
+index: 243, real:0, predict:0
+sorry dude ? ? ? ? ? ? movie ’ good                                                                            
+index: 246, real:0, predict:0
+chris , proved right review movies . liking trash movie . afraid admit trash people give backlash .                                                      
+index: 248, real:0, predict:0
+better paced get ? joke                                                                                        
+index: 250, real:0, predict:0
+swear movie overhyped asf main actor really good acting 5/10                                                                        
+index: 252, real:0, predict:0
+hi chris , love channel usually agree one , n't . thought us n't good . n't think movie scary slightest end super predictable . thought acting good one really stood kills film okay . like cinematography
+index: 253, real:0, predict:0
+winston duke ’ funny . .                                                                                    
+index: 254, real:0, predict:0
+cant see casting white dude lead                                                                                    
+index: 255, real:0, predict:0
+us n't scary                                                                                          
+index: 258, real:0, predict:0
+garbage .. wasted money                                                                                          
+index: 259, real:0, predict:0
+even watching still idea ’ talking ambiguity                                                                                    
+index: 260, real:0, predict:0
+'s hard knock life us , got give a- money ? ! ... ? ? ? ?                                                              
+index: 262, real:0, predict:0
+movie wayyy overrated                                                                                          
+index: 263, real:0, predict:0
+never expected see tim heidecker movie like ..                                                                                
+index: 265, real:0, predict:0
+preach jeremy , preach !                                                                                      
+index: 267, real:0, predict:0
+movie called spy ! 's one starring owen something ... eddy murphy                                                                  
+index: 268, real:0, predict:0
+technicallly ever since 50 shades video 7 ratings . nothing , dogshit , forget , drunk , sober , blu ray , awesome . 's counting                                
+index: 269, real:0, predict:0
+   jeremy jahns rant rating system .......                                                                            
+index: 270, real:0, predict:0
+dead review -- worth seeing theater -- rose byrne killer lines -- 's strong comedy drama -- get lead roles -- yeah floored spy new title                    
+index: 271, real:0, predict:0
+melissa mccarthy discount kevin james female . theyre unfunny stale jimes play fat card                                                      
+index: 272, real:0, predict:0
+friend describes movie good time alcohol required punch see get reference                                                                      
+index: 275, real:0, predict:0
+cheese masters apparently disliking video                                                                                    
+index: 277, real:0, predict:0
+happened tomatoes conditioning , guess n't last                                                                              
+index: 278, real:0, predict:0
+cheese options strange test seems invalid                                                                                  
+index: 281, real:0, predict:0
+way link biting burger weird                                                                                        
+index: 282, real:0, predict:0
+biggest complaint pacing . went really fast beginning basically stopped end                                                                        
+index: 283, real:0, predict:0
+genie beatboxed aladdin                                                                                            
+index: 284, real:0, predict:0
+review tarantino films upon time hollywood                                                                                      
+index: 285, real:0, predict:0
+tbh chris , original aladdin mostly memorable original genie well                                                                          
+index: 290, real:0, predict:0
+watched day got feeling feeling like stage looked weird could n't explain . 's said , 's clean , looks set city                                              
+index: 293, real:0, predict:0
+nah liked lot . taking lesson always watch things listen critics say . remember enjoyment nostalgic value something objectively measured .                                            
+index: 294, real:0, predict:0
+feeling check box film .                                                                                          
+index: 296, real:0, predict:0
+first time disagree . movie good worth watch .                                                                                
+index: 297, real:0, predict:0
+umm 's street rat lol like self                                                                                    
+index: 298, real:0, predict:0
+guy ritchie dead                                                                                          
+index: 300, real:0, predict:0
+humans would never satisfied                                                                                          
+index: 301, real:0, predict:0
+literally watching jaws revenge review sjdjsks                                                                              
+index: 304, real:0, predict:0
+'s another problem , actor ( matter great charismatic ) given crappy material work , chances find difficult act scenes authentically .                                        
+index: 305, real:0, predict:0
+movie looks like bollywood movie ...                                                                                        
+index: 307, real:0, predict:0
+ok - overlook fact sets looked like sets film essentially supposed bollywood-esque version aladdin aesthetic common bollywood films . could n't get film stark changes characterization screenwriters made : example ,
+index: 309, real:0, predict:0
+jafar way young . looked early 30 ’ . jafar supposed like 50 .                                                                      
+index: 310, real:0, predict:0
+thing smith 's charismatic could play good voice genie , n't look part . movie kinda stabbed back ...                                                  
+index: 311, real:0, predict:0
+guy ritchie stinks director                                                                                      
+index: 312, real:0, predict:0
+live action remake liked 101 dalmatians ( 1996 ) glenn close .                                                                  
+index: 313, real:0, predict:0
+aladdin genie okay cinderella fairy god mother okay ?                                                                              
+index: 314, real:0, predict:0
+always following useful , well explained reviews . however , aladdin completely disagree . nothing felt cheesy weak . spectacular movie every possible aspect . two hours full enjoyment . surprised n't find anything good say movie .    
+index: 318, real:0, predict:0
+interpretation disney remakes future generations kids ’ like old cartoons turn live action would see movie . saw lot complaints like original ’ influences idea                                  
+index: 319, real:0, predict:0
+christian stuckmann jeremy jahns two guys respect movie reviews usually 're either dead close opinion movies mirrors mine .                                                  
+index: 320, real:0, predict:0
+came see could trust lion king review .... said lion king : 's anything new , 's shot shot                                                      
+index: 323, real:0, predict:0
+expectation movie ! n't seen , looking forward seeing guess anyway . heard making life action remake movie n't impressed , thought oh well another disney classic loved kids trampled ruined ! like maleficent , disney movies put life
+index: 324, real:0, predict:0
+holy shit , could never pin point crystal skull , could gather strength watch , chris nailed ! never felt real lived . like prequels .                              
+index: 325, real:0, predict:0
+picturing princess tiger hard jungle book full talking animals giant monkey totally fine                                                        
+index: 326, real:1, predict:1
+.... like cheese let know 'm eating                                                                                  
+index: 329, real:1, predict:1
+would awesome bracket competition cheeses !                                                                                
+index: 333, real:1, predict:1
+mozzarella `` peace '' zza maker                                                                                
+index: 336, real:1, predict:1
+finally people find gouda nice                                                                                          
+index: 339, real:1, predict:1
+always use gouda                                                                                              
+index: 340, real:1, predict:1
+happy father 's day two coolest dad 's youtube . :                                                                      
+index: 341, real:1, predict:1
+actually really enjoyed movie .                                                                                        
+index: 342, real:1, predict:1
+coming back review watching lion king review , think c- score harsh . least aladdin brought something new table increases rewatchability factor .                                      
+index: 343, real:1, predict:1
+watched movie . entertaining . smith entertaining . overall , better expected .                                                                          
+index: 345, real:1, predict:1
+movie fantastic celebration things great good eastern culture loved every minute . bravo disney !                                                                
+index: 348, real:1, predict:1
+movie made based “ aladin tail ” . though knew process story ending , still interesting . recommend movie one stressed .                                            
+index: 350, real:1, predict:1
+nahh tthis favorite live action remake years                                                                                    
+index: 351, real:1, predict:1
+thank-you , saved watch . thought would bit shit anyway confirms .                                                                    
+index: 354, real:1, predict:1
+review sounds like ’ nitpicking hardcore times . ’ glad watch movie see things lol . still love channel though .                                                  
+index: 355, real:1, predict:1
+pulls large bottle whiskey                                                                                    
+index: 356, real:1, predict:1
+loved smith always . love fresh prince                                                                                    
+index: 358, real:1, predict:1
+totally agree everything say smith .                                                                                      
+index: 360, real:1, predict:1
+thanks yelling trying entertain concise , objective review . busy parent , appreciate content form reviews .                                                            
+index: 361, real:1, predict:1
+watched aladdin 3d disagree review . movie great ! totally worth watching 3d .                                                                  
+index: 362, real:1, predict:1
+talking ? ! ! ! one best movies ever seen ! ! ! great awesome perfonmancess ! ! ! nothing dull movie ! ! ! good great scenes ! ! ! nothing else ! ! ! aladdin girlfriend ( princess
+index: 363, real:1, predict:1
+yeeeesss ! ! ! ! ! ! totally agree ! !                                                                    
+index: 365, real:1, predict:1
+watched movie review loved                                                                                            
+index: 366, real:1, predict:1
+saw movie thoroughly entertained laughed alot . movie least b + imo . chris graded lower last jedi , serious . chris 're still one favorite movie reviewers missed mark last jedi .            
+index: 367, real:1, predict:1
+smith genie movie . actually killed ! ! ! ? ? c- low tho . ’ give b movie .                                                          
+index: 370, real:1, predict:1
+aladin interesting                                                                                              
+index: 371, real:1, predict:1
+loved film                                                                                                
+index: 373, real:1, predict:1
+staff thing good jafar .                                                                                        
+index: 374, real:1, predict:1
+lol chris protecting saying several good things movie ... 7:07                                                                        
+index: 375, real:1, predict:1
+smith turned smith show smith !                                                                                      
+index: 377, real:1, predict:1
+honestly liked one better original film . loved new stuff added acting good , love characters new characters . also blown away naomi 's song . give .                            
+index: 378, real:1, predict:1
+thanks genuine chris , 's love reviews ! keep good work !                                                                          
+index: 380, real:1, predict:1
+even guy smiling looks like ’ burst tears                                                                                  
+index: 381, real:1, predict:1
+need shirt ! ! get ? ! ’ like jungle book ! ’ need remake movies ! leave amazing alone ! !                                                  
+index: 382, real:1, predict:1
+jafar upon time wonderland far better depiction well performance even snake staff !                                                                
+index: 384, real:1, predict:1
+watching disney movie want realistic . best luck .                                                                                  
+index: 386, real:1, predict:1
+thanks video , would like made reviews netflix movies                                                                                
+index: 388, real:1, predict:1
+'m fine smith blue genie . long n't see make son anymore                                                                      

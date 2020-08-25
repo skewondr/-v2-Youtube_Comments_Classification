@@ -1,0 +1,530 @@
+index: 1, real:0, predict:0
+confused said way describing `` longer human '' intersting , intriged                                                                  
+index: 2, real:1, predict:1
+book supposed change life ?                                                                                          
+index: 5, real:1, predict:1
+really enjoyed . looking forward next one .                                                                                
+index: 7, real:1, predict:1
+love series much                                                                                              
+index: 8, real:1, predict:1
+nice ...                                                                                                
+index: 9, real:1, predict:1
+love hearing movies ! read stoner !                                                                                    
+index: 10, real:1, predict:1
+adore kind content !                                                                                            
+index: 11, real:1, predict:1
+10/10 love concept felix . makes want read ! !                                                                              
+index: 12, real:1, predict:1
+definition good content                                                                                            
+index: 13, real:1, predict:1
+felix , book review series 've taken genuine interest literature . enjoy reading engulfed 'm reading , 'm coming john green books romance novels . wan na broaden genres start reading books 'm scared look . mind
+index: 14, real:1, predict:1
+love book videos . really hope keep                                                                                      
+index: 16, real:0, predict:0
+u ’ supposed mix aztec clay mask metal utensil , , , , ,                                                                        
+index: 17, real:0, predict:0
+might strong pretty personality aint                                                                                        
+index: 18, real:0, predict:0
+ur suppose use kind metal wen using ashtec clay mask apple cider . written back tub .                                                            
+index: 19, real:0, predict:0
+umm ... first thing aztec clay container tells let clay come contact metal .                                                                  
+index: 21, real:0, predict:0
+thought ur suppose use non-metallic things dealing bentonite clay ... something negative , positive electrons/ions idk                                              
+index: 24, real:0, predict:0
+confused                                                                                                  
+index: 27, real:1, predict:1
+’ honestly beautiful ’                                                                                            
+index: 28, real:1, predict:1
+really love personality , 's also pretty                                                                                  
+index: 30, real:1, predict:1
+’ beautiful without makeup                                                                                            
+index: 31, real:1, predict:1
+soon clicked video saw amazing model                                                                                    
+index: 32, real:1, predict:1
+winnie beautiful smile ! adore !                                                                                        
+index: 33, real:1, predict:1
+love uses fork apply mask gracefully .                                                                                  
+index: 34, real:1, predict:1
+'s beautiful !                                                                                            
+index: 35, real:1, predict:1
+wondering method u follow fondation keep beautiful face colour u ... ’ good special beautiful                                                              
+index: 36, real:1, predict:1
+love shes amazing love confidence                                                                                        
+index: 37, real:1, predict:1
+omg . 's beautiful true inspiration . also vitiligo inspired show skin . thank vogue                                                                
+index: 38, real:1, predict:1
+whole makeup amazing ! wished would ’ used different color lips . beautiful nonetheless without makeup ! !                                                        
+index: 40, real:1, predict:1
+female michael                                                                                                
+index: 41, real:1, predict:1
+’ beautiful                                                                                                
+index: 43, real:1, predict:1
+pretty                                                                                                  
+index: 44, real:1, predict:1
+n lips .. cant ! ! ! perfect lips                                                                                  
+index: 45, real:1, predict:1
+voice calmingggg love                                                                                            
+index: 46, real:1, predict:1
+’ gorgeous                                                                                                
+index: 47, real:1, predict:1
+’ gorgeous                                                                                                
+index: 48, real:1, predict:1
+’ beautiful like                                                                                              
+index: 49, real:1, predict:1
+prettyyyy                                                                                                
+index: 50, real:1, predict:1
+beautiful without makeup love !                                                                                          
+index: 51, real:1, predict:1
+lips beautiful                                                                                                
+index: 53, real:1, predict:1
+gorgeous omg                                                                                                
+index: 54, real:1, predict:1
+winnie ’ makeup stunning ’ absolutely beautiful without makeup enjoyed tutorial                                                                          
+index: 55, real:1, predict:1
+cream anti age bullshits ! ! !                                                                                    
+index: 56, real:1, predict:1
+omg mask toner difference noticiable , never underestimate skin products                                                                    
+index: 57, real:1, predict:1
+pretty .                                                                                                
+index: 58, real:0, predict:0
+makes kinda sad people actually prefer robo-pets rather real ones ...                                                                    
+index: 59, real:0, predict:0
+wallet find offensive .                                                                                        
+index: 61, real:0, predict:0
+best thing dog cant bite us hahah                                                                                      
+index: 62, real:0, predict:0
+wait ai become strong thing might even bite                                                                                  
+index: 63, real:0, predict:0
+sony aibo robot dog like fbi undercover dog                                                                                
+index: 65, real:0, predict:0
+going betray dog robot dog                                                                                          
+index: 66, real:0, predict:0
+'s dumb first digital watch costing $ 10,000 .                                                                    
+index: 67, real:0, predict:0
+kidding                                                                                                  
+index: 68, real:0, predict:0
+'s kinda weird petting metal                                                                                    
+index: 69, real:0, predict:0
+buys fake dog $ 3000                                                                                        
+index: 70, real:0, predict:0
+destroy content .                                                                                              
+index: 71, real:0, predict:0
+robots might good ca n't love interact like real dog !                                                                      
+index: 72, real:0, predict:0
+gauges eyes middle night ... dog sketch                                                                              
+index: 74, real:0, predict:0
+would great google assistant inside ...                                                                                    
+index: 76, real:0, predict:0
+jesus christ scary good                                                                                          
+index: 80, real:0, predict:0
+lamer real dog                                                                                            
+index: 82, real:0, predict:0
+real dog cheeper                                                                                            
+index: 83, real:0, predict:0
+imagine dog turned evil                                                                                          
+index: 86, real:0, predict:0
+would rather adopt street dog .                                                                                      
+index: 88, real:0, predict:0
+'s looks like cgi ! !                                                                                      
+index: 89, real:0, predict:0
+movement craziest                                                                                              
+index: 91, real:1, predict:1
+good thing dog step tail wo n't feel pain                                                                            
+index: 92, real:1, predict:1
+oh god 's cute                                                                                          
+index: 93, real:1, predict:1
+oh god ! ! ! ! ! ! ! ! sooooooooo cute ! ! ! awww                                                                  
+index: 94, real:1, predict:1
+aww thing cute .                                                                                            
+index: 96, real:1, predict:1
+'s cute real dog . obeys learn sooo fast .                                                                            
+index: 98, real:1, predict:1
+n't think 've never amused watching grown man play robotic dog time make jealous                                                            
+index: 100, real:1, predict:1
+dog cute                                                                                                
+index: 101, real:1, predict:1
+one best unboxing ever cute robot                                                                                      
+index: 102, real:1, predict:1
+thing way smarter sophia                                                                                      
+index: 103, real:1, predict:1
+’ legit dog toy                                                                                            
+index: 104, real:1, predict:1
+need robot                                                                                                
+index: 107, real:1, predict:1
+amazing , aibo play despacito .                                                                                
+index: 109, real:1, predict:1
+’ cutest robot dog ever seen                                                                                      
+index: 110, real:1, predict:1
+robot dog ’ called smart dog                                                                                      
+index: 112, real:1, predict:1
+alergic dogs , ya go , n't allowed dog rental home , ya go .                                                          
+index: 113, real:1, predict:1
+love ur vedios                                                                                            
+index: 115, real:0, predict:0
+impressed solution . long useless video . problem solving technic comes visualization practice . interviewer needs see efficient way less time . need ask multiple solutions ... sorry perception .                
+index: 116, real:0, predict:0
+hate people say like 'start wing ' one eye looks awesome 's crooked 's infuriating                                                          
+index: 118, real:1, predict:1
+46 million views wow keep going                                                                                      
+index: 119, real:1, predict:1
+subscribed , 've watched couple vids deffo thought great                                                                            
+index: 121, real:1, predict:1
+gap ur eyes eyebrows amazing                                                                                        
+index: 124, real:1, predict:1
+nice nd beautiful ...                                                                                          
+index: 125, real:1, predict:1
+like smooth look                                                                                              
+index: 126, real:1, predict:1
+liked double wing fish one .                                                                                        
+index: 127, real:1, predict:1
+thanks great job .                                                                                            
+index: 128, real:1, predict:1
+unique love                                                                                                
+index: 129, real:1, predict:1
+wow l love eyeliner                                                                                            
+index: 130, real:1, predict:1
+sweet eye liner step good                                                                                          
+index: 132, real:1, predict:1
+u looking beautiful                                                                                              
+index: 134, real:1, predict:1
+'s effortlessly . ...... 'm soooo jealous                                                                            
+index: 136, real:1, predict:1
+outstanding                                                                                                  
+index: 137, real:0, predict:0
+’ need                                                                                                
+index: 138, real:0, predict:0
+pro                                                                                                 
+index: 139, real:0, predict:0
+samsung : latest folding phone technology                                                                                
+index: 140, real:0, predict:0
+6:39 damn . lot devices linked apple id :                                                                            
+index: 141, real:0, predict:0
+fed apple store prices , found alternative , panera bread lost found .. mecca wireless chargers , cables , wall blocks , dongle adapters .                  
+index: 142, real:0, predict:0
+mention deep fusion                                                                                            
+index: 145, real:1, predict:1
+hahahaa iphone excellent battery l. + fast charging wdf ? !                                                                  
+index: 147, real:0, predict:0
+wanted shut immune system worked well . oh lord worst !                                                                        
+index: 148, real:0, predict:0
+know voice sound bad song 's 's 13 going puberty time lot change transformation teenage ( body , behavior , voice , etc ... ) go 's probably factor song n't get credit deserve .    
+index: 149, real:0, predict:0
+came remembering enjoyed song . wrong                                                                                    
+index: 153, real:0, predict:0
+actual hell get 1 million likes ? ?                                                                                  
+index: 155, real:1, predict:1
+perfect time listen friday                                                                                            
+index: 160, real:1, predict:1
+actually like song !                                                                                            
+index: 161, real:0, predict:0
+n't include pewdiepie next rewind , raid youtube instead area 51 .                                                                    
+index: 162, real:0, predict:0
+youtube disconnected viewers ’ even funny                                                                                    
+index: 164, real:0, predict:0
+fortnite dances ruined ( sorry )                                                                              
+index: 165, real:0, predict:0
+trying make bad purpose                                                                                            
+index: 167, real:0, predict:0
+good job , youtube ... creation disliked video history site .                                                                      
+index: 168, real:0, predict:0
+’ want minecraft rewind 2019 ’ gon na make cringe , let ’ savor golden age minecraft revival                                                    
+index: 170, real:0, predict:0
+controlled youtube rewind , ’ hit delete button                                                                                  
+index: 172, real:0, predict:0
+years rewind ’ pewdiepie uh oh stinky ’ got faith future rewinds                                                                        
+index: 173, real:0, predict:0
+next rewind youtube disable comments                                                                                        
+index: 175, real:1, predict:1
+honestly ’ mind video . ’ , nice day .                                                                                
+index: 177, real:1, predict:1
+thing good included animators . thing .                                                                                      
+index: 181, real:1, predict:1
+anyone found freaking cute without makeup mee                                                                                  
+index: 182, real:1, predict:1
+literally favorite tutorial literally watch every single day                                                                              
+index: 184, real:1, predict:1
+'re fricking pretty even without makeup ! ! oh god , love much . stan queen .                                                              
+index: 186, real:1, predict:1
+look pretty ! also made everyday makeup routine video go check !                                                                      
+index: 188, real:1, predict:1
+relli cute lovely loved makeup tutorial kinda look like blake lively tbh                                                                  
+index: 189, real:1, predict:1
+know probably ’ see damn gorgeous without makeup gorgeous ! ! amount makeup wear daily basis along millions women also , ignore hate beautiful                                        
+index: 192, real:0, predict:0
+wrong way , get concepts clear .                                                                                    
+index: 194, real:0, predict:0
+incorrect way solve algorithm                                                                                          
+index: 195, real:0, predict:0
+clearly wrong method bro n't go teach wrong things                                                                          
+index: 196, real:0, predict:0
+totally wrong                                                                                              
+index: 197, real:0, predict:0
+bro wrong ...                                                                                              
+index: 198, real:0, predict:0
+confused saying                                                                                                
+index: 199, real:0, predict:0
+wrong wrong wrong                                                                                              
+index: 200, real:0, predict:0
+process wrong baby                                                                                              
+index: 201, real:0, predict:0
+horrible explanation . wrong , listen guy .                                                                                    
+index: 202, real:1, predict:1
+thank ! great work ! better explained prof !                                                                                  
+index: 203, real:1, predict:1
+thanks explanation                                                                                                
+index: 204, real:1, predict:1
+lecture excellent . thanks lot bruh .                                                                                    
+index: 205, real:1, predict:1
+way arrived answer wrong answer correct .                                                                                  
+index: 206, real:0, predict:0
+4:26 democratic unlike apple siraj savage                                                                                
+index: 207, real:0, predict:0
+'s something wrong visuals one .                                                                                    
+index: 210, real:0, predict:0
+must crazy , within 20 minutes uploading video , 600 people watched . 's crazy concept                                                    
+index: 211, real:0, predict:0
+explanation difficult understand                                                                                              
+index: 212, real:0, predict:0
+next video - live life                                                                                        
+index: 213, real:1, predict:1
+thanks much ! started using github ml projects week ago , 's made life lot easier . really helps simple , compact explanation like available .                            
+index: 214, real:1, predict:1
+hey buddy great job . really love . 'm following time table learning basics computer science 5 months . amazing . thank guidance keep great work . awesome !                        
+index: 215, real:1, predict:1
+good explained developer need github .                                                                                      
+index: 217, real:0, predict:0
+’ understand complaints “ violence ” kill bill , john wick , hostal ....... people serious ? least joker tell violence coming .                                      
+index: 218, real:0, predict:0
+people say movie harm ’ worth :                                                                                    
+index: 221, real:1, predict:1
+shirt dope !                                                                                              
+index: 224, real:0, predict:0
+cant wait twilight zone series . 's good creating creepy , thought provoking stories imagery , twilight zone .                                            
+index: 225, real:0, predict:0
+“ us ” good movie , everyone hyping much reason .                                                                        
+index: 227, real:0, predict:0
+completely underwhelmed movie . twist ending plausible .                                                                            
+index: 228, real:0, predict:0
+'s actually insane amount reviewers like trash movie . seems like scared political position .                                                          
+index: 229, real:0, predict:0
+got ta paying guy . movie sucked str8                                                                                
+index: 230, real:0, predict:0
+watched good movies , aint ......                                                                                      
+index: 232, real:0, predict:0
+dad girl different lupita son like family split two different genres movies . didnt know suppose feel . imo explanation making revenge thing lot plotholes made scratch head ... could better didnt explain                  
+index: 234, real:0, predict:0
+spoilers .                                                                                              
+index: 235, real:0, predict:0
+movie evolves watch . plot n't good , underlying messages subliminal messages even simple objects amazing ! good get , 'm still appreciate .                              
+index: 236, real:0, predict:0
+movie terrible watched last night cringey acting really made laugh ? ?                                                                      
+index: 238, real:0, predict:0
+impressed film .                                                                                              
+index: 239, real:0, predict:0
+us made sense dude idk wtf critics                                                                                    
+index: 240, real:0, predict:0
+worst horror movie entire life !                                                                                        
+index: 241, real:0, predict:0
+think problem , want fresh face horror . want bad give mess film good marks . want loose ends . little get liked . however goes deep end .... film questions resolves ..... got home film sucks
+index: 242, real:0, predict:0
+us little overrated                                                                                            
+index: 243, real:0, predict:0
+movie meh ...                                                                                            
+index: 244, real:0, predict:0
+acting good sorry story well created , filled many non sensible gaps left film like ? ?                                                    
+index: 245, real:0, predict:0
+really disappointed movie , ’ horror movie , make scary ! ’ fill jokes trying make comedy horror . ’ separate movie . littrally violence gore ! ! ’ allowed put bit violence ! ! absolutely hated movie , worst movie
+index: 247, real:0, predict:0
+’ sick mp academy ignores horror genre                                                                              
+index: 248, real:0, predict:0
+’ gon na say ’ less horror thriller                                                                                    
+index: 249, real:0, predict:0
+honestly wish heard bad reviews watching film , huge let . felt much wasted potential , many aspects could explored add world building made film much interesting . left thinking dozens plot holes , meanwhi
+index: 251, real:0, predict:0
+watched movie seeing review must say completely hyped . film place , n't know sort movie wanted . hardly horror , thrown together comedy added thriller scenes , people laughing throughout entire film .      
+index: 252, real:0, predict:0
+jeremy 's imdb page us fails recognize two projects named `` spy '' , one tv movie , , tv series .                                  
+index: 253, real:0, predict:0
+god damn cheese heads ! !                                                                                        
+index: 255, real:0, predict:0
+cheese heads ? wisconsin ? red letter media ?                                                                        
+index: 256, real:0, predict:0
+actually , extra rating . remember called 50 shades grey `` nothing '' ?                                                              
+index: 257, real:0, predict:0
+saw guy comment mad max got rating    jeremy jahns last video yesterday . mad funny jeremy called .                                                
+index: 258, real:0, predict:0
+wait ... people take ratings seriously ? o  o damn ...                                                                          
+index: 260, real:0, predict:0
+jeremy , talking rating system , face actually starting turn red .                                                                        
+index: 261, real:0, predict:0
+7.9 10 spy .                                                                                          
+index: 263, real:0, predict:0
+need justice provolone                                                                                            
+index: 264, real:0, predict:0
+gruy  re best , ca n't change mind                                                                              
+index: 265, real:0, predict:0
+come provolone way bigger cheeses                                                                                        
+index: 270, real:0, predict:0
+always try guess rating facial expression thumbnail click video .                                                                            
+index: 271, real:0, predict:0
+keegan michael key would amazing genie way ...                                                                                
+index: 272, real:0, predict:0
+aladdin dry actor .                                                                                          
+index: 273, real:0, predict:0
+ca n't believe 'm losing rug !                                                                          
+index: 276, real:0, predict:0
+never watched live action disney remakes since alice wonderland n't intend watch one either .                                                              
+index: 277, real:0, predict:0
+pretty boring smith made somewhat better . aladdin jasmine good looking ’ really feel chemistry two                                                            
+index: 280, real:0, predict:0
+smith ’ tried copy willams , honestly feel like different character , cgi regular smith , maybe slightly larger                                                  
+index: 281, real:0, predict:0
+: sorry kids seeing aladdin . chris stuckman said ’ like much .                                                                      
+index: 282, real:0, predict:0
+   5:11 looked like power rangers episode                                                                                
+index: 283, real:0, predict:0
+totally disagree movie excellent definitely worth watch ? ? ? ? ? ? ? ? ? ? ? ? ? ?                                                      
+index: 285, real:0, predict:0
+biasedness towards robin williams really making sick . ? ?                                                                      
+index: 286, real:0, predict:0
+’ way better c- first time ’ ever disagreed chris believe excellent                                                                    
+index: 288, real:0, predict:0
+n't ... hd remasters instead live action                                                                            
+index: 289, real:0, predict:0
+n't film actual locations ! come disney 's like dont budget                                                                  
+index: 291, real:0, predict:0
+making sad overall 2 hour plus movies working ...                                                                              
+index: 292, real:0, predict:0
+someone grew watching original really liked .                                                                                    
+index: 293, real:0, predict:0
+think simba , think matthew broderick ?                                                                                  
+index: 294, real:0, predict:0
+smith    aladdin & jasmine    jaafar    iago & sultan . iago bomb cartoons .                                                  
+index: 295, real:0, predict:0
+jafar ’ beard ’ pointy enough eyebrows ’ concave enough                                                                        
+index: 296, real:0, predict:0
+wow almost 98 % comments disagree chris review aladdin bad movie .                                                                        
+index: 297, real:0, predict:0
+guy ritchie 2 thumbs .                                                                                    
+index: 298, real:0, predict:0
+n't seen , n't intended , makes disappointed sounds like movie much potential getting negative reviews . new music great , casting looks amazing , love changes jasmine 's story , yet somehow
+index: 299, real:0, predict:0
+really kicking propaganda movies high gear days . era subtlety .                                                                        
+index: 300, real:0, predict:0
+jafar creepy , old , kind flamboyant dude ! actor played jafar ’ right look voice ! : (                                                        
+index: 301, real:0, predict:0
+saw yesterday n't bad people say course n't compare original                                                                
+index: 302, real:0, predict:0
+dude , 're boring !                                                                                        
+index: 303, real:0, predict:0
+ca n't stand smith spite fact big mouth found tolerable . loved opening ending scenes family boat . loved colorful parade sequence . wicked guy irritating . n't like original hate animated disney movies ruined
+index: 304, real:0, predict:0
+never , ever compare live action original one . would never enough .                                                                          
+index: 305, real:0, predict:0
+n't watch reviews . chris , 's difference source material taking 2d drawn animation elements recreating cgi . snake staff part jaffars character , jasmine pet tiger , aladdin abu . . . think get . ca
+index: 306, real:0, predict:0
+aladdin  trash                                                                                              
+index: 307, real:0, predict:0
+hell point live action remakes ? cash grab make star wars failures .                                                                  
+index: 308, real:0, predict:0
+ok ; never seen 1992 animated version aladdin compare live action version .                                                                        
+index: 309, real:0, predict:0
+chris grew blockbuster                                                                                            
+index: 310, real:0, predict:0
+liberals sjw ’ ruining movies . many better actors could portrayed character people would complained ’ right ethnicity ? ? ? ? ?    ?                              
+index: 311, real:0, predict:0
+nostalgia completely . 'm gon na go see daughter right .. freaking loved . n't like jafar iago genie jasmine totally made .                                  
+index: 314, real:1, predict:1
+'s right gouda wins ! best cheese , ca n't change mind                                                                      
+index: 316, real:1, predict:1
+dutch knew                                                                                                
+index: 317, real:1, predict:1
+'m ford man ...                                                                                          
+index: 318, real:1, predict:1
+josh ! come make burgers ! ! luv , dude ! !                                                                        
+index: 319, real:1, predict:1
+link : `` 'm american man like america cheese ! ''                                                                        
+index: 320, real:1, predict:1
+hey ! ! guys burger topping showdown . best cheese . see pairs well cheese .                                                            
+index: 321, real:1, predict:1
+cook burgers old cast iron skillet                                                                                      
+index: 323, real:1, predict:1
+link : chev acchhhhh                                                                                          
+index: 324, real:1, predict:1
+something tells rhett 's club lol                                                                                  
+index: 325, real:1, predict:1
+said absolutely everything went mind watching movie thank                                                                                
+index: 326, real:1, predict:1
+alladin amazing , feel like critics n't giving chance .                                                                        
+index: 327, real:1, predict:1
+movie great . ’ guessing guy “ tough time ” seeing childhood live action ? boo hoo .                                                        
+index: 328, real:1, predict:1
+honestly loved remake . fan mean obsessed fan everything love . would love get new taste love .                                                              
+index: 329, real:1, predict:1
+exact thoughts coming theatre ... literally always come find reviews see 're page lol                                                              
+index: 330, real:1, predict:1
+actually love smith genie                                                                                            
+index: 335, real:1, predict:1
+seen yet . really want looks awful trailers . great review chris .                                                                      
+index: 337, real:1, predict:1
+super-awesome movie , 've already seen 6 times 3d , 3d xd 3d imax ... liked 3d imax best 3d xd close 2nd .                              
+index: 338, real:1, predict:1
+well least smith 's genie better sonic lol                                                                                  
+index: 340, real:1, predict:1
+'s funny , literally said exact thing feeling like 'm watching play . sets looked like sets play , wardrobe clean cut believable , especially street rat . actually really liked genie well . say would cast young unassuming actor
+index: 341, real:1, predict:1
+totally called . smith best part whole thing                                                                                
+index: 342, real:1, predict:1
+aladdin better lion king remake                                                                                          
+index: 344, real:1, predict:1
+movie surprisingly pretty good , especially smith genie . 'll even go far say smith 's genie best part movie .                                                
+index: 345, real:1, predict:1
+tried watch love movie                                                                                          
+index: 347, real:1, predict:1
+owowowow , smiled : )                                                                                      
+index: 348, real:1, predict:1
+yeah agree certain parts . like awkwardness , whole thing feeling like stage play jafar . , kind disagree rest . like whole set bright live action adapted animations used agree , movie remembering scott pilgrim , thought movie
+index: 349, real:1, predict:1
+hey chris . got ta tell ya , finally watched aladdin , great . n't original animated movie n't recall much . agree actor playing jafar par . movie easily b+ . ? ?              
+index: 352, real:1, predict:1
+actually loved movie , grew massively days first viewing ( saw couple times cinema ) . thought mena massoud naomi scott excellent aladdin jasmine , really captured spirit animated versions , bringing personality roles . musical numbers
+index: 354, real:1, predict:1
+agree everything said                                                                                              
+index: 357, real:1, predict:1
+'m glad chris got job future ... blockbuster video ! ! ! !                                                                      
+index: 358, real:1, predict:1
+100 % agree ! great outline work original director ’ take advantage .                                                                      
+index: 360, real:1, predict:1
+movie awesome                                                                                                
+index: 361, real:1, predict:1
+thought good movie . : )                                                                                        
+index: 362, real:1, predict:1
+enjoyed film well really care jafar feel like character bland .                                                                            
+index: 363, real:1, predict:1
+really enjoyed movie . different animated version ’ point making new movie , ’ new perspective adequate real life perspective . ? ?                                                    
+index: 364, real:1, predict:1
+opinion live version generally loved changes yeah different made good liking ’ option movie                                                              
+index: 365, real:1, predict:1
+well enjoyed lot think ’ better live action disney film . liked leads smith . feel like women always enjoy kind material middle aged men/critics ( sorry ) ... also ’ fine ’ covered dirt characters wooden cuz ’ fair
+index: 366, real:1, predict:1
+great rw                                                                                              
+index: 375, real:1, predict:1
+mediocre criticism usual ! keep ’ surprise us !                                                                            
+index: 376, real:1, predict:1
+thought good , . loved music costumes , thing trying bit original animated version still , nothing else wrong . smith blue think worked .                                            
+index: 377, real:1, predict:1
+enjoyed movie . way good original , fun cute . stop comparing might good time                                                                
+index: 378, real:1, predict:1
+yeah agree christ character jaffar & wierd magic stick suit real life movie change . prefect , watch 3 times ...                                                  
+index: 379, real:1, predict:1
+genie perfect robin williams writers robin williams mind wrote part .                                                                  
+index: 381, real:1, predict:1
+opinion , ok movie .                                                                                          
+index: 382, real:1, predict:1
+love watching videos chris , thank dedication !                                                                                
+index: 383, real:1, predict:1
+love shirts    3 videos ofcource hehe                                                                            
+index: 385, real:1, predict:1
+movie fun everyone amazing ! colors beautiful scenes smith great . could tell set also thought thing saw live action beauty beast could tell cgi . think robin williams still alive today people ’ given smith crap taking role .    
+index: 387, real:1, predict:1
+thought would horrible amazing !                                                                                          

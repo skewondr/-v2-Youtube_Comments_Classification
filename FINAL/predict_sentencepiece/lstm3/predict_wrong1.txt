@@ -1,0 +1,210 @@
+index: 5, real:1, predict:0
+good side felix , cause book review wont kill books , like meme review .                                                                  
+index: 6, real:1, predict:0
+last one made crack tears . truly heartbreaking story , including author .                                                                
+index: 20, real:0, predict:1
+regularly put eye drops eyes redness . lead long-term redness . eye doctor would approve eye drops take away redness regularly . . please .                                
+index: 26, real:1, predict:0
+courageous , confident , beautiful love .. know people give hard time imperfections make us none us perfect ...                                                    
+index: 28, real:1, predict:0
+woman sour personality .. attitude beautiful                                                                                      
+index: 29, real:1, predict:0
+love used eye drops skin                                                                                        
+index: 41, real:1, predict:0
+never thought eye skin looks like without makeup                                                                                    
+index: 44, real:1, predict:0
+omg girl prettier makeup                                                                                            
+index: 47, real:1, predict:0
+aw use mask                                                                                              
+index: 51, real:1, predict:0
+shes gorg , makeup look def                                                                                      
+index: 62, real:0, predict:1
+raise light bill                                                                                              
+index: 66, real:0, predict:1
+cover fur would fun                                                                                            
+index: 74, real:0, predict:1
+could buy $ 20 baby pup                                                                                        
+index: 75, real:0, predict:1
+robot dog looks unreal : 's cgi 's real .                                                                            
+index: 76, real:0, predict:1
+lol `` go charging station ! ''                                                                              
+index: 78, real:0, predict:1
+robot dog looks animated                                                                                            
+index: 80, real:0, predict:1
+'s cool .... robot dog never good real life dog                                                                            
+index: 82, real:0, predict:1
+buy cosmo , 's like cute little pet $ 400 aud .                                                                    
+index: 84, real:0, predict:1
+bit expensive . 3 rd generation think .                                                                                  
+index: 86, real:0, predict:1
+thing really cute .. want one . forget phone upgrade getting .                                                                          
+index: 91, real:1, predict:0
+well 's notch ? called future                                                                                    
+index: 96, real:1, predict:0
+reminds love minecraft dog                                                                                        
+index: 97, real:1, predict:0
+passed excitement ! !                                                                                        
+index: 100, real:1, predict:0
+u get real dog . price yeah u u                                                                                
+index: 103, real:1, predict:0
+ha ! robot dog , `` walking '' reminds ballerina                                                                    
+index: 104, real:1, predict:0
+poop batteries .                                                                                            
+index: 106, real:1, predict:0
+awsome robo dog ... nice review                                                                                      
+index: 107, real:1, predict:0
+want son ! ! !                                                                                          
+index: 108, real:1, predict:0
+ai dogs . pet outlive cool imo .                                                                                  
+index: 111, real:1, predict:0
+real dogs even better , still , cute thing !                                                                                
+index: 112, real:1, predict:0
+yeah worth 3000 dollars                                                                                          
+index: 113, real:1, predict:0
+terminator dog .... positives .... worries pee poo                                                                            
+index: 117, real:1, predict:0
+want one bad ...                                                                                            
+index: 127, real:1, predict:0
+damn wish girl could try .                                                                                        
+index: 137, real:1, predict:0
+last look u look fabulous , uuuuuuummmmmaaaa                                                                            
+index: 145, real:0, predict:1
+looks like year 'll say last year , let 's see 's coming next year : ) )                                                      
+index: 148, real:0, predict:1
+felt mkbhd wanted bash apple hard video controlled temper avoid excluded apple events + early phones .                                                    
+index: 150, real:0, predict:1
+n't read terms conditions                                                                                    
+index: 156, real:0, predict:1
+literally sounds like girl spongebob .                                                                            
+index: 157, real:0, predict:1
+vid dislikes likea                                                                                            
+index: 159, real:0, predict:1
+watching monday want hurt ears ’ need go school                                                                                  
+index: 167, real:1, predict:0
+love .. gnna save song                                                                                        
+index: 176, real:0, predict:1
+lol ’ funny ... youtubers actually watch video ?                                                                                
+index: 177, real:0, predict:1
+clearly people want !                                                                                            
+index: 181, real:1, predict:0
+2.1 comments find comment legend ! nice day                                                                                
+index: 183, real:0, predict:1
+move girl 're keep saying uhh ubb ughhh funny 's silly hated video . dislike                                                        
+index: 203, real:0, predict:1
+probably easy understand know github , n't understand shit : ( like git fetch 4:35 ...                                                        
+index: 210, real:1, predict:0
+get flamethrower ! ! ! !                                                                                        
+index: 214, real:0, predict:1
+really like movie honest . batman one absolute favorite heroes villains depth always liked seeing deeper look psyche character rather stab stab oh gosh man crazy . happy dc turned side comic movies , feel like 're start
+index: 219, real:1, predict:0
+movie makes feel emotions think deeper stuff creates fruitful conversation society life general people , 's good movie . movie masterpiece                                              
+index: 220, real:1, predict:0
+one best films ever made ... period .                                                                              
+index: 221, real:0, predict:1
+effing loved 'm still waiting cops show .......                                                                        
+index: 228, real:0, predict:1
+really wanted love film , n't . interesting creepy times , n't stay way get . would go far say got bored .                                              
+index: 232, real:0, predict:1
+great freaking movie love . really funny creepy much still creepy get . ’ good get mean get also one favourite movies time                                                  
+index: 240, real:0, predict:1
+pretty excited going really liked get omg movie awful many ways im usually pretty forgiving movies .                                                        
+index: 243, real:0, predict:1
+movie absolute garbage . would 0/10 ending least halfway entertaining . anyone genuinely enjoys movie 's entirety simpleton nothing .                                            
+index: 260, real:0, predict:1
+chris , watch netflix original series called travelers . 'm curious u think . personally love , 'm sad discontinued .                                          
+index: 268, real:0, predict:1
+jeremy ... dude .... chill .                                                                                      
+index: 271, real:0, predict:1
+thundercunt                                                                                              
+index: 279, real:0, predict:1
+rhett link one 9 restaurants acquire kobe beef us ? n't know .                                                              
+index: 280, real:0, predict:1
+video trend ?                                                                                              
+index: 281, real:0, predict:1
+gouda supposed pronounced way pronounce ou ouch !                                                                                
+index: 283, real:0, predict:1
+think cheese probably n't much taste , french fromage eater speaking                                                                
+index: 289, real:0, predict:1
+'m hard time getting excited disney live-action remakes .                                                                        
+index: 291, real:0, predict:1
+correct term street rat . keep original stuckmann                                                                                    
+index: 293, real:0, predict:1
+seen link king gave c thought since already seen aladdin 'll check gave c- honestly aladdin a+ cant take anyone 's word got ta see                                    
+index: 294, real:0, predict:1
+thoughts movie thoughts toy story 4 .                                                                                      
+index: 295, real:0, predict:1
+thought film fun entertaining . enjoyed alot . think looking way want film versus 's made .                                                          
+index: 297, real:0, predict:1
+numan acar actor played hakim jafar                                                                                
+index: 298, real:0, predict:1
+tried hard dislike film . sure , probably great love original , many . pleasant surprise , n't entirely met cynicism                                      
+index: 300, real:0, predict:1
+honestly liked genie smith . never noticed trying robin williams genie . see trying create something . makes sense .                                                    
+index: 301, real:0, predict:1
+honestly really enjoyed movie ’ ’ watch reviews ’ taint opinion . agree jafar though , waaayyyy overacted . really enjoyed mena aladdin though , thought adorable . also agree smith best part movie , great !                
+index: 302, real:0, predict:1
+disagree review , enjoyed movie thoroughly , great fun , guys n't trust review , believe good time , give d- shitty review                                    
+index: 303, real:0, predict:1
+next month ’ got even better live action disney film coming , lion king .                                                                  
+index: 304, real:0, predict:1
+born 1990 watched disney classics growing . remember watching whole aladdin animated series . found robin williams voiced genie documentary . kids dont care voices actors adults . would take away imagination guess .        
+index: 307, real:0, predict:1
+see disney deployed army defend latest failure comment section .                                                                          
+index: 308, real:0, predict:1
+disagree . jafar actor great job making jafar realistic villain                                                                                
+index: 314, real:0, predict:1
+finished entire aladdin series recently honestly got pretty used dan castellaneta voicing genie guess 'm one n't think genie synonymous robin williams .                            
+index: 317, real:0, predict:1
+must disney turn every animated movie live action . next lion king . cartoon version perfect . broadway version one stunning shows . something left alone .                                    
+index: 319, real:0, predict:1
+’ know stuckmann talking . film great . may smith haters eat crow .                                                                    
+index: 325, real:1, predict:0
+make 12 burgers 2 guys                                                                                          
+index: 327, real:1, predict:0
+10:17 chevrolet needed                                                                                        
+index: 328, real:1, predict:0
+fact american beat swiss cheddar automatically loses credibility video                                                                      
+index: 330, real:1, predict:0
+dutch cheese : p                                                                                            
+index: 331, real:1, predict:0
+literally taking footage away us video make us pay see                                                                          
+index: 332, real:1, predict:0
+gourmet burger like something 'd get cut .                                                                                
+index: 333, real:1, predict:0
+watching link bite frustrating reminds squidward biting krabby patty burger lol                                                              
+index: 337, real:1, predict:0
+winner shoulda named big cheese burger boi !                                                                              
+index: 341, real:1, predict:0
+aladdin 's singing voice spot original .                                                                                  
+index: 343, real:1, predict:0
+would give aladdin 2019 - b-                                                                                      
+index: 344, real:1, predict:0
+thank ! feel like smith actually saved film cause song dance scenes , cute , film would 've complete dud , scenes seem rushed , overall movie dull ehh ; honestly c movie                    
+index: 346, real:1, predict:0
+0:43 “ um meow ? ” ? ? ? ?                                                                        
+index: 347, real:1, predict:0
+really disagree review , thought really good fan aladdin .                                                                                
+index: 357, real:1, predict:0
+thank , acting terrible ! could n't watch whole thing could n't get past cheesy acting .                                                  
+index: 358, real:1, predict:0
+shirt ? ?                                                                                              
+index: 361, real:1, predict:0
+let say this  you hollywood ! ! ! bollywood ! ! !                                                                          
+index: 362, real:1, predict:0
+tbh enjoyed movie . thought one better disney remakes                                                                                
+index: 364, real:1, predict:0
+enjoyed movie felt like could taken peek movie prince persia action sequences thought pop better ..                                                            
+index: 369, real:1, predict:0
+'d give aladdin b grade . agree acting seemed cheesy flat parts , jafar character/acting/direction n't work well . however , pleasantly surprised highly entertained start finish . notable , musical scene
+index: 370, real:1, predict:0
+movie excellent , nailed replicating songs original smith put emotion parts like first arabian night song . acting overall good interesting take ethnicity everyone authentic area .                              
+index: 371, real:1, predict:0
+jaafar best part shit movie . didnt try make look like cartoon , reimagined .                                                                
+index: 372, real:1, predict:0
+jafar played mark strong .                                                                                        
+index: 376, real:1, predict:0
+matter people criticized movie , still big fan aladdin . tell ? already watch four times .                                                                
+index: 381, real:1, predict:0
+dude , ,. , u make look movies diffrently great way .. love channel get stuckmanized ! ! ! !                                                    
+index: 387, real:1, predict:0
+hmm think reason costumes looked perfect disney film musical . went something gritty real would awkward characters randomly burst song .                                            

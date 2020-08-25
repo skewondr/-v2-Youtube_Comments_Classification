@@ -1,0 +1,230 @@
+index: 1, real:0, predict:1
+ really thought book mormon reference damnit drama kid disappointed
+index: 6, real:1, predict:0
+ last one made crack tears truly heartbreaking story including author
+index: 15, real:1, predict:0
+ comfy
+index: 26, real:1, predict:0
+ courageous confident beautiful love know people give hard time imperfections make us none us perfect
+index: 27, real:1, predict:0
+ skin actually looked really good homemade mask
+index: 29, real:1, predict:0
+ love used eye drops skin
+index: 41, real:1, predict:0
+ never thought eye skin looks like without makeup
+index: 43, real:1, predict:0
+ maravilhosaaa
+index: 44, real:1, predict:0
+ omg girl prettier makeup
+index: 47, real:1, predict:0
+ aw use mask
+index: 51, real:1, predict:0
+ shes gorg makeup look def
+index: 64, real:0, predict:1
+ fully developed technology
+index: 74, real:0, predict:1
+ could buy 20 baby pup
+index: 75, real:0, predict:1
+ robot dog looks unreal 's cgi 's real
+index: 76, real:0, predict:1
+ lol go charging station ''
+index: 78, real:0, predict:1
+ robot dog looks animated
+index: 81, real:0, predict:1
+ yeah dogs movement looks like smooth dog animation
+index: 86, real:0, predict:1
+ thing really cute want one forget phone upgrade getting
+index: 88, real:0, predict:1
+ like real dog want destroy robot
+index: 90, real:1, predict:0
+ 6 41 dancin ’
+index: 91, real:1, predict:0
+ well 's notch called future
+index: 95, real:1, predict:0
+ officially cutest episode unbox therapy
+index: 96, real:1, predict:0
+ reminds love minecraft dog
+index: 97, real:1, predict:0
+ passed excitement
+index: 100, real:1, predict:0
+ u get real dog price yeah u u
+index: 106, real:1, predict:0
+ awsome robo dog nice review
+index: 107, real:1, predict:0
+ want son
+index: 108, real:1, predict:0
+ ai dogs pet outlive cool imo
+index: 111, real:1, predict:0
+ real dogs even better still cute thing
+index: 112, real:1, predict:0
+ yeah worth 3000 dollars
+index: 113, real:1, predict:0
+ terminator dog positives worries pee poo
+index: 120, real:0, predict:1
+ eyeliner past 11 years still get right one always try basic n reason never comes smooth even usually always end wearing makeup cuz think eyeliner complicated
+index: 125, real:1, predict:0
+ loved looks tried mine favorite drama and winged
+index: 127, real:1, predict:0
+ damn wish girl could try
+index: 137, real:1, predict:0
+ last look u look fabulous uuuuuuummmmmaaaa
+index: 144, real:0, predict:1
+ damm intro pro phone
+index: 150, real:0, predict:1
+ n't read terms conditions
+index: 153, real:1, predict:0
+ knew ’ get camera review without saying quite good pixel
+index: 156, real:0, predict:1
+ literally sounds like girl spongebob
+index: 157, real:0, predict:1
+ vid dislikes likea
+index: 158, real:0, predict:1
+ 1 11 trying act like cool girls oh forgot ’
+index: 159, real:0, predict:1
+ watching monday want hurt ears ’ need go school
+index: 160, real:0, predict:1
+ first song show aliens get area 51
+index: 161, real:0, predict:1
+ pigeon dying wait thats voice
+index: 164, real:1, predict:0
+ shes fun fun fun fun
+index: 165, real:1, predict:0
+ like one love rebecca black music annoying orange music friday song
+index: 166, real:1, predict:0
+ rebecca black strongg confident woman honestly srslyyyy hats giving hate age thirteen love rebeccaaaaa
+index: 167, real:1, predict:0
+ love gnna save song
+index: 174, real:0, predict:1
+ behalf youtube community proud say website slowly dying boredom literally
+index: 176, real:0, predict:1
+ lol ’ funny youtubers actually watch video
+index: 177, real:0, predict:1
+ clearly people want
+index: 180, real:1, predict:0
+ thing good dog part
+index: 181, real:1, predict:0
+ 2 1 comments find comment legend nice day
+index: 183, real:0, predict:1
+ move girl 're keep saying uhh ubb ughhh funny 's silly hated video dislike
+index: 186, real:1, predict:0
+ skin perfect tho
+index: 190, real:1, predict:0
+ oh god cute love video 's bored mean usually youtuber '' make topic boring
+index: 191, real:0, predict:1
+ knowledge dijkstra yet video failed prove
+index: 205, real:0, predict:1
+ hii siraj
+index: 210, real:1, predict:0
+ get flamethrower
+index: 213, real:0, predict:1
+ love film joaquin amazing negative opinion reference taxi driver de niro film ironically
+index: 214, real:0, predict:1
+ really like movie honest batman one absolute favorite heroes villains depth always liked seeing deeper look psyche character rather stab stab oh gosh man crazy happy dc turned side comic movies feel like 're starting great new movie series universe batman universe bit confused past movies movie makes excited future
+index: 219, real:1, predict:0
+ movie makes feel emotions think deeper stuff <UKN> <UKN> conversation society life general people 's good movie movie masterpiece
+index: 221, real:0, predict:1
+ <UKN> loved 'm still waiting <UKN> show
+index: 224, real:0, predict:1
+ rotten tomatoes audience score <UKN>
+index: 238, real:0, predict:1
+ <UKN> saw <UKN> mind annoyed subtlety used review im glad movie makes excited movies hes gon na make dude clearly mind unexpected cant wait see else makes even though doesnt like cast white people whatever reason
+index: 240, real:0, predict:1
+ pretty excited going really liked get omg movie awful many ways im usually pretty <UKN> movies
+index: 260, real:0, predict:1
+ chris watch netflix original series called <UKN> 'm curious u think personally love 'm sad <UKN>
+index: 262, real:0, predict:1
+ movie goddamn weird hell
+index: 266, real:0, predict:1
+ change rating interstellar leave alone
+index: 270, real:0, predict:1
+ like <UKN> 'm <UKN>
+index: 279, real:0, predict:1
+ rhett link one 9 restaurants <UKN> <UKN> beef us n't know
+index: 281, real:0, predict:1
+ gouda supposed pronounced way pronounce <UKN> ouch
+index: 282, real:0, predict:1
+ cheddar best whoever eliminated n't allowed <UKN>
+index: 286, real:0, predict:1
+ link <UKN> face
+index: 289, real:0, predict:1
+ 'm hard time getting excited disney live action remakes
+index: 291, real:0, predict:1
+ correct term street rat keep original stuckmann
+index: 293, real:0, predict:1
+ seen link king gave c thought since already seen aladdin 'll check gave c honestly aladdin a cant take anyone 's word got ta see
+index: 295, real:0, predict:1
+ thought film fun entertaining enjoyed alot think looking way want film versus 's made
+index: 298, real:0, predict:1
+ tried hard dislike film sure probably great love original many <UKN> surprise n't entirely met <UKN>
+index: 300, real:0, predict:1
+ honestly liked genie smith never noticed trying robin williams genie see trying create something makes sense
+index: 301, real:0, predict:1
+ honestly really enjoyed movie ’ ’ watch reviews ’ <UKN> opinion agree jafar though <UKN> <UKN> really enjoyed mena aladdin though thought adorable also agree smith best part movie great
+index: 302, real:0, predict:1
+ disagree review enjoyed movie thoroughly great fun guys n't trust review believe good time give <UKN> shitty review
+index: 304, real:0, predict:1
+ born <UKN> watched disney classics growing remember watching whole aladdin animated series found robin williams voiced genie <UKN> kids dont care voices actors adults would take away imagination guess
+index: 308, real:0, predict:1
+ disagree jafar actor great job making jafar realistic villain
+index: 309, real:0, predict:1
+ bought everything said lion king 's definitely harsh aladdin brings along something new seems fresh actors good job changes plot made story believable <UKN> understood stuff works animation others n't yes <UKN> like song speechless could 've done something better instead jasmine walking around dissolving everyone <UKN> front overall team
+index: 312, real:0, predict:1
+ bad movie fucking good time movie blast
+index: 314, real:0, predict:1
+ finished entire aladdin series recently honestly got pretty used <UKN> <UKN> <UKN> genie guess 'm one n't think genie synonymous robin williams
+index: 317, real:0, predict:1
+ must disney turn every animated movie live action next lion king cartoon version perfect broadway version one stunning shows something left alone
+index: 319, real:0, predict:1
+ ’ know stuckmann talking film great may smith haters eat <UKN>
+index: 326, real:1, predict:0
+ <UKN> <UKN> <UKN>
+index: 327, real:1, predict:0
+ 10 17 <UKN> needed
+index: 328, real:1, predict:0
+ fact american beat swiss cheddar automatically loses <UKN> video
+index: 331, real:1, predict:0
+ literally taking <UKN> away us video make us pay see
+index: 332, real:1, predict:0
+ <UKN> burger like something 'd get cut
+index: 333, real:1, predict:0
+ watching link bite frustrating reminds squidward biting <UKN> <UKN> burger lol
+index: 339, real:1, predict:0
+ actually rated cheese
+index: 340, real:1, predict:0
+ kept waiting jafar 's giant cobra form right end
+index: 341, real:1, predict:0
+ aladdin 's singing voice spot original
+index: 343, real:1, predict:0
+ would give aladdin 2019 b
+index: 349, real:1, predict:0
+ enjoyed <UKN> fun feel thought chris wants take bright <UKN> <UKN> cause 's live action agree bit long simple plot
+index: 357, real:1, predict:0
+ thank acting terrible could n't watch whole thing could n't get past cheesy acting
+index: 359, real:1, predict:0
+ totally agree chris aladdin bland stiff <UKN> magic 's <UKN>
+index: 361, real:1, predict:0
+ let say <UKN> you hollywood bollywood
+index: 364, real:1, predict:0
+ enjoyed movie felt like could taken <UKN> movie prince persia action <UKN> thought pop better
+index: 366, real:1, predict:0
+ favourite movie reviewer fair <UKN> trust content without question scared watch movie everything ’ said watching review ’ certain ’ give movie pass ’ wait come <UKN> <UKN> lol guess ’ going watch john wick tonight instead
+index: 369, real:1, predict:0
+ 'd give aladdin b grade agree acting seemed cheesy flat parts jafar character acting direction n't work well however pleasantly surprised highly entertained start finish notable musical scenes <UKN> seemed impact original animated film big <UKN>
+index: 371, real:1, predict:0
+ jaafar best part shit movie didnt try make look like cartoon <UKN>
+index: 372, real:1, predict:0
+ jafar played mark strong
+index: 376, real:1, predict:0
+ matter people <UKN> movie still big fan aladdin tell already watch four times
+index: 377, real:1, predict:0
+ wow actually thought performances carried movie including aladdin jasmine ’ super nostalgic original ’ lens first movie actually got caught romance lol made happy sitting theatre hearing little kids around <UKN> <UKN> excitement though maybe liked much <UKN> movie giving magic small children ’ sure original gave parents sure kids
+index: 378, real:1, predict:0
+ review really <UKN> felt movie
+index: 379, real:1, predict:0
+ watched going see movie ready disappointed highly enjoyed movie loved songs much smith <UKN> ’ wait
+index: 381, real:1, predict:0
+ dude u make look movies <UKN> great way love channel get stuckmanized
+index: 386, real:1, predict:0
+ saw movie 's aids aids
+index: 387, real:1, predict:0
+ hmm think reason costumes looked perfect disney film musical went something gritty real would awkward characters <UKN> burst song

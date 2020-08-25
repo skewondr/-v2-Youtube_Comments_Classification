@@ -1,0 +1,242 @@
+index: 0, real:0, predict:1
+ well read crime punishment '' n't get enjoy busy writing essays
+index: 4, real:1, predict:0
+ “ good testimony good writer tell seemingly uninteresting story captivate reader ”
+index: 11, real:1, predict:0
+ love videos n't stop making
+index: 16, real:0, predict:1
+ also vitiligo feel uncomfortable especially bikini
+index: 17, real:0, predict:1
+ ’ stunning attitude ’ going cut
+index: 19, real:0, predict:1
+ ’ bothering ’ calling palette “ times ” “ x ” collabs usually implies “ ” “ kim kardashian times winnie ” like equation lol
+index: 24, real:1, predict:0
+ love tries cover vitiligo especially around eye area
+index: 30, real:1, predict:0
+ love wow ive never seen talk shes real cute raw 3
+index: 37, real:1, predict:0
+ said little shoelace brows
+index: 39, real:1, predict:0
+ looks like big sister
+index: 40, real:1, predict:0
+ complete beauty queen
+index: 43, real:1, predict:0
+ 's good
+index: 55, real:0, predict:1
+ nothing earth replace love real dog
+index: 57, real:0, predict:1
+ thats call ai artificial intelligence
+index: 59, real:0, predict:1
+ 's slow
+index: 60, real:0, predict:1
+ pay 3000 cure depression
+index: 62, real:0, predict:1
+ lol 3000 could probably buy real dog
+index: 63, real:0, predict:1
+ packaging literally giant beats pill
+index: 71, real:0, predict:1
+ release robot girlfriend single boys
+index: 72, real:0, predict:1
+ real dogs best pets world
+index: 74, real:0, predict:1
+ ’ cool gimmick kids rich parents anyone real dog knows comparison dog chilling feet watch bathroom
+index: 75, real:0, predict:1
+ ’ enough money buy rolex guess ’ buy robot dog
+index: 79, real:1, predict:0
+ nobody going talk robot dog actually really cute
+index: 83, real:1, predict:0
+ 'll end newsflare feel good story abandoned robot dog found living building site rusted low batteries etc etc
+index: 86, real:1, predict:0
+ cant stop laughing dog pick bone damn funny video brother
+index: 87, real:1, predict:0
+ think another 50 years robot able mimic movement regular dogs
+index: 88, real:1, predict:0
+ adorable love excitement like little kid christmas maybe price come bit us middle class folks purchase one thank unboxing always entertaining
+index: 91, real:1, predict:0
+ cute ’ imagine replacing real friend
+index: 97, real:1, predict:0
+ soon movements much smoother firmware 2 0
+index: 103, real:1, predict:0
+ 2018 robot dog 'm waiting androids 2038 cyberlife
+index: 104, real:1, predict:0
+ kick lit
+index: 105, real:1, predict:0
+ wish cutey birth day
+index: 107, real:0, predict:1
+ thing nice side different
+index: 115, real:1, predict:0
+ amaging style
+index: 121, real:1, predict:0
+ made look easy
+index: 123, real:0, predict:1
+ thought use ultra wide camera 11 quality ’ good standard lens glad ’ trippin
+index: 124, real:0, predict:1
+ 13 25 one bit mum picks
+index: 125, real:0, predict:1
+ intro tho daaaamnnn
+index: 129, real:0, predict:1
+ still 6 baby woooo
+index: 130, real:0, predict:1
+ ok review think much content features shows good quality video
+index: 131, real:0, predict:1
+ iphone 6s slow actually dead battery life
+index: 134, real:1, predict:0
+ using iphone 6 feel like ’ stone ages
+index: 135, real:1, predict:0
+ 's funny apple logo top iphone xs already looks off
+index: 136, real:1, predict:0
+ marques need hold quarter next phone hands looks like iphone 5 nice review
+index: 138, real:1, predict:0
+ time grab popcorn comment section
+index: 140, real:1, predict:0
+ tech channel level attention detail cinematography love mkbhd videos made please eye sooth mind
+index: 141, real:1, predict:0
+ really like innovative menu layout
+index: 143, real:1, predict:0
+ hey marques great video felt n't talk thickness phone looks bulky
+index: 145, real:1, predict:0
+ need win contest need phone thtz typing honestly
+index: 147, real:0, predict:1
+ fact internet ruined life utterly disgusting
+index: 148, real:0, predict:1
+ swear video dislikes views
+index: 152, real:0, predict:1
+ almost eight years later 's still hilarious fucked many people seemingly took way seriously
+index: 155, real:1, predict:0
+ song great many dislikes
+index: 157, real:1, predict:0
+ ok video iconic whether hate
+index: 161, real:0, predict:1
+ friend cringey thing ever seen
+index: 166, real:0, predict:1
+ 2 million people hated much turned phone upside disliked
+index: 168, real:1, predict:0
+ imagine juicy 2019 rewind 'd better get 20 million dislikes
+index: 172, real:0, predict:1
+ 'm fan idk y'all hating mean looked bomb end
+index: 176, real:1, predict:0
+ ’ care catfish beautiful way everyone
+index: 177, real:1, predict:0
+ used like hate reason watched fell love w shes funny sweet yall
+index: 179, real:1, predict:0
+ everyday makeup ugh girl really strong mind great would never able everyday
+index: 191, real:0, predict:1
+ dirty nail
+index: 192, real:0, predict:1
+ n't know got much views good sure explaining n't simply wasted time least confirm knowledge something releasing video pathetic
+index: 195, real:1, predict:0
+ think ur concept much good ur way expression really simple really good thank u
+index: 196, real:0, predict:1
+ great intro one complaint animated graphics often felt like sync narration confusing first eventually made sense
+index: 200, real:0, predict:1
+ haha flame throwers
+index: 205, real:0, predict:1
+ watching movie hours ago got home fanilly able watch brawl cell block 99 '' got ta say think joker fine guess brawl really really good movie character shit
+index: 206, real:0, predict:1
+ ok favorite reviewer new films 'm certain one one cause love heath joker since similar taste 'm going give joaquin try looks like great job plus say dives mental illness really cause alot regular people n't know mental illness truly effects people 's nothing take lightly great review
+index: 212, real:1, predict:0
+ love media discuss media <UKN> controversy
+index: 213, real:1, predict:0
+ watch heath ledger
+index: 214, real:1, predict:0
+ saw movie yesterday incredible someone struggles mental health could relate man however would n't go around <UKN> people lol understand means <UKN> world thats sad
+index: 220, real:0, predict:1
+ one movies ever seen bad laughed cause bad
+index: 231, real:0, predict:1
+ easily one <UKN> movies 've ever seen walking cinema honestly n't know think n't know liked think speaks <UKN> kind movie actually performances <UKN> soundtrack subtle sounds truly creepy yet beautiful extremely weird movie 'm still processing much enjoyed journey took mind <UKN> thats sure
+index: 233, real:0, predict:1
+ loved get ca n't wait see one
+index: 251, real:0, predict:1
+ hmm 've watched two reviews one people loving film giving 4 10 'll watch
+index: 253, real:0, predict:1
+ exact plot get smart
+index: 257, real:0, predict:1
+ go screen <UKN> movie fights
+index: 272, real:0, predict:1
+ think link ’ open <UKN>
+index: 273, real:0, predict:1
+ continue put tomatoes links food 'm actually curious like running joke 'm missing
+index: 274, real:0, predict:1
+ <UKN> structured video
+index: 275, real:0, predict:1
+ swiss still king mythical crew biased
+index: 280, real:0, predict:1
+ iago sounded much <UKN> intimidating jafar 's problem sometimes iago even talks back jafar mean come really thought iago bigger villain
+index: 283, real:0, predict:1
+ loved movie complaints
+index: 284, real:0, predict:1
+ honestly loved thought smith awesome jafar character thought really <UKN> portrayed
+index: 285, real:0, predict:1
+ love movie fast paced charming
+index: 288, real:0, predict:1
+ well ’ ironic chris
+index: 289, real:0, predict:1
+ awesome shirt
+index: 291, real:0, predict:1
+ true smith best thing movie aladdin 's actor horrible
+index: 294, real:0, predict:1
+ 's good honest <UKN> nice work
+index: 295, real:0, predict:1
+ ” ’ clean ” exactly problem star wars prequels
+index: 296, real:0, predict:1
+ ’ think put enough special effects
+index: 297, real:0, predict:1
+ genie played jim <UKN> honestly could carried <UKN> robin extent
+index: 300, real:0, predict:1
+ always thought jafar would <UKN> link movie sultan also <UKN> portrayed compared animated character
+index: 304, real:0, predict:1
+ yeah came cheesey trying hard like cartoon version 'd rather portrayed like real person opinion
+index: 306, real:0, predict:1
+ looks like loosing ability enjoy movies <UKN> picking things
+index: 308, real:0, predict:1
+ ok say think <UKN> think <UKN> <UKN>
+index: 313, real:0, predict:1
+ n't agree single thing think far best disney animation actors awesome
+index: 317, real:0, predict:1
+ heard soundtrack terrible actor <UKN> alladin sounds like talking instead singing didnt like remade “ aint never friend like ” either beat <UKN> music sounded really good <UKN> poor <UKN> think wait <UKN> im already dissapointed im seeing hearing
+index: 318, real:0, predict:1
+ thought tom <UKN> thumbnail
+index: 319, real:1, predict:0
+ look <UKN> section
+index: 321, real:1, predict:0
+ 6 08 <UKN> thing 've heard
+index: 326, real:1, predict:0
+ clearly tomato <UKN> n't work link lol
+index: 328, real:1, predict:0
+ ’ <UKN> josh cooked god
+index: 331, real:1, predict:0
+ hold minute thought link liked tomatoes <UKN>
+index: 334, real:1, predict:0
+ feel like link sort tomato <UKN> assistant food eats show
+index: 343, real:1, predict:0
+ found boring times overall okay smith definitely favourite part sold genie quickly made laugh times
+index: 346, real:1, predict:0
+ critics harsh every regular person ik loved
+index: 348, real:1, predict:0
+ developed crush naomi scott <UKN> <UKN> ranger jasmin made obsession amazing jasmine plus n't know could sing amazed great singing voice
+index: 349, real:1, predict:0
+ dont get people really people complain ’ animated already seen honestly enjoyed movie great
+index: 353, real:1, predict:0
+ chris genuinely believe comment section <UKN> <UKN> like well usual
+index: 354, real:1, predict:0
+ love movie entertaining love fact <UKN> style scenes style wizard movies past decades addition clear style bollywood movies addition gave characters background story love movie
+index: 359, real:1, predict:0
+ please review big fish tim <UKN>
+index: 361, real:1, predict:0
+ agree review mostly plain bored throughout whole film felt character development forced could n't emotionally connect characters first disney remake hated far still n't seen lion king yet 'm excited
+index: 364, real:1, predict:0
+ omg exactly <UKN> feel movie
+index: 372, real:1, predict:0
+ movie <UKN> hell time expecting smith good guy ritchie back
+index: 373, real:1, predict:0
+ many comments movie smith sure best part
+index: 376, real:1, predict:0
+ actually really enjoyed movie definitely tops list terms disney live action remakes
+index: 379, real:1, predict:0
+ hit mark remember lines get million dollars real hard
+index: 381, real:1, predict:0
+ movies see year
+index: 382, real:1, predict:0
+ good comparison characters actors notable <UKN> mufasa james earl jones 'm glad voice lion king coming soon
+index: 384, real:1, predict:0
+ n't bad liked spin songs really good cringe worthy moments smith genie great actors playing aladdin jasmine cute jafar suck villain feel like role played way much

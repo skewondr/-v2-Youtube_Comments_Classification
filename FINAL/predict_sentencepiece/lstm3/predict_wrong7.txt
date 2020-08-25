@@ -1,0 +1,196 @@
+index: 0, real:0, predict:1
+books die review                                                                                              
+index: 7, real:1, predict:0
+fukin love read . suggestions awesome , mainstream . keep                                                                          
+index: 8, real:1, predict:0
+one point literally forget watching pewdiepie 's video ... 's really different regular content .... like                                                            
+index: 12, real:1, predict:0
+like videos dont give synopsis books . give teaser release synopsis end video separately . spoil books wont enjoyable people wants read .                                  
+index: 14, real:1, predict:0
+love much . long enough .                                                                                        
+index: 15, real:1, predict:0
+series may youtube ’ favourite .                                                                                        
+index: 17, real:0, predict:1
+shes using metal fork mask , oh : (                                                                                
+index: 19, real:0, predict:1
+u would gorgeous u nice personality sis , shame                                                                                  
+index: 21, real:0, predict:1
+shes rude                                                                                              
+index: 22, real:0, predict:1
+dont knw dont like anymore ... feel bitter words .. good !                                                                    
+index: 23, real:0, predict:1
+hate spend time speaking makeup really well .                                                                                    
+index: 47, real:1, predict:0
+gourges                                                                                              
+index: 57, real:0, predict:1
+someone get man puppy ! : )                                                                                      
+index: 63, real:0, predict:1
+moment realize skynet coming much possible .                                                                                    
+index: 64, real:0, predict:1
+might cool ’ beet real dog                                                                                      
+index: 65, real:0, predict:1
+cool worth 3000 , buy used motor cycle much                                                                          
+index: 69, real:0, predict:1
+still toy anyway                                                                                              
+index: 74, real:0, predict:1
+looks cool                                                                                                
+index: 76, real:0, predict:1
+much tech                                                                                                
+index: 85, real:0, predict:1
+everyone afraid robots taking world ? ...                                                                                
+index: 88, real:1, predict:0
+9 years old got                                                                                            
+index: 92, real:1, predict:0
+mean real dog seeing similarities awesome , also good people allergic dogs animals general still want pet                                                        
+index: 94, real:1, predict:0
+train dogs help robot doghow idea                                                                                      
+index: 101, real:1, predict:0
+watching robot videos make want get                                                                                        
+index: 102, real:1, predict:0
+“ comes japan ”                                                                                        
+index: 106, real:1, predict:0
+n't need go training dog                                                                                    
+index: 123, real:0, predict:1
+feel like look almost exactly : /                                                                                    
+index: 124, real:0, predict:1
+ca n't eyelashes long always get way : ( eye twitches allot makes hard !                                                      
+index: 129, real:1, predict:0
+'s good like ... 's gon na useful thank                                                                              
+index: 132, real:1, predict:0
+u r eyes sooo nice decorative god                                                                                
+index: 141, real:0, predict:1
+need blind test 2.0 pixel 4 op7t release .                                                                            
+index: 142, real:0, predict:1
+using    caseyneistat ’ usual intro sounds huh ? ... guess ’ mind ...                                                              
+index: 145, real:0, predict:1
+phones good ’ video consist ’ phone geez                                                                                    
+index: 146, real:0, predict:1
+made apple logo back fingerprint scanner . also , prices start 64 gb storage , awfully shameful .                                          
+index: 147, real:0, predict:1
+look apple think old phone                                                                                          
+index: 150, real:1, predict:0
+went apple website said 'pro ' many times actually got migraine                                                                      
+index: 151, real:1, predict:0
+new iphone 11 features                                                                                            
+index: 154, real:1, predict:0
+wow , good quality review !                                                                                      
+index: 158, real:1, predict:0
+made laugh intro getting numerous people move objects way                                                                        
+index: 159, real:1, predict:0
+apple great job 2019                                                                                            
+index: 160, real:1, predict:0
+368 intro tune ... loving                                                                                        
+index: 163, real:0, predict:1
+everybody shut im looking old comments                                                                                    
+index: 165, real:0, predict:1
+still looks like got bad diarrhoea entire clip .                                                                          
+index: 166, real:0, predict:1
+illegal                                                                                              
+index: 169, real:0, predict:1
+mature content ,                                                                                              
+index: 170, real:0, predict:1
+way smiles never looks away camera makes feel threatened                                                                            
+index: 171, real:1, predict:0
+honestly watching back knowing like 13/14 middle school , song ’ worst                                                                      
+index: 176, real:1, predict:0
+good person video safiya                                                                                          
+index: 177, real:1, predict:0
+’ happy fortnite ded                                                                                        
+index: 183, real:1, predict:0
+ah rmr fb friends loren beech ! ! n u deactivated ur facebook .                                                            
+index: 195, real:0, predict:1
+thank much                                                                                                
+index: 200, real:1, predict:0
+made small mistakes middle , better videos                                                                                
+index: 207, real:1, predict:0
+3rd comment                                                                                              
+index: 210, real:0, predict:1
+one gon na talk amazing joker impression                                                                                      
+index: 211, real:0, predict:1
+agree everything thor ragnarok good movie haha                                                                                  
+index: 213, real:0, predict:1
+main problem people serious conversation economic disparity joker mascot dispossessed .                                                          
+index: 216, real:1, predict:0
+one best movies ever created . 10/10                                                                                      
+index: 232, real:0, predict:1
+idk saw tonight honesty pretty disappointing imo . everyone theatre thought well lol . reviews interested wanting see . watching feel reviews bit overatted . acting great , movie overall dissapointing thats opinion .          
+index: 235, real:0, predict:1
+chris trying hard make movie seem good .. good try brother                                                                              
+index: 237, real:0, predict:1
+usually see pretty much eye eye almost reviews point ’ kind go new theater releases . sadly ’ disagree . loved get felt like film extraordinary letdown . ’ paid see film , never mind go second viewing . unbelievabl
+index: 240, real:0, predict:1
+felt like many flaws . many opportunities kill main characters . instead                                                                
+index: 243, real:0, predict:1
+know lot people n't dig movie 's cool film felt way lovecraftian 'get ' .                                                        
+index: 247, real:0, predict:1
+cant believe love film . great acting agree , great blend comedy/tension starting , loved tim heidecker , great first half , stupid story/explanation/and ending 've seen maybe ever .          
+index: 256, real:0, predict:1
+soo nakia ’ baku went black panther got dusted snap                                                                      
+index: 270, real:0, predict:1
+cheddar                                                                                                  
+index: 273, real:0, predict:1
+'ve pretty much summed problems film . fun time , constantly asking : enjoying film genuinely good , reminded loved original ?                                      
+index: 278, real:0, predict:1
+'ll give meh ( thank stuckman ! ) lol                                                                              
+index: 283, real:0, predict:1
+top 3 cartoon actors role                                                                                          
+index: 284, real:0, predict:1
+give blockbuster t-shirt c minus                                                                                      
+index: 286, real:0, predict:1
+’ disney , would disappointed characters dirt etc costumes , want bright colourful . things ’ need authentic !                                                      
+index: 287, real:0, predict:1
+heh funny , n't know star lord movie reviews ...                                                                          
+index: 291, real:0, predict:1
+agree good aladdin                                                                                              
+index: 296, real:0, predict:1
+naomi scott ( princess jasmine ) always bassist chick lemonade mouth .                                                              
+index: 302, real:0, predict:1
+'s pretty much felt songs : mostly low-energy disney movie . person walking along singing camera follows . quite boring actually . movie whole n't bad .                      
+index: 307, real:0, predict:1
+'s musical . bad musical .                                                                                      
+index: 308, real:0, predict:1
+found annoying kept calling tiger cat ...                                                                                
+index: 312, real:0, predict:1
+ummm clarify things story based famous mesopotamian ( iraqi ) story , even movies made 1940 ’ still outraged based beautiful love story , yes iraq middle east general tiger pet actually quite normal . saudi
+index: 322, real:1, predict:0
+thats gooda cheese . lol                                                                                        
+index: 324, real:1, predict:0
+cheddar course !                                                                                            
+index: 326, real:1, predict:0
+addicted youtubeburger                                                                                            
+index: 334, real:1, predict:0
+love , saying jasmine friends tiger less realistic boy raised wolves ... ? ? ?                                                            
+index: 338, real:1, predict:0
+great review ! based trailers seen , might see netflix amazon .                                                                    
+index: 340, real:1, predict:0
+watched chris long enough know score expression thumbnail. ? ?                                                                            
+index: 342, real:1, predict:0
+really ca n't wait dvd come people make aladdin 2019 's smith                                                                  
+index: 344, real:1, predict:0
+one thing end old movie made feel like wanted part world like wanted stay like want hang characters end one felt exact way wanted hang smith running hang actors jasminei thought everybody pretty good job agree see exactly come 
+index: 349, real:1, predict:0
+thought movie good . expecting pure crap reviews 's really bad . smith excellent way .                                                                
+index: 352, real:1, predict:0
+chris stuckmann awkward expression thumbnail ... oh boy .                                                                                
+index: 356, real:1, predict:0
+knew ! saw trailer n't problem smith jafar n't scary .                                                                    
+index: 359, real:1, predict:0
+loved movie ! ! ! ! totally entertained time sat till left ! ! ! ! 13. 13. 13. 13. 13.                                                    
+index: 360, real:1, predict:0
+thought aladdin movie fun baddest thing 've ever seen life died talking aladdin movie one worst things 've ever seen life n't seen anybody youtuber never say n't know think thank would never like anybody say
+index: 364, real:1, predict:0
+smith aladdin like ben affleck batman v superman . everyone assumed would worst part movie far best part movies .                                                  
+index: 365, real:1, predict:0
+hyped live action version bugs life ( know ’ )                                                                            
+index: 374, real:1, predict:0
+damn pretty rough one , ’ good decent movie                                                                                
+index: 375, real:1, predict:0
+got way high standards movies stop movie good . yeah little long good actors good .                                                              
+index: 377, real:1, predict:0
+thank , chris ! 'm one silly originalists literally understand need remake disney classic live action . 's point ? need see beauty beast live action , need see jungle book . especially need see aladdin , one critical reason
+index: 379, real:1, predict:0
+saw movie last night pretty much took words right mouth . thing different would say though jasmines new song felt place stylistaclly . sounded way modern .                              
+index: 381, real:1, predict:0
+nothing wrong actors/actress ' acting . thought mena massoud great job . unless 're used seeing white lead actors confuse race actors talent acting . probs movie script director .                  
+index: 383, real:1, predict:0
+   chrisstuckmann - could think temple doom ! realthe sri lanka village - emaciated extras . magnificent palace bedrooms dining room . railway car racing firey blaze actual temp

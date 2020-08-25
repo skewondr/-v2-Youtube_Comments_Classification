@@ -1,0 +1,190 @@
+index: 8, real:1, predict:0
+personal development sooooosososo important . congratulations , felix- new personal development “ coach . ”                                                        
+index: 23, real:0, predict:1
+eyeshadow bad                                                                                            
+index: 25, real:0, predict:1
+   mixedmakeup needs beautiful girl !                                                                                  
+index: 28, real:0, predict:1
+protect yurself , matter job 're                                                                                  
+index: 31, real:1, predict:0
+'s freekin gorgeous                                                                                          
+index: 51, real:0, predict:1
+great person lost pet dog never dies , well break , would ?                                                                        
+index: 54, real:0, predict:1
+done replacing humans .                                                                                        
+index: 58, real:0, predict:1
+love technology ’ super scared humandroids ’ basically robot looks exactly like human                                                                    
+index: 62, real:0, predict:1
+stay minecraft dog                                                                                            
+index: 64, real:0, predict:1
+proof robots going take us                                                                                      
+index: 68, real:0, predict:1
+dog looked screen walked away.hes sitting corner . think feels hurt                                                                  
+index: 69, real:0, predict:1
+think cute realize 's machine .                                                                                      
+index: 78, real:0, predict:1
+fast perfect                                                                                                
+index: 79, real:1, predict:0
+still like cozmo ! uwu                                                                                        
+index: 82, real:1, predict:0
+well dog gives fun !                                                                                        
+index: 83, real:1, predict:0
+bought one yesterday ’ good dog .                                                                                
+index: 85, real:1, predict:0
+honestly ... instead buying 20k phone 'll buy aibo car                                                                        
+index: 94, real:1, predict:0
+'s cool really cute goddamn creepy time ...                                                                                
+index: 95, real:1, predict:0
+better way spend $ 3000                                                                                          
+index: 108, real:0, predict:1
+whenever 'm making winged liner look never make two eyes look .... get pissed sometimes                                                              
+index: 121, real:1, predict:0
+'m bihar put eyeliner easily ok !                                                                                
+index: 131, real:1, predict:0
+amzing great job nycc                                                                                      
+index: 132, real:0, predict:1
+couldnt agree . nothing phone screams pro . got ta love marketing strategy though , super retina xdr lol really                                            
+index: 137, real:0, predict:1
+intro sick                                                                                                
+index: 138, real:0, predict:1
+intro- miss 368                                                                                            
+index: 139, real:1, predict:0
+almost looks like 've put green screen ..                                                                                
+index: 141, real:1, predict:0
+$ 1099 smartphone 64gb word “ pro ”                                                                            
+index: 142, real:1, predict:0
+spoilt consumer guy ..                                                                                        
+index: 143, real:1, predict:0
+lenses lol slap wok cook curry ffs 's real innovation                                                                      
+index: 145, real:0, predict:1
+always confused random black guy showed                                                                                        
+index: 146, real:0, predict:1
+feels weird watching know story behind video .                                                                                
+index: 147, real:0, predict:1
+smile hard hurts jaw watching                                                                                        
+index: 148, real:0, predict:1
+2019 still know think song                                                                                          
+index: 153, real:0, predict:1
+never disliked video first place really n't deserve hate frickin lost said `` tomorrow saturday sunday comes afterwards '' idk laughed much                            
+index: 157, real:1, predict:0
+song gave depression depression                                                                                          
+index: 164, real:1, predict:0
+thing like k pop cardi b combi                                                                                    
+index: 165, real:1, predict:0
+love youtube use copyright music xd                                                                                      
+index: 170, real:0, predict:1
+loren : * talks brooke whole video *                                                                                
+index: 177, real:0, predict:1
+pronunciation correct                                                                                          
+index: 179, real:0, predict:1
+good job ! helped lot .                                                                                      
+index: 189, real:1, predict:0
+thanks covering basic fundamentals .                                                                                      
+index: 191, real:1, predict:0
+like ironic way camoflage shirt keeps dissolving green-screen !                                                                    
+index: 196, real:0, predict:1
+film ’ glorification mental illness violence .                                                                                
+index: 205, real:0, predict:1
+a- ? would like hear think could done better ? think 's perfect origins story .                                                              
+index: 210, real:0, predict:1
+watch fx 's legion series chris . guarantee 'll fall love driven video analyzing .                                                      
+index: 217, real:0, predict:1
+shirt hard bro                                                                                              
+index: 221, real:0, predict:1
+movies started good ended badly                                                                                      
+index: 224, real:0, predict:1
+great film , really enjoyed , lot unexplained feel needs explaining . come first place ? made like clones start , exist place things , marry people , kids etc. ? also , many others , showed
+index: 227, real:0, predict:1
+want say , n't really care us                                                                                  
+index: 240, real:0, predict:1
+surprises see , critic fan psychological horror genre found movie somehow 'brilliant ' . movie nemesis detail nonsensical evil plan minutes front wo n't ever ne good . terrible movie , 2/10          
+index: 247, real:0, predict:1
+minute dude said get excellent knew didnt know shit good movies lol                                                                          
+index: 255, real:0, predict:1
+stop cussing . kids might watching channel                                                                            
+index: 256, real:0, predict:1
+agree needing ambiguous still great movie . jordan great casting right actors movies . yes lupita fucken awesome !                                                        
+index: 266, real:0, predict:1
+movie basically remake get smart ... wtf                                                                                      
+index: 270, real:0, predict:1
+interesting fact ( okay , really ) movie titled spy , 2011 .                                                                      
+index: 273, real:0, predict:1
+hypnosis sham ! ! !                                                                                        
+index: 274, real:0, predict:1
+gorgonzola good !                                                                                        
+index: 275, real:0, predict:1
+headcheese                                                                                                
+index: 276, real:0, predict:1
+aladdin amazing . really enjoying . ive sat around today house watched 3 times . problem jafar . felt n't person part . lacks performance n't voice .. . love . 9/10 would 10/10 jafar different . take c- bullshit
+index: 278, real:0, predict:1
+saw without watching reviews , big fan original movie thought fantastic .                                                                        
+index: 280, real:0, predict:1
+give movie b+ . smith awesome , consistently laughing . think actors choose great . however , give good call outs .                                                
+index: 287, real:0, predict:1
+leads look wooden                                                                                            
+index: 294, real:0, predict:1
+aladdin guy mena massoud , . referred actors name .                                                                            
+index: 295, real:0, predict:1
+everybody quick judge smith making fresh prince jokes . makes wonder .....                                                                
+index: 296, real:0, predict:1
+good , gon na watch .                                                                                        
+index: 302, real:0, predict:1
+disagree constrained bland performances . , remember , fairy tale romance , disney movie aims wholesome appropriate ages . aladdin n't jump jasmine swearing raunchy stuff , make bland us actually like sort movie .        
+index: 304, real:0, predict:1
+looked like power ranger episode xd 'm ded                                                                                  
+index: 308, real:0, predict:1
+’ loyal subscriber always agree reviews ! one time ’ going politely disagree ! went expecting worse watching review ended loving ! many high expectations people .                                
+index: 313, real:1, predict:0
+mythical society confirmed elitists live bubble .                                                                            
+index: 316, real:1, predict:0
+man hope ’ slowly transfer everything mythical society                                                                                
+index: 324, real:1, predict:0
+cheddar best cheese burger                                                                                            
+index: 325, real:1, predict:0
+everyone upset mozzarella 'm glad gouda place cheese overlord .                                                                            
+index: 326, real:1, predict:0
+guys like brooks dunn youtube                                                                                        
+index: 333, real:1, predict:0
+“ sets looks like sets ” ’ exactly bugged trailer ...                                                                      
+index: 334, real:1, predict:0
+felt like watching b movie think lighting overly clean cloths like mentioned terrible acting .                                                        
+index: 336, real:1, predict:0
+finally someone else agrees set costumes looked perfect looked like set                                                                        
+index: 339, real:1, predict:0
+reviews usually match liking movie . first time drastically differ rating . movie good . c- way low . easily b+ even a-                                    
+index: 344, real:1, predict:0
+oooof finally someone said think movie                                                                                      
+index: 348, real:1, predict:0
+c'mon chiris .... 'm keenly anticipating review godzilla - kotm ! !                                                    
+index: 351, real:1, predict:0
+90 mins original versus 2 hours ? !                                                                            
+index: 352, real:1, predict:0
+true . feel like movie trying hard                                                                                      
+index: 354, real:1, predict:0
+please review avatar want know opinion favourite movie bad                                                                                
+index: 356, real:1, predict:0
+’ movie jasmine sultan - ? ? ? ? ? ? ? ?                                                                          
+index: 358, real:1, predict:0
+’ even know matthew broderick voiced simba                                                                                
+index: 359, real:1, predict:0
+seems disney fallen make look like cosplay trap ruined many manga/anime live action adaptations .                                                    
+index: 360, real:1, predict:0
+dude n't watch deciding go see movie would irresponsible ....                                                                    
+index: 363, real:1, predict:0
+hearing “ hundred bad guys swords ” worth price admission                                                                    
+index: 367, real:1, predict:0
+entertaining movie aight !                                                                                          
+index: 371, real:1, predict:0
+spanish , genie voiced original actor animated movies n't different .                                                                      
+index: 373, real:1, predict:0
+harsh score . b minimum . completely surprised movie .                                                                        
+index: 376, real:1, predict:0
+feel looking movie thru live action movie glass think easiest digest think : loyal adaptation cartoon movie . better look different perspective                                                
+index: 377, real:1, predict:0
+agree . new jafar played understated . n't top n't seem menacing .                                                              
+index: 380, real:1, predict:0
+saw movie . 's fucking good . go watch .                                                                          
+index: 384, real:1, predict:0
+need t-shirt life ! !                                                                                      
+index: 387, real:1, predict:0
+nice review ! go cinema sunday . main reason nostalgia aladdin one first movies saw silver screen .                                                      

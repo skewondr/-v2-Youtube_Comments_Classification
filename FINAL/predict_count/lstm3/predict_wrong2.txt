@@ -1,0 +1,210 @@
+index: 1, real:1, predict:0
+ pretty decent review longer human though flaws story
+index: 22, real:0, predict:1
+ sorry ’ ’ beautiful rotten ’ fat shamed women makes fun modes natural hair beef everyone antm including tyra
+index: 28, real:1, predict:0
+ love put face mask fork
+index: 34, real:1, predict:0
+ winnie ur suppose use metal utensils apply gets rid healing properties acv clay use products face mask
+index: 39, real:1, predict:0
+ sis 're perfect need know got hair bc frontal exist
+index: 54, real:1, predict:0
+ goodness really makeup really well wasnt fan lip color eye look goodness foundation point even brows amazing palette seem nice kinda would like see palettes thanks vogue
+index: 56, real:0, predict:1
+ unboxing dog come
+index: 57, real:0, predict:1
+ number things bone
+index: 63, real:0, predict:1
+ jesus christ even android dog cute
+index: 66, real:0, predict:1
+ 'd rather buy real dog
+index: 68, real:0, predict:1
+ 3000 robot dog spend 700 husky
+index: 70, real:0, predict:1
+ robot dog 1supreme box logo hoodie
+index: 71, real:0, predict:1
+ sky net terminator watch
+index: 73, real:0, predict:1
+ technology seriously come far
+index: 74, real:0, predict:1
+ never die
+index: 75, real:0, predict:1
+ ’ take safety settings ’ child ’ play situation
+index: 82, real:1, predict:0
+ cemetery gives respects
+index: 86, real:1, predict:0
+ amazing hahahah
+index: 91, real:1, predict:0
+ extra 3k id buy
+index: 95, real:1, predict:0
+ even though ’ robot makes sad breaks
+index: 104, real:1, predict:0
+ find red button better find someday
+index: 107, real:1, predict:0
+ robotic dog cant much real dog could 's 3 times much
+index: 110, real:1, predict:0
+ really sven wont die
+index: 113, real:0, predict:1
+ 've tried many times eyeliner like feline one never works 's left eye 's pretty good right eye looks like total crap
+index: 123, real:1, predict:0
+ thanks telling
+index: 126, real:1, predict:0
+ gained new subscriber thankuu soo much
+index: 136, real:0, predict:1
+ 'll stick nokia flip phone
+index: 137, real:0, predict:1
+ intro feels like homage verge 's intro
+index: 138, real:0, predict:1
+ dang nevermind video made want iphone anymore lol
+index: 144, real:1, predict:0
+ almost making long term android user switch
+index: 146, real:1, predict:0
+ leeeean bit chunker
+index: 160, real:1, predict:0
+ excited hahaha
+index: 164, real:1, predict:0
+ 's funny everyone hates song every single friday someone sings
+index: 170, real:0, predict:1
+ youtube still ignoring biggest channel huh
+index: 175, real:0, predict:1
+ “ let ’ give people want ” lmao one wanted
+index: 179, real:1, predict:0
+ 'm proud community
+index: 180, real:1, predict:0
+ ’ funny disliked youtube video ever ’ made youtube
+index: 181, real:0, predict:1
+ kids use words ’ crazy like ’ really use word “ iconic ” like 15 16
+index: 184, real:0, predict:1
+ looked weird eye lined
+index: 187, real:1, predict:0
+ watched youtube 10 years youtuber 4 years found today wtf
+index: 189, real:1, predict:0
+ look subscribers views means probably subscribers watched video
+index: 203, real:0, predict:1
+ loved way u explain thank u alot
+index: 210, real:0, predict:1
+ 3 05 start list repositories reverse order shown makes difficult follow description makes whole video untrusty
+index: 212, real:0, predict:1
+ seriously could n't digest second ai ml wizard like ever make video
+index: 215, real:1, predict:0
+ 2 54 flamethrower tesla cars looks good idea
+index: 218, real:1, predict:0
+ thank giving quick overview git github
+index: 220, real:0, predict:1
+ looking forward seeing film ’ want support paedophile shape form
+index: 225, real:1, predict:0
+ excellent movie
+index: 228, real:0, predict:1
+ get stuckmanized got <UKN> <UKN> ever created
+index: 230, real:0, predict:1
+ disagree 'm quite happy one aspect film talked left ambiguous would much rather get <UKN> answer like got
+index: 239, real:0, predict:1
+ movie struggle <UKN> poverty the <UKN>
+index: 245, real:0, predict:1
+ would give us b
+index: 247, real:0, predict:1
+ actually bland
+index: 254, real:0, predict:1
+ cant see casting white dude lead
+index: 256, real:0, predict:1
+ sudden loud intro scared shit
+index: 271, real:0, predict:1
+ melissa mccarthy discount kevin james female <UKN> <UKN> stale <UKN> play fat card
+index: 274, real:0, predict:1
+ love guys honestly taste food <UKN> say least rarely agree <UKN> like sweet <UKN> american c'mon cheddar best burger brand also matters <UKN> win
+index: 276, real:0, predict:1
+ basically done soon chevre mozzarella <UKN> swiss best option burger cheddar
+index: 279, real:0, predict:1
+ gooda wow really guys say
+index: 281, real:0, predict:1
+ way link biting burger weird
+index: 286, real:0, predict:1
+ movie n't compare childhood
+index: 287, real:0, predict:1
+ jaffar thought cobra commander
+index: 288, real:0, predict:1
+ little thank end made whole day
+index: 289, real:0, predict:1
+ omg chris spot review felt sets costumes ’ look lived felt like low budget play
+index: 290, real:0, predict:1
+ watched day got feeling feeling like stage looked weird could n't explain 's said 's clean looks set city
+index: 292, real:0, predict:1
+ ’ agree stuckmann
+index: 293, real:0, predict:1
+ nah liked lot taking <UKN> always watch things listen critics say remember enjoyment nostalgic value something objectively <UKN>
+index: 295, real:0, predict:1
+ aladdin would 've perfect would 've cut pop song speechless scene added epic snake scene
+index: 299, real:0, predict:1
+ finally know set looks like always like man looks like something never could put finger looks like <UKN> 2 <UKN> <UKN> hahaha blue <UKN> <UKN> stand <UKN> funny
+index: 302, real:0, predict:1
+ stop harsh mena think great job aladdin
+index: 303, real:0, predict:1
+ watched movie review chris saying
+index: 305, real:0, predict:1
+ movie looks like bollywood movie
+index: 306, real:0, predict:1
+ thought main thing ruined movie music honestly one memorable things disney movies let 's face music <UKN> <UKN> wrote songs <UKN> one would sing musical theater reason allows characters sing emotion <UKN> 're feeling since aladdin musical allowing songs ability convey emotion audience pretty important weird try turn songs pop
+index: 308, real:0, predict:1
+ give
+index: 314, real:0, predict:1
+ always following useful well explained reviews however aladdin completely disagree nothing felt cheesy weak spectacular movie every possible aspect two hours full enjoyment surprised n't find anything good say movie
+index: 315, real:0, predict:1
+ really n't understand people enjoyed alladin big part childhood could life finish movie start oh cringe singing although good right terrible <UKN> <UKN> things n't even want finish comment account <UKN> film
+index: 317, real:0, predict:1
+ singing pretty bad ’ line plus time expression songs ’ match expression actors also “ speechless ” song jasmine sang <UKN> <UKN> ’ added mean scene ’ music scene regular scene raw feelings would ’ effective hey ’ disney smith good though really carried film
+index: 322, real:0, predict:1
+ liked original really liked live action movie entertaining fun throughout whole movie audience lots <UKN> smith probably person could pull incredibly well villain entertaining jasmine outstanding loved music disney fans go see
+index: 324, real:0, predict:1
+ holy shit could never <UKN> point <UKN> <UKN> could <UKN> <UKN> watch chris nailed never felt real lived like prequels
+index: 325, real:0, predict:1
+ <UKN> princess tiger hard jungle book full talking animals giant <UKN> totally fine
+index: 327, real:1, predict:0
+ 10 28 actually <UKN> way represent french speaking english 'm french
+index: 328, real:1, predict:0
+ inside maybe daddy brought outside <UKN>
+index: 333, real:1, predict:0
+ mozzarella <UKN> '' <UKN> <UKN>
+index: 337, real:1, predict:0
+ people say ’ rhett ’ <UKN>
+index: 338, real:1, predict:0
+ ca n't stand tomatoes either
+index: 343, real:1, predict:0
+ watched movie entertaining smith entertaining overall better expected
+index: 344, real:1, predict:0
+ character portrayed well movie magic carpet
+index: 346, real:1, predict:0
+ ok godzilla king <UKN> comes next week ’ chill
+index: 347, real:1, predict:0
+ think mena find role real expectations went enjoyed
+index: 349, real:1, predict:0
+ jafar looks like power rangers villain lol
+index: 353, real:1, predict:0
+ loved know everyone likes shit live action remakes saw aladdin <UKN> magic saw animated version enjoyed immensely
+index: 357, real:1, predict:0
+ saw movie enjoyed alot
+index: 359, real:1, predict:0
+ smith kept movie charismatic
+index: 364, real:1, predict:0
+ family <UKN> time excellent movie totally disagree
+index: 368, real:1, predict:0
+ see cinderella really life <UKN> tiger unreal lol guy almost stop watching point
+index: 369, real:1, predict:0
+ thank chris stuckman making want go film school respect met would <UKN> much respect
+index: 372, real:1, predict:0
+ n't bad
+index: 373, real:1, predict:0
+ staff thing good jafar
+index: 374, real:1, predict:0
+ lol chris <UKN> saying several good things movie 7 <UKN>
+index: 376, real:1, predict:0
+ feel like everyone looks clean <UKN> dumb thats original cartoon nobody outside dude 2 <UKN> dirty cartoon lol
+index: 379, real:1, predict:0
+ thing disliked movie jasmine 's song speechless n't original soundtrack adding new songs beloved classic madness anything could sang beautiful <UKN> whole new world instead maybe <UKN> sense sense eyes open new world aladdin showed <UKN> believe n stand jafar save kingdom even cost life
+index: 382, real:1, predict:0
+ jafar upon time wonderland far better <UKN> well performance even snake staff
+index: 383, real:1, predict:0
+ jafar dutch actor watch movie called <UKN> '
+index: 385, real:1, predict:0
+ 's siberian tiger 's <UKN> bengal tiger named <UKN>
+index: 387, real:1, predict:0
+ ways come movie <UKN> interest sadly far days <UKN>

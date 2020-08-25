@@ -1,0 +1,216 @@
+index: 0, real:1, predict:0
+ 'm glad scroll comments see recommended books recommended books good btw prefer mystery
+index: 12, real:0, predict:1
+ ’ always terrified eye drops
+index: 17, real:0, predict:1
+ talking hair damage girl 're wearing wig buy another one l
+index: 19, real:0, predict:1
+ seems like let fame go head everyone else shoe
+index: 46, real:1, predict:0
+ clue culturally jamaican like little bit
+index: 48, real:1, predict:0
+ fork winning beauty secrets '' best facial tool ever
+index: 49, real:1, predict:0
+ one huda beauty
+index: 58, real:0, predict:1
+ matter smart
+index: 60, real:0, predict:1
+ still love dog poops bed
+index: 63, real:0, predict:1
+ thanks sony 'll stick real dog
+index: 65, real:0, predict:1
+ 300 bucks k 3k
+index: 68, real:0, predict:1
+ one eye camera creep
+index: 69, real:0, predict:1
+ ’ need ’ need ’ need ’ need
+index: 74, real:0, predict:1
+ ok dog also beatboxing 'm done
+index: 76, real:0, predict:1
+ dog super cute price tag way high guess 'll settle anki vector
+index: 78, real:0, predict:1
+ 'd rather buy real dog 's 1 3rd price
+index: 79, real:1, predict:0
+ feel like hes real dog see walk cute im like hes gon na die one day actualky isnt im happy
+index: 84, real:1, predict:0
+ dog super adorable
+index: 88, real:1, predict:0
+ holy shit thing even real
+index: 97, real:1, predict:0
+ osmmmmmmm bro nice robot dag man osmmmmmmm like dog cost 3000 cast indian
+index: 100, real:1, predict:0
+ damn robot dog cool
+index: 104, real:0, predict:1
+ gel eyeliner may give rough lines liquid gives smooth lines
+index: 105, real:0, predict:1
+ bold looks like panda
+index: 106, real:0, predict:1
+ love smooth reason find really hard correctly
+index: 109, real:1, predict:0
+ put perfectly barely use hand like stretch eyelid hold place tape guidelines put looked clean hell
+index: 112, real:1, predict:0
+ fail life girl could never lol awesome
+index: 122, real:1, predict:0
+ lupe netro 're pretty good putting eyeliner
+index: 127, real:1, predict:0
+ learned lot video thanks 's whenever put eyeliner lashes get 's way get 's realy messy
+index: 135, real:0, predict:1
+ let 's honest glass glass technical estimator specialist glass hate haha
+index: 136, real:0, predict:1
+ omg n't say 's guys mkbhd '' beginning
+index: 138, real:0, predict:1
+ saw today got ta kidding evolution unit minimal note10 much nicer one bulky unit
+index: 139, real:0, predict:1
+ apple already forgot completely company innovation
+index: 143, real:0, predict:1
+ 're slick marques
+index: 144, real:0, predict:1
+ sht phone apple died steve jobs
+index: 147, real:1, predict:0
+ ‘ love see „ whats iphone “
+index: 149, real:1, predict:0
+ intro solid
+index: 150, real:1, predict:0
+ call
+index: 151, real:1, predict:0
+ ios 13 make 's phone glitch
+index: 154, real:1, predict:0
+ phone cool 'm gon na buy
+index: 155, real:0, predict:1
+ ca n't watch video knowing 13 year old girl fell deep depression
+index: 158, real:0, predict:1
+ song stole hopes dreams
+index: 159, real:0, predict:1
+ tied friends hands made listen said artist better favorite
+index: 160, real:0, predict:1
+ seems guys car forced sit rebecca lamo
+index: 161, real:0, predict:1
+ feel bad friends car
+index: 163, real:0, predict:1
+ conservative estimate 2 per 1000 views current adense youtube ad rates terrible video made 250 000 october 2019 bad steaming pile
+index: 165, real:1, predict:0
+ song really n't bad 's 14 year old singing age appropriate song
+index: 166, real:1, predict:0
+ hated song kid probably radio hits time abysmal immature 's fine special definitely worth hate grow eventually rebecca hope slam haters
+index: 175, real:0, predict:1
+ 've lost brain cells video
+index: 177, real:0, predict:1
+ watching literally missed everything got nothing right
+index: 180, real:0, predict:1
+ get comment 1200 dislikes
+index: 181, real:1, predict:0
+ rewind pew dids way better
+index: 184, real:0, predict:1
+ literally ’ even look different without makeup ’ lighter skin tone mascara ’ different
+index: 186, real:1, predict:0
+ first time watching loren video like already seriously expect act like thought 's like bitchy type sorry loren
+index: 190, real:1, predict:0
+ wish skin pimples compared mine
+index: 191, real:1, predict:0
+ way opens mouth wide open mascara
+index: 192, real:1, predict:0
+ make y'all u n't like
+index: 194, real:0, predict:1
+ wow wrongly explained
+index: 195, real:0, predict:1
+ made easy
+index: 197, real:0, predict:1
+ problem short really explain well algorithm
+index: 202, real:1, predict:0
+ nice vedio bro
+index: 204, real:0, predict:1
+ flamethrower hahahah good one
+index: 205, real:0, predict:1
+ coffee definitely overflow
+index: 206, real:0, predict:1
+ videos fun watch
+index: 209, real:0, predict:1
+ like hotter movie expression worst
+index: 217, real:0, predict:1
+ chris love content say joker reminds taxi driver hold film bad point 's like saying sex scenes remind porn n't matter movie reminds another long 're watching good 's merits n't matter
+index: 238, real:0, predict:1
+ watched movie liked im actually thinking jordan peele really thought movie coz watched <UKN> movie decade ago theres many similarities
+index: 245, real:0, predict:1
+ strongly disagree
+index: 251, real:0, predict:1
+ movie reminds movie elemento <UKN> horror movie elemento better watch
+index: 257, real:0, predict:1
+ n't love sooo boring
+index: 265, real:0, predict:1
+ great acting boring movie
+index: 268, real:0, predict:1
+ went see film lot excitement came away disappointed ever trailer better film
+index: 270, real:0, predict:1
+ <UKN> n't love
+index: 271, real:0, predict:1
+ arm <UKN> completely <UKN> using arm
+index: 285, real:0, predict:1
+ personally put muenster burgers family loves
+index: 286, real:0, predict:1
+ personally put muenster burgers family loves
+index: 287, real:0, predict:1
+ <UKN> rhett actually ford owner
+index: 288, real:0, predict:1
+ grown man picky
+index: 289, real:0, predict:1
+ review <UKN>
+index: 290, real:0, predict:1
+ dude imagine someone 's issue every clean perfect get
+index: 291, real:0, predict:1
+ oh idea guy ritchie directed love older films style though <UKN> sure ’ perfect hopes gets bad period
+index: 292, real:0, predict:1
+ watched 1 <UKN> speed worked
+index: 295, real:0, predict:1
+ new sub enjoyed commentary
+index: 307, real:0, predict:1
+ nostalgia new market
+index: 311, real:0, predict:1
+ made new prince persia
+index: 312, real:0, predict:1
+ know went wrong making guy ritchie direct movie guy ritchie great director disney musical come
+index: 315, real:0, predict:1
+ critics hating movie songs great smh def <UKN> chris
+index: 319, real:0, predict:1
+ saw today almost fell asleep 's hard watch best part aladdin <UKN> prince ali nice 20 30 minutes rest film blah
+index: 321, real:0, predict:1
+ god n't want hear jafar sing prince ali
+index: 330, real:1, predict:0
+ need burger badly way getting one thanks gmm
+index: 331, real:1, predict:0
+ mouth watering whole video
+index: 337, real:1, predict:0
+ thought movie fun thought could gave head nod robin williams though
+index: 340, real:1, predict:0
+ made boyfriend sit 's never even disney person imagine annoyed lol
+index: 346, real:1, predict:0
+ honest got theater low expectations good time ’ really funny
+index: 347, real:1, predict:0
+ ’ seen yet everyone ’ talked loved it
+index: 348, real:1, predict:0
+ story good casting much would loved ben kingsley jaffar
+index: 349, real:1, predict:0
+ jafar went intimidating creepy character 12 year old temper <UKN>
+index: 350, real:1, predict:0
+ sounds like musical
+index: 353, real:1, predict:0
+ understand points felt parts film little bland ’ get feel jafar legit villain instead felt like mad mind jealous personality also felt couple parts film little cheesy
+index: 358, real:1, predict:0
+ really really really loved movie grew original nostalgia trip remakes disney ’ time <UKN> allowed sell childhood second time enjoyed thoroughly every <UKN>
+index: 360, real:1, predict:0
+ sorry n't feel story getting stretched story getting stretched 're trying hard compare animated version still trying let go good flick
+index: 362, real:1, predict:0
+ loved movie good chemistry <UKN> actors jafar bit weak
+index: 364, real:1, predict:0
+ n't think staff weird 'm used jafar staff animated jafar older maybe could claim walking <UKN> would 've liked movie <UKN> jafar using <UKN> second wish
+index: 368, real:1, predict:0
+ movie fine naomi scott princess jasmine fantastic great feeling one film become huge good great <UKN>
+index: 377, real:1, predict:0
+ liked movie old heads must remember kids movie
+index: 378, real:1, predict:0
+ ’ know heard seen things animated aladdin never actually seen animated version watched live action one although agree understand ’ coming still love live action version watch open mind want enjoy <UKN> expectations ’ compare original since ’ never watched still think judge <UKN> original disappointed side also think boring
+index: 381, real:1, predict:0
+ imagine adult watching aladdin <UKN> would think film kids movie <UKN> much robin williams made <UKN> adults really think live action film thing
+index: 383, real:1, predict:0
+ interesting <UKN> critics audiences movie 57 <UKN> critic rating <UKN> audience rating
+index: 384, real:1, predict:0
+ story chris stuckmann ’ opinions got flip turned upside okay call crazy fucking love movie went thinking would awful saw entertained loved smith loved music loved visuals even stale characters aladdin jasmine jafar starting grow <UKN> film read getting shitty reviews kinda got let critics ’ like much decided check

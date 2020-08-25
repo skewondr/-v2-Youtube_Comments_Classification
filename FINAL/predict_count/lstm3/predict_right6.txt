@@ -1,0 +1,528 @@
+index: 0, real:1, predict:1
+ becoming favorite videos watch
+index: 1, real:1, predict:1
+ longer human adapted manga man myth junji ito
+index: 3, real:1, predict:1
+ love book reviews listen chores like podcast
+index: 4, real:1, predict:1
+ really really love 've started type commentary 's educational fulfilling
+index: 6, real:1, predict:1
+ longer human sounds interesting 'll def checking love book reviews amazing job
+index: 7, real:1, predict:1
+ felix 're amazing 3
+index: 8, real:1, predict:1
+ favorite series youtube u go depth earth really enjoy keep great work poods
+index: 9, real:1, predict:1
+ still waiting next book review
+index: 10, real:1, predict:1
+ first one videos ’ watched ’ expect serious like
+index: 11, real:1, predict:1
+ never knew felix reader honestly really enjoy types videos feel like see true personality feel like types videos would like making rather people want make lot people ’ understand grow personality change interests change anyway ’ really proud putting honestly kind content really inspiring something similar content ’ inspiring read
+index: 13, real:1, predict:1
+ last book tears
+index: 14, real:1, predict:1
+ greatest idea ever awesome job best aspect much make people wan na read included
+index: 15, real:1, predict:1
+ love keep uo good work
+index: 16, real:1, predict:1
+ dice man sounds neat 've using coin flips minor decisions lot lately
+index: 19, real:1, predict:1
+ thought bible
+index: 20, real:1, predict:1
+ kind content subscribed love pewds
+index: 22, real:1, predict:1
+ awesome reviewing books damn
+index: 23, real:1, predict:1
+ nuce musuc background chill also didnt know book reviews interesting maybe could hear opinion book called les miserables personal favourite moment cool manage read four books one month
+index: 24, real:1, predict:1
+ really like book reviews
+index: 25, real:1, predict:1
+ happens series best
+index: 27, real:0, predict:0
+ love past ruined vibe video
+index: 28, real:0, predict:0
+ ca n't use metal fork green clay bc loses properties
+index: 29, real:0, predict:0
+ metal fork aztec clay mask giving anxiety iykyk
+index: 31, real:0, predict:0
+ please n't use metal utensil aztec clay mask reduces effectiveness mask
+index: 32, real:1, predict:1
+ 's gorgeous woman like skin
+index: 33, real:1, predict:1
+ 's insane vitiligo even exists human body insane also winnie incredibly likeable
+index: 34, real:1, predict:1
+ video relaxing love look voice soothing
+index: 35, real:1, predict:1
+ yessss ive waiting video confused makeup vitiligo long
+index: 36, real:1, predict:1
+ beautiful beauty tutorial ever
+index: 37, real:1, predict:1
+ beautiful vitiligo look like flower around lips nose
+index: 38, real:1, predict:1
+ uma pessoa maravilhosa
+index: 39, real:1, predict:1
+ gorgeous girl
+index: 40, real:1, predict:1
+ love used fork put mask
+index: 41, real:1, predict:1
+ perfect
+index: 42, real:1, predict:1
+ beautiful
+index: 43, real:1, predict:1
+ skin beautiful
+index: 46, real:1, predict:1
+ 's beautiful
+index: 47, real:1, predict:1
+ 's pretty tho
+index: 48, real:1, predict:1
+ omg makeup sooooooooo nice ’ perfect ’ need wish like
+index: 49, real:1, predict:1
+ pretty without vitiligo n't think would 've arrived moreover kind bully 'm amazed much appearance deceiving 's useless pretty outside 're rotten core
+index: 50, real:1, predict:1
+ pretty love fact accept self cover vitillego love realy bravoooooooo
+index: 51, real:1, predict:1
+ beautiful sheeee wow
+index: 52, real:1, predict:1
+ wow beautiful
+index: 53, real:1, predict:1
+ lucky girl beautiful
+index: 54, real:1, predict:1
+ get beautiful
+index: 55, real:1, predict:1
+ wow cute
+index: 57, real:1, predict:1
+ beautiful
+index: 58, real:1, predict:1
+ eye drops used great stoner
+index: 59, real:1, predict:1
+ pretty
+index: 60, real:1, predict:1
+ linda
+index: 61, real:1, predict:1
+ disease much 'm happy see someone embracing
+index: 62, real:0, predict:0
+ think camera insinde record
+index: 65, real:0, predict:0
+ nooo please dont replace dogs mans best friend imagine everyone got loveee dogs heart breaks heart
+index: 66, real:0, predict:0
+ robots replacing animal 's first step robot apocalypse
+index: 67, real:0, predict:0
+ spends 8k figure robot
+index: 69, real:0, predict:0
+ 've seen dogs get freaked rumbas think ahit would scare dogs
+index: 70, real:0, predict:0
+ n't emotions n't feel guilty destroys something dogs best atleast emotions
+index: 73, real:0, predict:0
+ n't like roomba driving around ur house scanning everything send info data server dog
+index: 76, real:0, predict:0
+ lame
+index: 77, real:0, predict:0
+ little slow movements
+index: 78, real:0, predict:0
+ get real dog 3000
+index: 79, real:0, predict:0
+ russian hacker put ai algorithm inside
+index: 80, real:0, predict:0
+ love dogs ending c
+index: 81, real:0, predict:0
+ real dogs danger
+index: 82, real:0, predict:0
+ imagine spending 3000 dollars robot dog instead getting real dog
+index: 84, real:0, predict:0
+ one would choose real dog robotic one
+index: 85, real:0, predict:0
+ walking creeps little bit
+index: 87, real:0, predict:0
+ truly different sony dog real dog
+index: 90, real:0, predict:0
+ dont u think movements bit weird
+index: 91, real:0, predict:0
+ ca n't protect burglars
+index: 92, real:0, predict:0
+ think could watching sleep
+index: 94, real:0, predict:0
+ dog difficulty moving around bone issues guess
+index: 96, real:1, predict:1
+ mom get dog
+index: 97, real:1, predict:1
+ cutest unboxing ever
+index: 98, real:1, predict:1
+ 3 08 love genuine laugh
+index: 100, real:1, predict:1
+ 0 50 ibone '' yes currently
+index: 101, real:1, predict:1
+ 'll get one keep bunny entertained 'm gone
+index: 102, real:1, predict:1
+ 'd rather spend 3000 dollars robot dog buying iphone x xd
+index: 107, real:1, predict:1
+ 'm alergic dogs makes want get dog
+index: 108, real:1, predict:1
+ imma buy claim future
+index: 110, real:1, predict:1
+ sony makes robot incredibly
+index: 112, real:1, predict:1
+ 'm dog person i'am cat person robot kinda cool want one
+index: 113, real:1, predict:1
+ hilarious im addicted crazy dog intelligent manufacturing brilliant job sony go ahead
+index: 115, real:1, predict:1
+ people want immortal dog
+index: 116, real:1, predict:1
+ 's great cute
+index: 118, real:1, predict:1
+ future
+index: 122, real:1, predict:1
+ beautiful eyes u
+index: 123, real:1, predict:1
+ nice loved double wing helpful thanks
+index: 124, real:1, predict:1
+ wow 's super love may prefer marriage like ur cat look liner 's amaze
+index: 125, real:1, predict:1
+ 's perfect
+index: 126, real:1, predict:1
+ perfect
+index: 127, real:1, predict:1
+ nice thanks beautiful gril
+index: 128, real:1, predict:1
+ ahaaa look beautiful
+index: 129, real:1, predict:1
+ amazing
+index: 130, real:1, predict:1
+ realy beautiful
+index: 131, real:1, predict:1
+ amazing eyeliner
+index: 132, real:1, predict:1
+ great tips havent seen
+index: 133, real:1, predict:1
+ thank much
+index: 134, real:1, predict:1
+ god u hands practice nice
+index: 135, real:1, predict:1
+ amazing
+index: 136, real:1, predict:1
+ beautiful
+index: 137, real:1, predict:1
+ amazing
+index: 138, real:1, predict:1
+ omg genius
+index: 139, real:1, predict:1
+ nice nice iliner thanks
+index: 140, real:1, predict:1
+ like liner sytle
+index: 141, real:1, predict:1
+ amazing girl
+index: 142, real:1, predict:1
+ favorite 's feline 3
+index: 143, real:1, predict:1
+ 's really beautiful
+index: 144, real:0, predict:0
+ nothing says new iphone review like words slight improvements ''
+index: 146, real:0, predict:0
+ got 11 pro max screen looking straight seems yellow tint x ’ seems odd
+index: 147, real:0, predict:0
+ ’ watching review phone ’ using watch review
+index: 149, real:0, predict:0
+ oh
+index: 150, real:0, predict:0
+ missed huawei night mode section
+index: 152, real:0, predict:0
+ back okay love color notch buy make bezel thin like sony xperia 5
+index: 154, real:0, predict:0
+ ’ super ugly 3 camera looks like monster
+index: 158, real:1, predict:1
+ love intro
+index: 160, real:1, predict:1
+ man production quality videos getting better better 've watching dude years
+index: 161, real:1, predict:1
+ best review ’ seen far
+index: 163, real:1, predict:1
+ best detailed review
+index: 164, real:0, predict:0
+ hell 2019
+index: 165, real:0, predict:0
+ honestly never hated song coming back buzzfeed really felt bad
+index: 166, real:0, predict:0
+ company made lyrics literally shit tbh feel bad rebecca
+index: 167, real:0, predict:0
+ must ’ died went hell even satan would cringe
+index: 170, real:0, predict:0
+ love person even though voice annoys heck heard song one teachers played back still school leave classroom part song like rap far rest song 's dislike ya know jesus commands us love one another n't mean like songs agree say love dislike song
+index: 171, real:0, predict:0
+ 3 5 mill dislikes ’ ruthless wanted try something new
+index: 172, real:1, predict:1
+ love song words simple yes buts 's also voice artists vibe positive look
+index: 173, real:0, predict:0
+ ’ know youtube 2 6m employees
+index: 174, real:0, predict:0
+ 2019 disaster see coming
+index: 176, real:0, predict:0
+ going surprised ruin youtube rewind 2019 googleplay
+index: 177, real:0, predict:0
+ everyone bad
+index: 178, real:0, predict:0
+ ca n't imagine youtube rewind 2019 gon na worse
+index: 180, real:0, predict:0
+ 'm glad normal people knew button press 16mill us youtube
+index: 181, real:1, predict:1
+ ’ going honest person made smile jayden audacity sneak chair
+index: 182, real:1, predict:1
+ good part dog getting food
+index: 183, real:1, predict:1
+ rewatching made appreciate pewdiepie 's rewind video little
+index: 184, real:1, predict:1
+ good part vid sister squad
+index: 187, real:1, predict:1
+ important put make look pretier without
+index: 188, real:1, predict:1
+ whoa ’ never seen without makeup changed whole face
+index: 189, real:1, predict:1
+ 're hecking beautiful without makeup tf mean catfish woman
+index: 190, real:1, predict:1
+ love says done remembers something ’ ’ cute
+index: 191, real:1, predict:1
+ odd though honest looking 17 27 simple makeup epic
+index: 193, real:0, predict:0
+ wrong algo explained kindly put video benefit students
+index: 194, real:0, predict:0
+ wrong
+index: 195, real:0, predict:0
+ wait hell happening
+index: 196, real:0, predict:0
+ absolutely wrong
+index: 197, real:0, predict:0
+ wrong actually
+index: 199, real:1, predict:1
+ thanks right pronounciation
+index: 200, real:1, predict:1
+ fruitfull 4 stdnts u explained well thanks 4 explaining easy manner
+index: 201, real:1, predict:1
+ good
+index: 203, real:0, predict:0
+ need know git clone git pull git add git commit git push n't
+index: 206, real:1, predict:1
+ nice quintessential starter looking
+index: 208, real:0, predict:0
+ disliked movie would n't get anyways insert arthur 's laughter
+index: 211, real:0, predict:0
+ movie made feel uncomfortable
+index: 212, real:0, predict:0
+ ’ honestly like people never seen clockwork orange sad
+index: 213, real:0, predict:0
+ n't seen film yet feel like controversy '' <UKN> film silly 's like people forget film rating system exists system designed recommend certain films certain age <UKN> <UKN> 's understanding film rated r '' <UKN> people age 17 n't recommended watch without adult <UKN> higher rating feel come mature subject
+index: 214, real:0, predict:0
+ people offended movie ’ wrong society
+index: 215, real:0, predict:0
+ reason 's bothering violence showed <UKN>
+index: 216, real:1, predict:1
+ love people actually say hollywood movies controversial ’ laughing head thinking <UKN> von <UKN> movies
+index: 217, real:1, predict:1
+ loved <UKN> haha
+index: 219, real:1, predict:1
+ loved movie
+index: 222, real:0, predict:0
+ loved get found movie huge letdown found villains underwhelming less interesting learned comedy mediocre plot characters generic ending n't work
+index: 223, real:0, predict:0
+ tbh 'm <UKN> throughout entire thing n't get whole story
+index: 224, real:0, predict:0
+ a <UKN> c c chris meh
+index: 225, real:0, predict:0
+ review made <UKN> bye chris
+index: 226, real:0, predict:0
+ got done watching movies second time movies 're freaking horrible honest n't see think 're good
+index: 227, real:0, predict:0
+ 's funny bored death watching
+index: 228, real:0, predict:0
+ feel like comedy good first got scary found broke <UKN> wish allowed tension rise even
+index: 230, real:0, predict:0
+ movie entertaining lupita nyongo ’ performance good performances <UKN> stars film ’ really scary
+index: 231, real:0, predict:0
+ thought saved massively ending plot <UKN> said <UKN> acting great score really really good unique <UKN> comparison whole get
+index: 233, real:0, predict:0
+ working night <UKN> fun
+index: 234, real:0, predict:0
+ enjoyed movie 's one stupid films 've seen
+index: 235, real:0, predict:0
+ 'm sorry third act stupid
+index: 236, real:0, predict:0
+ maybe higher standards films filmmakers thought movie let everything makes film mediocre cinematography score dialogue plot god awful humor horror movie think <UKN> cooked people hyping n't seen serious directors filmmakers make really good movies could name 3 horror movies would make <UKN> one so called plot twist message mean
+index: 237, real:0, predict:0
+ cant <UKN> even got thru one years ten worst
+index: 238, real:0, predict:0
+ definitely agree review thought comedy horror good movie ’ find much horror lot suspense nothing would consider scary
+index: 239, real:0, predict:0
+ honest one worst films ever seen hard finish honestly corny humor <UKN> horror feel like must ’ watched different movie since people seem enjoyed
+index: 240, real:0, predict:0
+ spoiler review spoiler review spoiler review
+index: 242, real:0, predict:0
+ movie bad
+index: 243, real:0, predict:0
+ really like get found us bland <UKN> intriguing subtext social commentary humor think lupita acted well ’ <UKN> movie seems <UKN> never really went journey characters unlike get shame
+index: 245, real:0, predict:0
+ movie really n't scary loved ton hidden messages <UKN> <UKN> plus cast amazing
+index: 246, real:0, predict:0
+ worst movie ever giving movie great review steals 2 hours people 's lives
+index: 248, real:0, predict:0
+ nonsensical story <UKN> plot holes <UKN> <UKN> a sorry chris <UKN> level one
+index: 250, real:0, predict:0
+ ’ like movie
+index: 252, real:0, predict:0
+ ’ really surprised ’ <UKN> aspects film ’ bad ’ really huge disappointment films disturbing imagery scare factor get old quick awful <UKN> twist ending honestly ruined film think people seeing thing rose <UKN> glasses love get much next average best
+index: 253, real:0, predict:0
+ unpopular opinion jordan peele ’ get us bang average nothing bad nothing special
+index: 254, real:0, predict:0
+ also n't think guys know plot holes unanswered questions sure nothing <UKN> plot
+index: 255, real:0, predict:0
+ <UKN> garbage ’ care less characters pathetic dialogue <UKN> train <UKN> storyline 90 minutes life ’ never get back
+index: 256, real:0, predict:0
+ 'm huge fan horror get great
+index: 257, real:0, predict:0
+ honestly like movie boring imo
+index: 258, real:0, predict:0
+ <UKN> really <UKN> review
+index: 261, real:0, predict:0
+ many dipshits comment section
+index: 262, real:0, predict:0
+ rant long <UKN>
+index: 263, real:0, predict:0
+ jeremy think ratings <UKN> quality movie amount <UKN> <UKN> watching
+index: 264, real:0, predict:0
+ age <UKN> n't awesometacular <UKN> instead
+index: 265, real:0, predict:0
+ dear c '' always <UKN> comment section jeremy 's rating
+index: 266, real:0, predict:0
+ u <UKN> review
+index: 269, real:0, predict:0
+ correct answer <UKN> cheese idea got eliminated
+index: 270, real:0, predict:0
+ put cheddar burger ’ slightly upset
+index: 271, real:0, predict:0
+ sorry ca n't finish need cheddar mix
+index: 272, real:0, predict:0
+ n't even see provolone woah <UKN> best <UKN> ever made provolone
+index: 273, real:0, predict:0
+ test flawed link give proper taste test cheese <UKN> disgusting tomato <UKN>
+index: 277, real:0, predict:0
+ sees notification chris aladdin review
+index: 279, real:0, predict:0
+ oh man still remember blockbuster closed country sad
+index: 282, real:0, predict:0
+ already live action jafar upon time wonderland actor also played <UKN> lost absolutely perfect role disappointed role <UKN> parent series
+index: 283, real:0, predict:0
+ stopped watching started singing <UKN> time bad cant stand singing movies <UKN> reason stopped watching disney movies
+index: 284, real:0, predict:0
+ better “ live action ” lion king
+index: 285, real:0, predict:0
+ wow thoughts <UKN>
+index: 291, real:0, predict:0
+ think guy ritchie realized bit weak lead aladdin character unlike original may reason lot added content story line genie jasmine new songs new love story genie overall went low expectations pleasantly surprised couldnt agree feeling like stage play <UKN> jones reference spot
+index: 295, real:0, predict:0
+ someone ’ watch original <UKN> aladdin random <UKN> animated series happened tv kid think one older viewers went without nostalgic <UKN> think went see “ normal ” movie goer
+index: 298, real:0, predict:0
+ fact ca n't find single review mentions iago really really worried
+index: 299, real:0, predict:0
+ think always get movies c plus
+index: 300, real:0, predict:0
+ tired live action remakes
+index: 302, real:0, predict:0
+ loved movie aside jafar ’ casting <UKN> weak acting addition almost <UKN> look <UKN> mediocre representation important character almost <UKN> <UKN> <UKN> movie really enjoyed movie nostalgia
+index: 303, real:0, predict:0
+ disney live action remakes ’ seen jungle book one one thought legitimately good
+index: 304, real:0, predict:0
+ ben kingsley jafar
+index: 305, real:0, predict:0
+ watching movie could think hollywood trying make bollywood film
+index: 306, real:0, predict:0
+ cinderella good one
+index: 309, real:0, predict:0
+ things work animation live action someone tell sonic movie <UKN> movies well
+index: 310, real:0, predict:0
+ lots people complaining rating c
+index: 311, real:0, predict:0
+ honestly disney yet understand films n't meant live action aladdin one 's impossible cinderella sure jungle book yes aladdin yeah one animated live action films fit live action <UKN> without failing aladdin always <UKN> robin williams died took animated film role genie <UKN> nothing say
+index: 312, real:0, predict:0
+ 'm mad n't get see giant snake aladdin running massive falling <UKN>
+index: 313, real:0, predict:0
+ hey every time think simba think matthew broderick
+index: 314, real:0, predict:0
+ watching aladdin honestly say c absolutely ridiculous
+index: 315, real:0, predict:0
+ certain things work animation work live action <UKN> 's director
+index: 317, real:0, predict:0
+ movie bad idea beginning aladdin movie character designed around genie well genie designed completely around robin williams 's known robin williams would <UKN> role whole movie would <UKN>
+index: 319, real:0, predict:0
+ disney needs give remakes rest liked 101 dalmatians came 2 decades ago still one whole lot better recent ones try focus making animated films believe lion king remake comes 2 months 'll watch <UKN>
+index: 321, real:1, predict:1
+ look like cold cheeser rhett thing say
+index: 323, real:1, predict:1
+ rhett like cheese let know im eating
+index: 324, real:1, predict:1
+ gouda one favourite cheese ’ thanks
+index: 326, real:1, predict:1
+ find best gouda netherlands btw
+index: 327, real:1, predict:1
+ rhett link best job getting <UKN> burger best cheese
+index: 328, real:1, predict:1
+ link <UKN> tomatoes <UKN> <UKN>
+index: 329, real:1, predict:1
+ guys legitimately put american cheddar
+index: 330, real:1, predict:1
+ <UKN> chevre tastes like <UKN> maybe
+index: 332, real:1, predict:1
+ yes need sleep yes
+index: 333, real:1, predict:1
+ <UKN> link pretty <UKN> 2
+index: 335, real:1, predict:1
+ swiss cheese personally favorite alot people sleep gouda muenster cheese
+index: 336, real:1, predict:1
+ aladdin pretty good though thought rushed certain parts parts actually quite nice also thought aladdin actor good
+index: 338, real:1, predict:1
+ really enjoyed movie genie great even though everything looked like set appreciated realistic carpet <UKN> looked
+index: 341, real:1, predict:1
+ always back say valid points fun watch <UKN> else honest favorite keep making keep watching chris
+index: 343, real:1, predict:1
+ things work better animation
+index: 347, real:1, predict:1
+ appreciate thanks hard work keep working <UKN> <UKN> best
+index: 348, real:1, predict:1
+ omg voice <UKN> reviews objective <UKN> loved totally subscribing
+index: 349, real:1, predict:1
+ <UKN> blockbuster many hours life spent scanning <UKN>
+index: 350, real:1, predict:1
+ actually liked aladdin remake
+index: 351, real:1, predict:1
+ grew loving aladdin
+index: 354, real:1, predict:1
+ watched film enjoyable say agree literally everything said chris main problem simply movie felt stretched longer needed liked actors hated actor <UKN> jafar weak anyway good time movies
+index: 355, real:1, predict:1
+ hmmm well according audience score rotten tomatoes amazing 95
+index: 357, real:1, predict:1
+ wish cave wonders large animated tiger head like original
+index: 363, real:1, predict:1
+ like
+index: 366, real:1, predict:1
+ watched even though 'm late <UKN> opinion
+index: 367, real:1, predict:1
+ ’ know chris stuck ass movie thought aladdin good movie see
+index: 368, real:1, predict:1
+ definitely agree <UKN> much acting fair though think ’ <UKN> take comedic <UKN> like animated characters <UKN> live action without feeling overly artificial ridiculous still though could brought personality characters jafar especially
+index: 369, real:1, predict:1
+ n't think bad 'd least give b
+index: 371, real:1, predict:1
+ good movie enjoyed enjoyed kids trying bring clean look <UKN> screen think good job like opening beauty beast live movie smith awesome genie <UKN> last song sang end awesome
+index: 373, real:1, predict:1
+ whaaat movie least deserves b ok ur opinion
+index: 374, real:1, predict:1
+ right wil smith <UKN> movie wow director sucked
+index: 375, real:1, predict:1
+ make great points still enjoyed movie lot 1 3 theatre <UKN> end genie definitely best character followed princess jasmine
+index: 376, real:1, predict:1
+ exact mind one
+index: 377, real:1, predict:1
+ recently saw <UKN> production aladdin broadway incredible everything loved movie still adding changing aspects keep new fresh without losing tone heart film think disney really keep live action remakes adaptations stage 're amazing
+index: 379, real:1, predict:1
+ disagree great movie great performances great actors
+index: 380, real:1, predict:1
+ <UKN> liked
+index: 381, real:1, predict:1
+ loved romance jasmine aladdin great
+index: 384, real:1, predict:1
+ chris really love reviews doubt read comments wonder liked n't least part part childhood 12 went see original theaters loved movie loved seeing kids enjoy movie usually agree probably 80 90 percent time totally saw movie differently hey part joy film different tastes different people love reviews respect opinion keep

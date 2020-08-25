@@ -1,0 +1,158 @@
+index: 6, real:1, predict:0
+ good comparison characters actors notable <UKN> mufasa james earl jones 'm glad voice lion king coming soon
+index: 15, real:1, predict:0
+ feel like everyone looks clean <UKN> dumb thats original cartoon nobody outside dude 2 <UKN> dirty cartoon lol
+index: 27, real:1, predict:0
+ saw first movie one definitely lot different really liked watch
+index: 28, real:1, predict:0
+ saw movie 's fucking good go watch
+index: 33, real:1, predict:0
+ seems disney fallen make look like cosplay <UKN> ruined many <UKN> anime live action adaptations
+index: 34, real:1, predict:0
+ 's good need <UKN>
+index: 36, real:1, predict:0
+ bad really liked
+index: 40, real:1, predict:0
+ favorite aladdin adaption actually kid aladdin 's palace
+index: 41, real:1, predict:0
+ nice review go cinema sunday main reason nostalgia aladdin one first movies saw <UKN> screen
+index: 42, real:1, predict:0
+ oh wow chris actually watched whatever happened monday
+index: 45, real:1, predict:0
+ thank chris 'm one silly <UKN> literally understand need remake disney classic live action 's point need see beauty beast live action need see jungle book especially need see aladdin one critical reason
+index: 50, real:1, predict:0
+ guy ritchie direct aladdin always musical action comedy
+index: 52, real:1, predict:0
+ wow actually thought performances carried movie including aladdin jasmine ’ super nostalgic original ’ <UKN> first movie actually got caught romance lol made happy sitting theatre hearing little kids around <UKN> <UKN> excitement though maybe liked much <UKN> movie giving magic small children ’ sure original gave parents sure kids
+index: 53, real:1, predict:0
+ ya <UKN> <UKN> party
+index: 56, real:0, predict:1
+ ” ’ clean ” exactly problem star wars prequels
+index: 57, real:0, predict:1
+ aladdin look like <UKN> animated movie broadway show maybe little bit original story cases worked others much
+index: 58, real:0, predict:1
+ aladdin low rent stage play
+index: 60, real:0, predict:1
+ <UKN> smith used aladdin cast upon time
+index: 64, real:0, predict:1
+ ca n't believe 'm losing rug
+index: 71, real:0, predict:1
+ wish went hardcore bollywood film could fabulous whole film came weirdly campy
+index: 73, real:0, predict:1
+ true smith best thing movie aladdin 's actor horrible
+index: 75, real:0, predict:1
+ looks like <UKN> ability enjoy movies <UKN> picking things
+index: 77, real:0, predict:1
+ wife daughter blast cinema sorry 'm edgy cool hate everything
+index: 79, real:0, predict:1
+ <UKN> whaaat think almost everything opposite ’ crazy saw yesterday boyfriend whole cinema <UKN> <UKN> hate <UKN> live actions first one ever actually loved loved cgi think well done loved smith thought blue cgi thing ’ worked loved jasmine ’ like jafar clothes acting ’ young also loved color <UKN>
+index: 80, real:0, predict:1
+ stop harsh mena think great job aladdin
+index: 85, real:0, predict:1
+ movie n't compare childhood
+index: 91, real:0, predict:1
+ points valid n't mention <UKN> movie <UKN> <UKN> core story began <UKN> arabian days nothing true arabian <UKN> indian <UKN> vision <UKN> 'm really disappointed
+index: 92, real:0, predict:1
+ uncomfortable whole time seeing arthur laugh live life shell living life like <UKN> circle <UKN> turned joker felt <UKN> sympathize understand motives honest truly wants feels <UKN> first time life feels happy truly beautiful thing see however mean joker option consider sympathize struggles everyone hard times <UKN> course understand kills
+index: 93, real:0, predict:1
+ 's funny
+index: 94, real:0, predict:1
+ movie made feel uncomfortable
+index: 95, real:0, predict:1
+ hell talking stuckman jack <UKN> best joker hands
+index: 96, real:0, predict:1
+ really like movie honest batman one absolute favorite heroes villains depth always liked seeing deeper look psyche character rather stab stab oh gosh man crazy happy dc turned side comic movies feel like 're starting great new movie series universe batman universe bit confused past movies movie makes excited future
+index: 98, real:0, predict:1
+ never saw taxi driver king comedy
+index: 100, real:0, predict:1
+ awkward movie <UKN> <UKN>
+index: 103, real:0, predict:1
+ jeremy jahns rant rating system
+index: 104, real:0, predict:1
+ like <UKN> 'm <UKN>
+index: 112, real:1, predict:0
+ said <UKN> ' meant
+index: 117, real:1, predict:0
+ cuntbag dipshits 'm using 's okay jeremy
+index: 130, real:1, predict:0
+ <UKN> crap expecting review got lot ya know aint even
+index: 131, real:1, predict:0
+ yeah first movie called spy really weird thing
+index: 136, real:1, predict:0
+ watched ur review watched movie way first 20 minutes boring funny really good movie
+index: 144, real:1, predict:0
+ <UKN> <UKN> core
+index: 147, real:1, predict:0
+ take <UKN> <UKN> 3 <UKN> put <UKN> thumbs up <UKN> p
+index: 152, real:1, predict:0
+ two <UKN> shit awesome
+index: 154, real:1, predict:0
+ care rating system movies n't matter right jeremy writing <UKN>
+index: 163, real:1, predict:0
+ like jeremy u speak ur mind afraid <UKN> <UKN>
+index: 164, real:1, predict:0
+ lol jeremy said ratings bullshit everyone comment section sharing views rating systems 've always thought
+index: 165, real:1, predict:0
+ hi
+index: 168, real:1, predict:0
+ jeremy 7 ratings remember nothing ''
+index: 171, real:1, predict:0
+ screaming talking loud harsh mean tone omg
+index: 174, real:1, predict:0
+ respect risk originality us lot plotholes told twist pacing felt way <UKN> humor though perfect takes audience away scared 7 10
+index: 176, real:1, predict:0
+ never <UKN> notification fast ’ wait see peele
+index: 180, real:1, predict:0
+ love execution way incredible commentary might <UKN> also love get film <UKN> background
+index: 182, real:1, predict:0
+ finished watching far one creepiest movie ’ ever seen
+index: 184, real:1, predict:0
+ saw last night holy cow <UKN> seeing thursday lot unpack say terrifying hilarious entertaining hell
+index: 186, real:1, predict:0
+ liked even get creepy tense ugh good
+index: 188, real:1, predict:0
+ ’ <UKN> dont care stuckmann ’ videos
+index: 190, real:1, predict:0
+ chris agree u 100 told <UKN> last watching film wish sense ambiguous
+index: 195, real:1, predict:0
+ wish good first viewing movie loved theatre filled assholes laughed spoke important <UKN> scenes also dude next sister phone half movie leaving theatre <UKN> say n't like n't understand half going
+index: 196, real:1, predict:0
+ first thought <UKN> good review
+index: 199, real:1, predict:0
+ movie league <UKN> <UKN>
+index: 200, real:1, predict:0
+ sitting best buy <UKN> <UKN>
+index: 203, real:1, predict:0
+ movie filmed <UKN> santa cruz <UKN>
+index: 208, real:1, predict:0
+ said idea doppelgangers represent worst enemies <UKN> ' doppelgangers us <UKN> emotions thoughts
+index: 214, real:1, predict:0
+ excellent first act dumb third act would played lot stronger much <UKN> horror plot
+index: 216, real:1, predict:0
+ chris credible <UKN> <UKN> movie awful knows
+index: 219, real:1, predict:0
+ get little overrated feeling us underrated tremendous movie 1 way
+index: 220, real:1, predict:0
+ want see movie ca n't handle blood gore
+index: 222, real:1, predict:0
+ people may agree fucking love movie
+index: 230, real:0, predict:1
+ horror movies <UKN> great
+index: 235, real:0, predict:1
+ im really <UKN> review movie <UKN> hype train movie popular
+index: 236, real:0, predict:1
+ thought <UKN>
+index: 237, real:0, predict:1
+ watched twice give fair <UKN> really wanted like felt flat way a movie c best
+index: 238, real:0, predict:1
+ easily one <UKN> movies 've ever seen walking cinema honestly n't know think n't know liked think <UKN> <UKN> kind movie actually performances <UKN> soundtrack <UKN> sounds truly creepy yet beautiful extremely weird movie 'm still <UKN> much enjoyed journey took mind fuck thats sure
+index: 239, real:0, predict:1
+ 's ambiguity son <UKN> <UKN>
+index: 242, real:0, predict:1
+ get much better
+index: 243, real:0, predict:1
+ loved get ca n't wait see one
+index: 244, real:0, predict:1
+ <UKN> sjw
+index: 245, real:0, predict:1
+ idk saw tonight honesty pretty disappointing imo everyone theatre thought well lol reviews interested wanting see watching feel reviews bit <UKN> acting great movie overall <UKN> thats opinion

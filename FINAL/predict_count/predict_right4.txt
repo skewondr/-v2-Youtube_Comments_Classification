@@ -1,0 +1,358 @@
+index: 0, real:1, predict:1
+ ca n't say really agree critiques time loved movie lover original think really well also genie played actors since robin williams really need check broadway and or <UKN> end shows really nailed genie also
+index: 1, real:1, predict:1
+ carpet best character movie
+index: 3, real:1, predict:1
+ go see 3d boy
+index: 5, real:1, predict:1
+ actually loved movie grew massively days first viewing saw couple times cinema thought mena massoud naomi scott excellent aladdin jasmine really captured <UKN> animated versions bringing personality roles musical numbers fun speechless nice addition even n't sound much like rest music film loved colourful cartoony world felt beauty beast 's
+index: 6, real:1, predict:1
+ actually really enjoyed movie definitely <UKN> list terms disney live action remakes
+index: 7, real:1, predict:1
+ actually saw film days ago thought 's good yes 's clean <UKN> quite expected disney film importantly thought film really well written <UKN> <UKN> yes looks like 's stage perhaps visually <UKN> 's chance n't bother btw n't understand comment actors aladdin jaffar convincing especially appreciated n't take intimidating looking
+index: 8, real:1, predict:1
+ agree everything said
+index: 9, real:1, predict:1
+ agree review main issue jafar portrayal bit top although try adding new <UKN> character street rat <UKN> liked movie overall maybe director tried play <UKN> making movies similar original possible dont mind really smith surprisingly great genie love robin williams much could n't help <UKN> performance much
+index: 10, real:1, predict:1
+ agree acting especially jafar
+index: 12, real:1, predict:1
+ appreciate thanks hard work keep working <UKN> <UKN> best
+index: 13, real:1, predict:1
+ saw agree lot thoughts overall enjoy movie family plenty funny moments means <UKN> kind felt like watching aladdin play screen ’ give b
+index: 15, real:1, predict:1
+ love movie agree hated jafar <UKN>
+index: 16, real:1, predict:1
+ loved movie <UKN> <UKN> really watched original
+index: 17, real:1, predict:1
+ loved smith always love fresh prince
+index: 20, real:1, predict:1
+ remember channel first starting thank <UKN> love
+index: 22, real:1, predict:1
+ really enjoyed film
+index: 29, real:1, predict:1
+ jafar played mark strong
+index: 30, real:1, predict:1
+ love shirt
+index: 31, real:1, predict:1
+ love review agree agree agree
+index: 32, real:1, predict:1
+ man continue watch chris 's reviews past five years 's always genuine honest always get feel appreciates every movie <UKN> <UKN> insight good bad something lot youtube reviewers n't 's pretty humble <UKN> platform respect learned lot chris hope continues well
+index: 33, real:1, predict:1
+ mediocre criticism usual keep ’ surprise us
+index: 36, real:1, predict:1
+ ok thank u <UKN> smith maybe jafar two actors film like big issue aladdin ’ act sing neither could smith neither could jasmine mind u musical good <UKN> <UKN> <UKN> whole thing cheesy
+index: 37, real:1, predict:1
+ <UKN> finally someone said think movie
+index: 39, real:1, predict:1
+ pretty sure graded one <UKN> chris lol
+index: 40, real:1, predict:1
+ thank disney ruining favorite childhood movie least n't watch 30 times like watched original one
+index: 41, real:1, predict:1
+ 's actually really refreshing hear actually decent movie 's really horrible
+index: 42, real:1, predict:1
+ movie great entertaining blown away unique song <UKN> characters 's fair compare original 's movie 'll give movie a chris stuckmann movie critic give c anyways ca n't stand <UKN> like critic reviews sorry 've debating subscribing get <UKN> tells n't
+index: 43, real:1, predict:1
+ movie fantastic <UKN> things great good eastern culture loved every minute bravo disney
+index: 44, real:1, predict:1
+ aladdin remake would better <UKN> disney channel movies
+index: 46, real:1, predict:1
+ movie great ’ guessing guy “ tough time ” seeing childhood live action boo <UKN>
+index: 47, real:1, predict:1
+ review sounds like ’ nitpicking hardcore times ’ glad watch movie see things lol still love channel though
+index: 48, real:1, predict:1
+ review beautiful great job
+index: 49, real:1, predict:1
+ review spot totally felt like watching stage play
+index: 50, real:1, predict:1
+ appreciate content
+index: 54, real:1, predict:1
+ smith turned smith show smith
+index: 55, real:1, predict:1
+ smith genie movie actually killed c low tho ’ give b movie
+index: 56, real:1, predict:1
+ tremendous <UKN> chris fan 5 years keep great work good luck man
+index: 57, real:1, predict:1
+ good
+index: 59, real:1, predict:1
+ review really good realized n't take heart even though disney fan girl whole life film good <UKN> movie though
+index: 61, real:0, predict:0
+ 3 36 love hard try make jafar look menacing like film
+index: 62, real:0, predict:0
+ watching aladdin honestly say c absolutely ridiculous
+index: 63, real:0, predict:0
+ aladdin movie grade c
+index: 70, real:0, predict:0
+ done review <UKN> guy richie
+index: 75, real:0, predict:0
+ disagree jafar actor great job making jafar realistic villain
+index: 78, real:0, predict:0
+ get live action remakes bad idea ’ done first place ’ worth aladdin pretty good movie watch theaters 2 hours <UKN> although weak points ’ say ’ end world exists ’ saying someone felt so so original version robin williams ’ genie
+index: 81, real:0, predict:0
+ think new part jasmine starts singing imagination kinda confusing
+index: 84, real:0, predict:0
+ 'm suprised many people liked movie thought looked pretty bad 2019 standards long boring besides took character <UKN> cast carpet like n't need watch
+index: 88, real:0, predict:0
+ jasmine pet tiger really hard see real life
+index: 89, real:0, predict:0
+ sorry kids seeing aladdin chris stuckman said ’ like much
+index: 91, real:0, predict:0
+ aladdin genie okay cinderella fairy god mother okay
+index: 92, real:0, predict:0
+ problem personally jafar felt lot like <UKN> <UKN> felt <UKN> easily set especially someone <UKN> 2 felt cartoony live action movie
+index: 94, real:0, predict:0
+ really <UKN> propaganda movies high <UKN> days era subtlety
+index: 96, real:0, predict:0
+ bad got ta <UKN> <UKN> review movie chris especially kid 's movie 's something seriously wrong dude
+index: 98, real:0, predict:0
+ genie n't screen found relentlessly bored surprise surprise 's exactly felt original animated film
+index: 99, real:0, predict:0
+ n't <UKN> <UKN> instead live action
+index: 100, real:0, predict:0
+ truly boring movie reviewer youtube <UKN>
+index: 102, real:0, predict:0
+ 've failed address important question whether even action '' film fantasy <UKN> mental <UKN> 's <UKN> least
+index: 103, real:0, predict:0
+ chris love content say joker reminds taxi driver hold film bad point 's like saying sex scenes remind <UKN> n't matter movie reminds another long 're watching good 's <UKN> n't matter
+index: 104, real:1, predict:1
+ watched movie today jesus christ best movie ’ seen long ass time one best movies ’ seen life great movie
+index: 105, real:1, predict:1
+ loved impressions haha
+index: 106, real:1, predict:1
+ enjoyed violence movie know sounds strange think several ways handle violence movie really chose best <UKN> going terms individual <UKN> actually n't lot whenever occurred usually sudden <UKN> realistic really also loved loud guns movies make guns much <UKN> really fine many movies especially one 's lots shooting n't <UKN>
+index: 107, real:1, predict:1
+ fully agree loved watching true way <UKN> <UKN> <UKN> <UKN> social <UKN> wonderful <UKN>
+index: 121, real:1, predict:1
+ say jeremy jahn rant awesomtacular
+index: 122, real:1, predict:1
+ wow n't think 've seen rant <UKN> jeremy since revenge fallen review
+index: 123, real:1, predict:1
+ well said jeremy
+index: 124, real:1, predict:1
+ <UKN> completely <UKN> rant
+index: 125, real:1, predict:1
+ preach brother speak mind man 's watch reviews still reviewer watch one 'm going watch
+index: 126, real:1, predict:1
+ watching review hearing jeremy give review <UKN> end thinking <UKN> still around solid 2 minutes left ' goes tell great stuff love 's one best best youtubers kudos jeremy keep
+index: 127, real:1, predict:1
+ love rant keep faux rating system
+index: 129, real:1, predict:1
+ hahaha cheeseheads lets love videos always care <UKN> review never ratings still ratings funny keep
+index: 130, real:1, predict:1
+ tammy bad gave ass <UKN> thanks giving hope movie
+index: 131, real:1, predict:1
+ straight love hell videos keep going
+index: 132, real:1, predict:1
+ holy shit <UKN> rant
+index: 133, real:1, predict:1
+ lmfao
+index: 134, real:1, predict:1
+ love rating system 's funny
+index: 135, real:1, predict:1
+ love rating rant true
+index: 136, real:1, predict:1
+ take keep ratings system certain people stupid understand ratings subjective 's enjoy movie based tastes needs like see n't like see movies 's jeremy <UKN> movie based tastes needs might awesometacular may <UKN> 's felt dark knight <UKN> sorry jeremy lol guess one gives shit n't take ratings <UKN> see
+index: 137, real:1, predict:1
+ come love ratings funny
+index: 138, real:1, predict:1
+ really enjoyed heck movie 's sad see likely <UKN> many
+index: 139, real:1, predict:1
+ second youtuber 've seen today rant nothing ranting though needs said needs said
+index: 140, real:1, predict:1
+ <UKN> man love rating
+index: 142, real:1, predict:1
+ let rip j lol love work dude screw haters
+index: 143, real:1, predict:1
+ jermey <UKN> movie reviewer alive
+index: 144, real:1, predict:1
+ rant <UKN>
+index: 145, real:1, predict:1
+ hmmm feels like get smart
+index: 148, real:1, predict:1
+ love
+index: 149, real:1, predict:1
+ real talk get rating systems n't perfect rating <UKN> spectrum levels quality however <UKN> alongside jeremy 's analysis go see something worth watching theaters
+index: 150, real:1, predict:1
+ love ratings
+index: 151, real:1, predict:1
+ last part funny
+index: 152, real:1, predict:1
+ favorite spy game spy vs spy <UKN>
+index: 153, real:1, predict:1
+ funny
+index: 154, real:1, predict:1
+ yo easy c bomb lol definitely get 're saying 's whole spectrum movie aspects well crap ton genres movies
+index: 155, real:1, predict:1
+ <UKN> <UKN> pretty good st vincent
+index: 156, real:1, predict:1
+ really enjoyed spy 's good movie past time laugh watching n't usually like mccarthy movies think 's see see <UKN> <UKN> <UKN> girls enjoy movie
+index: 157, real:1, predict:1
+ keep jeremy figured obvious guess haha
+index: 158, real:1, predict:1
+ end video jeremy going <UKN> ratings thought movies 20 years old man going eccentric shit generation movies could n't understand comparing movies <UKN> remembered days
+index: 160, real:1, predict:1
+ n't see love <UKN>
+index: 161, real:1, predict:1
+ rating movie lol kidding
+index: 162, real:1, predict:1
+ melissa mccarthy trying female version jim carrey trying thing well 's alright
+index: 164, real:1, predict:1
+ rating systems useful <UKN> <UKN> 'll good film good film everyone money go see every good film choice say avengers 2 <UKN> 7 're <UKN> <UKN> ratings useful get biggest bang <UKN>
+index: 165, real:1, predict:1
+ hey jeremy rating system kicks ass creative <UKN> 1 10 scale school <UKN> scale <UKN> chris stuckmann cos reviews <UKN> ass <UKN> friendly dude n't change thing double j
+index: 166, real:1, predict:1
+ never sure awesometacular buy blu ray <UKN> <UKN> either one fine end though get better <UKN> whether enjoy movie review rating though final rating help
+index: 168, real:1, predict:1
+ yay jeremy loves even though n't comment much
+index: 169, real:1, predict:1
+ lmfao damn jeremy went
+index: 170, real:1, predict:1
+ movie n't thing r rated video lol
+index: 171, real:1, predict:1
+ hate rating part one kiddin ' love rating kiddin ' laugh shit tons one v
+index: 172, real:1, predict:1
+ 'd buy ratings rant blu ray
+index: 173, real:1, predict:1
+ jeremy jahns reviewer allow actually <UKN> would passed movie opinions <UKN> mine 95 time saw great time review spot thanks
+index: 174, real:1, predict:1
+ used movie black list change mind think see tomorrow
+index: 175, real:1, predict:1
+ jeremy love man
+index: 176, real:1, predict:1
+ bloody love jeremy
+index: 177, real:1, predict:1
+ <UKN> jeremy
+index: 178, real:1, predict:1
+ haha <UKN> call duty '' mentioned man good job keep <UKN> coming
+index: 180, real:1, predict:1
+ people go see spy '' enjoy make sure also watch kingsman secret service '' also comedy spy movie
+index: 181, real:1, predict:1
+ keep ratings love ratings f critics
+index: 182, real:1, predict:1
+ jeremy best
+index: 183, real:1, predict:1
+ <UKN> count bags jj keep ur reviews awesometacular
+index: 184, real:1, predict:1
+ falling even love
+index: 185, real:1, predict:1
+ loved rant ratings perfect
+index: 186, real:1, predict:1
+ loved spy hope 's sequel soon
+index: 187, real:1, predict:1
+ keep awesome work jeremy watch videos 24 7 post new stuff feel giddy get excited 're <UKN> fun thank
+index: 188, real:1, predict:1
+ hey jeremy 'd love hear thoughts 12 <UKN> tv show n't really dig movie least <UKN> <UKN> classic ' kind way really enjoy show seen thanks making videos
+index: 190, real:1, predict:1
+ <UKN> 'good time 're drunk ' caught guard know usually <UKN> positive negative critiques places certain areas scale
+index: 191, real:1, predict:1
+ would n't mind jeremy got away rating system long keeps awesometacular dog shit 's pretty much stamp point
+index: 192, real:1, predict:1
+ may agree reviews awesome man one favorite reviewers
+index: 194, real:1, predict:1
+ hey want say thank seem agree every time say movie great good thanks man
+index: 195, real:1, predict:1
+ 3 54 4 11 exact reason love chris stuckmann
+index: 197, real:1, predict:1
+ hi chris love reviews
+index: 198, real:1, predict:1
+ think love us get equally different <UKN> brilliant
+index: 199, real:1, predict:1
+ checked library today 'm watching dark house <UKN> watching
+index: 200, real:1, predict:1
+ true <UKN> love reviews
+index: 201, real:1, predict:1
+ thank bringing toni collette robbed
+index: 202, real:1, predict:1
+ wow know im gone spend sunday <UKN> get real good ah <UKN> movie sunday a brings right
+index: 204, real:1, predict:1
+ yes love listen horror music im <UKN> thought
+index: 205, real:1, predict:1
+ <UKN> comments damn true
+index: 206, real:1, predict:1
+ saw last night awesome
+index: 207, real:1, predict:1
+ know exactly ’ talking agree ’ left part made us figure
+index: 208, real:1, predict:1
+ agree toni collette best performance 2018 believe didnt get nominated
+index: 211, real:1, predict:1
+ speaking truman show thumbs ’ love see chris share thoughts incredible film
+index: 212, real:1, predict:1
+ got 5 100 <UKN> sayin
+index: 214, real:1, predict:1
+ jordan peele well way become one greatest horror movie directors time
+index: 215, real:1, predict:1
+ get perfect
+index: 216, real:1, predict:1
+ jim carrey truman show man <UKN> back back
+index: 217, real:1, predict:1
+ damn excited see 'm watching friday
+index: 218, real:1, predict:1
+ longer think movie <UKN> flaws first 8 10 light 6
+index: 219, real:1, predict:1
+ definitely see horror fan
+index: 221, real:1, predict:1
+ love <UKN> spoiler free reviews thanks chris
+index: 222, real:1, predict:1
+ one best <UKN> <UKN> <UKN> 's shining great review cant wait see film
+index: 224, real:1, predict:1
+ best horror movies 2019
+index: 225, real:1, predict:1
+ really liked movie sometimes felt bit <UKN> together though im pretty sure <UKN> plotholes compared get feel movie definitely bigger vision ultimately cant hold well due weight enjoyed thoroughly however
+index: 230, real:1, predict:1
+ 3 54 4 28 agreed whole heartedly
+index: 232, real:1, predict:1
+ a thats high rating
+index: 233, real:1, predict:1
+ us made <UKN> m biggest opening weekend ever original horror
+index: 237, real:0, predict:0
+ wasted time watching movie
+index: 238, real:0, predict:0
+ hated really wanted good 's many holes bad <UKN> <UKN> <UKN> <UKN> silly comments etc etc real <UKN> sadly
+index: 240, real:0, predict:0
+ loved get found movie huge letdown found villains underwhelming less interesting learned comedy mediocre plot characters generic ending n't work
+index: 242, real:0, predict:0
+ nonsensical
+index: 243, real:0, predict:0
+ a predicted c c chris meh
+index: 245, real:0, predict:0
+ wow usually go movie reviews got ta say got sooo wrong a f sorry absolutely <UKN> crap much potential explanation whole movie total garbage
+index: 246, real:0, predict:0
+ watched ’ got ta say film extremely overhyped good acting plot mess
+index: 247, real:0, predict:0
+ eh watched us <UKN> <UKN> family clones family outside door also feeling two girls switched movie n't scary n't crazy wanted see scary movie ending better
+index: 248, real:0, predict:0
+ loved first half film second half falls flat movie predictable definitely horror movie many plot holes lupita acting phenomenal rest family much
+index: 249, real:0, predict:0
+ disappointed good performances tho
+index: 250, real:0, predict:0
+ completely <UKN> movie twist ending <UKN>
+index: 257, real:0, predict:0
+ fantastic acting many plot holes opinion
+index: 258, real:0, predict:0
+ movies really <UKN> <UKN> <UKN> <UKN> people n't soul
+index: 261, real:0, predict:0
+ u <UKN> 36 bad film everything <UKN> beginning bad <UKN> bad actors except lupita poor character design fake af visually looks good though
+index: 262, real:0, predict:0
+ thought decent hated pace felt fast slow time lupita amazing ’ great actress <UKN> movie frustrated lot holes plot ’ care made think liked ’ watch see find anything else tells meaning behind movie
+index: 263, real:0, predict:0
+ dumbest movie ive seen long time n't waste time attempt horror flick got hype black
+index: 264, real:0, predict:0
+ movie absolute garbage would 0 10 ending least halfway entertaining anyone genuinely <UKN> movie 's entirety <UKN> nothing
+index: 265, real:0, predict:0
+ movie trash way doubles talked corny asf could n't help get annoyed
+index: 266, real:0, predict:0
+ think problem want fresh face horror want bad give mess film good marks want <UKN> <UKN> little get liked however goes deep end film questions <UKN> got home film sucks
+index: 267, real:0, predict:0
+ movie total garbage thought watching get would seeing another excellent movie anymore wrong movie try hard scary spent 1 <UKN> watching cool beginning trying build story everything still good point house another similar looking family <UKN> 's getting ridiculous another similar looking family attack another family got point 2 white
+index: 269, real:0, predict:0
+ think movie lot great social commentary narrative <UKN> plotholes inconsistencies personally think movie overrated see people give movie 100 praise <UKN> 50 story
+index: 272, real:0, predict:0
+ great acting boring movie
+index: 274, real:0, predict:0
+ fact chris <UKN> love horror movies much would give movie anything c makes <UKN> type horror movies <UKN> director
+index: 275, real:0, predict:0
+ ’ gon na say ’ less horror thriller
+index: 276, real:0, predict:0
+ lot plot <UKN>
+index: 277, real:0, predict:0
+ watched movie seeing review must say completely hyped film place n't know sort movie wanted hardly horror <UKN> together comedy added thriller scenes people laughing throughout entire film

@@ -1,0 +1,214 @@
+index: 4, real:1, predict:0
+“ good testimony good writer tell seemingly uninteresting story captivate reader . ”                                                            
+index: 16, real:0, predict:1
+also vitiligo feel uncomfortable , especially bikini .                                                                          
+index: 19, real:0, predict:1
+’ bothering ’ calling palette “ times ” “ x ” collabs usually implies “ ” “ kim kardashian times winnie ” like equation lol                      
+index: 21, real:0, predict:1
+dont use metal fork                                                                                          
+index: 55, real:0, predict:1
+nothing earth replace love real dog                                                                                        
+index: 57, real:0, predict:1
+thats call ai artificial intelligence                                                                                      
+index: 59, real:0, predict:1
+'s slow !                                                                                            
+index: 60, real:0, predict:1
+pay $ 3000 cure depression                                                                                        
+index: 62, real:0, predict:1
+lol 3000 $ could probably buy real dog                                                                                
+index: 68, real:0, predict:1
+could best thing could run faster                                                                                        
+index: 72, real:0, predict:1
+real dogs : best pets world ! ! !                                                                                  
+index: 74, real:0, predict:1
+’ cool gimmick kids rich parents . anyone real dog knows comparison . dog chilling feet watch bathroom .                                            
+index: 79, real:1, predict:0
+nobody going talk robot dog actually really cute                                                                                
+index: 86, real:1, predict:0
+cant stop laughing dog pick bone damn funny video brother                                                                            
+index: 87, real:1, predict:0
+think another 50 years robot able mimic movement regular dogs .                                                                            
+index: 91, real:1, predict:0
+cute ’ imagine replacing real friend                                                                                      
+index: 92, real:1, predict:0
+'d get dog someone play . 'm pretty sure dog would kill thing first hour meanwhile 'd still 47 payments make .                                        
+index: 103, real:1, predict:0
+2018 robot dog ... 'm waiting androids 2038 ... cyberlife                                                                    
+index: 104, real:1, predict:0
+kick lit                                                                                                
+index: 107, real:0, predict:1
+thing nice side different                                                                                            
+index: 111, real:1, predict:0
+'s beauty ful helpful                                                                                        
+index: 121, real:1, predict:0
+made look easy                                                                                            
+index: 123, real:0, predict:1
+thought use ultra wide camera 11 quality ’ good standard lens . glad ’ trippin                                                            
+index: 124, real:0, predict:1
+13:25 one bit mum picks                                                                                      
+index: 129, real:0, predict:1
+still 6 baby . woooo !                                                                                        
+index: 130, real:0, predict:1
+ok review think ... much content , features shows . good quality video .                                                                      
+index: 132, real:0, predict:1
+kidney asking watch video                                                                                          
+index: 136, real:1, predict:0
+marques , need hold quarter next phone . hands looks like iphone 5. nice review !                                                            
+index: 138, real:1, predict:0
+time grab popcorn comment section .                                                                                    
+index: 147, real:0, predict:1
+fact internet ruined life utterly disgusting                                                                                    
+index: 148, real:0, predict:1
+swear video dislikes views                                                                                            
+index: 151, real:0, predict:1
+learned worst song ever                                                                                          
+index: 152, real:0, predict:1
+almost eight years later 's still hilarious fucked many people seemingly took way seriously .                                                      
+index: 153, real:0, predict:1
+make better music ’ sad                                                                                          
+index: 154, real:1, predict:0
+know loads dislikes song kind cachy                                                                                  
+index: 157, real:1, predict:0
+ok video iconic whether hate                                                                                      
+index: 159, real:1, predict:0
+'s well , majority love , worked end . 'm happy .                                                                    
+index: 165, real:0, predict:1
+let memers make rewind one bad                                                                                      
+index: 168, real:1, predict:0
+imagine juicy 2019 rewind . 'd better get 20 million dislikes .                                                                        
+index: 172, real:0, predict:1
+'m fan idk y'all hating , mean looked bomb end                                                                        
+index: 175, real:0, predict:1
+rahhhhhh foundation madnesssss lad shocked                                                                                
+index: 177, real:1, predict:0
+used like hate reason watched fell love w shes funny sweet yall                                                                    
+index: 179, real:1, predict:0
+everyday makeup ? ugh girl really strong mind great would never able everyday                                                                          
+index: 181, real:1, predict:0
+realized bubbly relatable loren see instagram gives personality 's amazing never knew personality right haha                                                        
+index: 182, real:0, predict:1
+soooooooo ..... u wasted time                                                                                      
+index: 191, real:0, predict:1
+dirty nail                                                                                              
+index: 192, real:0, predict:1
+n't know got much views . good . sure explaining n't . simply wasted time . least confirm knowledge something releasing video . pathetic !                              
+index: 195, real:1, predict:0
+think ur concept much good ur way expression really simple really good . thank u                                                                    
+index: 206, real:0, predict:1
+ok favorite reviewer new films 'm certain one one cause love heath joker since similar taste 'm going give joaquin try looks like great job plus say dives mental illness really cause alot regular people n't know
+index: 209, real:1, predict:0
+watched movie today , jesus christ . best movie ’ seen long ass time , one best movies ’ seen life . great movie                                                  
+index: 212, real:1, predict:0
+love media discuss media generated controversy .                                                                              
+index: 213, real:1, predict:0
+watch heath ledger                                                                                            
+index: 215, real:1, predict:0
+movie surprisingly funny . whole theater laughing whole time . goes well joker tells mom `` whole time thought life tragedy . realized 's fucking comedy . '' ways , would consider movie comedy . especially
+index: 217, real:0, predict:1
+three things came mind watching us :                                                                                      
+index: 220, real:0, predict:1
+one movies ever seen bad laughed cause bad                                                                                
+index: 228, real:0, predict:1
+joking ? 's got ta joking got paid say . movie devastatingly dull .                                                        
+index: 231, real:0, predict:1
+easily one bizarre movies 've ever seen . walking cinema honestly n't know think , n't know liked . think speaks volumes kind movie actually . performances stellar , soundtrack subtle sounds truly
+index: 233, real:0, predict:1
+loved get ! ca n't wait see one ! ? ?                                                                          
+index: 234, real:0, predict:1
+calm sjw                                                                                                
+index: 251, real:0, predict:1
+hmm ... 've watched two reviews one people loving film giving 4/10 . 'll watch .                                                            
+index: 253, real:0, predict:1
+exact plot get smart .                                                                                          
+index: 254, real:0, predict:1
+damn cheese heads                                                                                              
+index: 262, real:0, predict:1
+.... whats rating ?                                                                                          
+index: 266, real:0, predict:1
+u callin cheesehead ? ?                                                                                        
+index: 272, real:0, predict:1
+think link ’ open pallete                                                                                        
+index: 273, real:0, predict:1
+continue put tomatoes links food ? 'm actually curious . like running joke 'm missing , ?                                                    
+index: 274, real:0, predict:1
+strangely structured video                                                                                          
+index: 275, real:0, predict:1
+swiss still king , mythical crew biased .                                                                              
+index: 282, real:0, predict:1
+never seen original aladdin thought movie great . loved songs , music , choreography . cgi genie wasnt bad looked trailer think smith great pick role . overall ( never seen original ) loved !                        
+index: 283, real:0, predict:1
+loved movie ? ? complaints !                                                                                      
+index: 284, real:0, predict:1
+honestly loved thought smith awesome ! jafar character thought really stupidly portrayed .                                                                      
+index: 286, real:0, predict:1
+damn perfectionist                                                                                              
+index: 288, real:0, predict:1
+well , ’ ironic chris !                                                                                        
+index: 289, real:0, predict:1
+awesome shirt ? ?                                                                                            
+index: 291, real:0, predict:1
+true smith best thing movie , aladdin 's actor horrible .                                                                            
+index: 292, real:0, predict:1
+problem personally jafar felt lot like kylo ren . felt whiny easily set , especially someone implied    2. felt cartoony live action movie .                            
+index: 294, real:0, predict:1
+'s good . honest rewiew , nice work !                                                                              
+index: 295, real:0, predict:1
+” ’ clean ! ” exactly problem star wars prequels                                                                              
+index: 296, real:0, predict:1
+’ think put enough special effects .                                                                                    
+index: 297, real:0, predict:1
+genie played jim carrey honestly . could carried charm robin extent                                                                    
+index: 300, real:0, predict:1
+always thought jafar would weakest link movie . sultan also weakly portrayed compared animated character .                                                          
+index: 301, real:0, predict:1
+hated movie passion gave 2 3 10 .                                                                                
+index: 303, real:0, predict:1
+smith ca n't sing !                                                                                      
+index: 305, real:0, predict:1
+little 'cringe ' vibe watching movie . sorry fans .                                                                        
+index: 306, real:0, predict:1
+looks like loosing ability enjoy movies stopping picking things .                                                                        
+index: 308, real:0, predict:1
+ok say .... think timon think nathan lane                                                                            
+index: 312, real:0, predict:1
+already tempted burn sonic games trailer feeling kind brother ; many sonic games .                                                                
+index: 313, real:0, predict:1
+n't agree single thing . think far best disney animation . actors awesome .                                                                  
+index: 315, real:0, predict:1
+saw seen animation 1st trailer .                                                                                    
+index: 318, real:0, predict:1
+thought tom segura thumbnail                                                                                        
+index: 320, real:1, predict:0
+well done , 's well done . josh : `` ? ''                                                                    
+index: 326, real:1, predict:0
+clearly tomato hypnotism n't work link lol                                                                                
+index: 334, real:1, predict:0
+feel like link sort tomato removal assistant food eats show                                                                        
+index: 338, real:1, predict:0
+munster gouda mixed together best ever                                                                                  
+index: 341, real:1, predict:0
+c- minus ? really ? ? 'd give b least . bias probably b+ .                                                            
+index: 342, real:1, predict:0
+saw first movie one definitely lot different , really liked watch                                                                        
+index: 343, real:1, predict:0
+found boring times overall okay . smith definitely favourite part . sold genie quickly made laugh times .                                                          
+index: 346, real:1, predict:0
+critics harsh every regular person ik loved                                                                                  
+index: 347, real:1, predict:0
+review really good realized n't take heart , even though disney fan girl whole life . film , good vauled movie though .                                            
+index: 349, real:1, predict:0
+dont get people really ... people complain ’ animated already seen ? .... honestly enjoyed movie great ! !                                                        
+index: 350, real:1, predict:0
+totally worked . cried times . best live action remake disney animated movie yet .                                                              
+index: 360, real:1, predict:0
+im agree , movie realy good                                                                                      
+index: 368, real:1, predict:0
+pretty sure graded one curve chris ..... -  - lol !                                                                      
+index: 379, real:1, predict:0
+hit mark , remember lines . get million dollars . real hard .                                                                          
+index: 381, real:1, predict:0
+movies see year :                                                                                            
+index: 382, real:1, predict:0
+good comparison characters actors notable . sidenote : mufasa james earl jones , 'm glad voice lion king coming soon                                        
+index: 384, real:1, predict:0
+n't bad . liked . spin songs really good ! cringe worthy moments smith genie great actors playing aladdin jasmine cute . jafar suck villain . feel like role played way much .                      

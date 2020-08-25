@@ -1,0 +1,216 @@
+index: 3, real:1, predict:0
+ read longer human thanks recommendation rewatching review though noticed must forgotten scene entirely shop keeper slept yozos wife friend horiki
+index: 25, real:0, predict:1
+ mixedmakeup needs beautiful girl
+index: 27, real:0, predict:1
+ look kills
+index: 33, real:1, predict:0
+ love girl much
+index: 38, real:1, predict:0
+ takes pride poc wanted journalism also fat shamed others talks trash beautiful black women
+index: 48, real:1, predict:0
+ “ stand makes feel comfortable ” sis really love
+index: 51, real:0, predict:1
+ great person lost pet dog never dies well break would
+index: 60, real:0, predict:1
+ cute 3000 cute 3000 better make breakfast fetch paper
+index: 62, real:0, predict:1
+ stay minecraft dog
+index: 78, real:0, predict:1
+ fast perfect
+index: 83, real:1, predict:0
+ bought one yesterday ’ good dog
+index: 85, real:1, predict:0
+ honestly instead buying 20k phone 'll buy aibo car
+index: 86, real:1, predict:0
+ dog kept keep safe saving dog stolen 've come long way
+index: 88, real:1, predict:0
+ animated eyes broke
+index: 94, real:1, predict:0
+ 's cool really cute goddamn creepy time
+index: 95, real:1, predict:0
+ better way spend 3000
+index: 99, real:1, predict:0
+ best thing dog n't poops
+index: 100, real:1, predict:0
+ dog n't even bite dog bites 24 times
+index: 126, real:1, predict:0
+ oh gosh love eyeliner crisp smooth
+index: 128, real:1, predict:0
+ love basic
+index: 132, real:0, predict:1
+ couldnt agree nothing phone screams pro got ta love marketing strategy though super retina xdr lol really
+index: 138, real:0, predict:1
+ intro miss 368
+index: 139, real:1, predict:0
+ almost looks like 've put green screen
+index: 141, real:1, predict:0
+ 1099 smartphone 64gb word “ pro ”
+index: 142, real:1, predict:0
+ spoilt consumer guy
+index: 146, real:0, predict:1
+ feels weird watching know story behind video
+index: 148, real:0, predict:1
+ 2019 still know think song
+index: 151, real:0, predict:1
+ sad thing uploaded monday
+index: 154, real:0, predict:1
+ feel bad though
+index: 156, real:1, predict:0
+ funny realize actual adults wrote song
+index: 157, real:1, predict:0
+ song gave depression depression
+index: 169, real:0, predict:1
+ ppl watching video probably like omg 's catfish 's true ''
+index: 170, real:0, predict:1
+ loren talks brooke whole video
+index: 174, real:1, predict:0
+ video make up morning routine said already used make up age eleven everything make up basic things love videos
+index: 175, real:1, predict:0
+ think good care ppl think make knows looks different 3
+index: 178, real:0, predict:1
+ tridiynydutinity sounds
+index: 179, real:0, predict:1
+ good job helped lot
+index: 189, real:1, predict:0
+ thanks covering basic fundamentals
+index: 190, real:1, predict:0
+ 3 videos basically day best 24 hours ever
+index: 191, real:1, predict:0
+ like ironic way camoflage shirt keeps dissolving green screen
+index: 192, real:1, predict:0
+ personally know github think really great make video especially since tasks need linked github nice
+index: 196, real:0, predict:1
+ film ’ glorification mental illness violence
+index: 200, real:0, predict:1
+ ok 40 secondish mark sarcastic badd actor
+index: 204, real:0, predict:1
+ damn dude speak bit faster ’ video phone call
+index: 206, real:1, predict:0
+ think movie definitely deserves oscar oscars legit anymore though
+index: 210, real:0, predict:1
+ watch <UKN> 's <UKN> series chris <UKN> 'll fall love <UKN> video analyzing
+index: 221, real:0, predict:1
+ movies started good ended badly
+index: 222, real:0, predict:1
+ felt movie n't good makes question guys reviews
+index: 224, real:0, predict:1
+ great film really enjoyed lot <UKN> feel needs explaining come first place made like clones start exist place things <UKN> people kids etc also many others showed hell lot <UKN> many one person <UKN> carefully <UKN> attack one ever find literally living escalators however many years one found heard lupita
+index: 227, real:0, predict:1
+ want say n't really care us
+index: 228, real:0, predict:1
+ made like bollywood movie way whole family <UKN> bollywood thing
+index: 230, real:0, predict:1
+ movie <UKN> big time u liked super wierd
+index: 237, real:0, predict:1
+ movie unbelievably piece crap waste time storyline clearly well thought <UKN> take incredible actress make act like n't clue 's movie deleted life <UKN>
+index: 246, real:0, predict:1
+ <UKN> ’ mean good movie example bit pretentious social message style know ’ supposed take everything literally characters execution ’ way would react situation relatable obviously know movie meant <UKN> campy ways found feeling nothing throughout movie
+index: 247, real:0, predict:1
+ minute dude said get excellent knew didnt know shit good movies lol
+index: 248, real:0, predict:1
+ dumb movie
+index: 255, real:0, predict:1
+ stop <UKN> kids might watching channel
+index: 256, real:0, predict:1
+ agree <UKN> ambiguous still great movie jordan great casting right actors movies yes lupita <UKN> awesome
+index: 271, real:0, predict:1
+ provalone whatever dudes
+index: 272, real:0, predict:1
+ <UKN> cheese burger <UKN>
+index: 273, real:0, predict:1
+ hypnosis <UKN>
+index: 274, real:0, predict:1
+ <UKN> good
+index: 275, real:0, predict:1
+ <UKN>
+index: 276, real:0, predict:1
+ aladdin amazing really enjoying ive sat around today house watched 3 times problem jafar felt n't person part <UKN> performance n't voice love 9 10 would 10 10 jafar different take c <UKN> stick ur ass probably n't even born movie came
+index: 277, real:0, predict:1
+ 10 000 years give ya <UKN> <UKN>
+index: 278, real:0, predict:1
+ saw without watching reviews big fan original movie thought fantastic
+index: 280, real:0, predict:1
+ give movie b smith awesome consistently laughing think actors choose great however give good call <UKN>
+index: 281, real:0, predict:1
+ cgi smith weird take movie seriously
+index: 285, real:0, predict:1
+ <UKN>
+index: 287, real:0, predict:1
+ leads look wooden
+index: 288, real:0, predict:1
+ chris look like sonic
+index: 291, real:0, predict:1
+ guy asked <UKN> wife musical direction advice
+index: 292, real:0, predict:1
+ actually expected <UKN> less trailers got end smith actually really good jasmine actress great aladdin <UKN> definitely miscast real villain movie simply script n't really care weak cgi point
+index: 293, real:0, predict:1
+ heard ’ “ woke ” propaganda
+index: 294, real:0, predict:1
+ aladdin guy mena massoud <UKN> actors name
+index: 295, real:0, predict:1
+ everybody quick judge smith making fresh prince jokes makes wonder
+index: 296, real:0, predict:1
+ good gon na watch
+index: 299, real:0, predict:1
+ another problem movie <UKN> looks like 's taking place india middle eastern country
+index: 300, real:0, predict:1
+ <UKN> indian woman play <UKN> middle eastern princess guess look lol
+index: 304, real:0, predict:1
+ looked like power ranger episode xd 'm ded
+index: 308, real:0, predict:1
+ ’ loyal subscriber always agree reviews one time ’ going <UKN> disagree went expecting worse watching review ended loving many high expectations people
+index: 313, real:1, predict:0
+ mythical society confirmed <UKN> live bubble
+index: 316, real:1, predict:0
+ man hope ’ slowly <UKN> everything mythical society
+index: 323, real:1, predict:0
+ everybody things like
+index: 326, real:1, predict:0
+ guys like <UKN> <UKN> youtube
+index: 333, real:1, predict:0
+ “ sets looks like sets ” ’ exactly bugged trailer
+index: 338, real:1, predict:0
+ watched overall enjoyed movie lot entertaining stuff smith definitely best part really showed haters beginning put faith way like robin way doesnt cant lets honest felt like charisma really made <UKN>
+index: 339, real:1, predict:0
+ reviews usually match liking movie first time <UKN> <UKN> rating movie good c way low easily b even a
+index: 342, real:1, predict:0
+ loved movie much music singing little details
+index: 344, real:1, predict:0
+ <UKN> finally someone said think movie
+index: 346, real:1, predict:0
+ really enjoyed honestly would rewatch movie new star wars movies day
+index: 348, real:1, predict:0
+ c'mon <UKN> 'm <UKN> <UKN> review godzilla <UKN>
+index: 351, real:1, predict:0
+ 90 mins original versus 2 hours
+index: 352, real:1, predict:0
+ true feel like movie trying hard
+index: 354, real:1, predict:0
+ please review avatar want know opinion favourite movie bad
+index: 356, real:1, predict:0
+ ’ movie jasmine sultan
+index: 358, real:1, predict:0
+ ’ even know matthew broderick voiced simba
+index: 359, real:1, predict:0
+ seems disney <UKN> make look like cosplay <UKN> ruined many manga anime live action adaptations
+index: 360, real:1, predict:0
+ dude n't watch <UKN> go see movie would <UKN>
+index: 363, real:1, predict:0
+ hearing “ hundred bad guys <UKN> ” worth price <UKN>
+index: 371, real:1, predict:0
+ spanish genie voiced original actor animated movies n't different
+index: 373, real:1, predict:0
+ harsh score b <UKN> completely surprised movie
+index: 374, real:1, predict:0
+ movie great entertaining blown away unique song <UKN> characters 's fair compare original 's movie 'll give movie a chris stuckmann movie critic give c anyways ca n't stand <UKN> like critic reviews sorry 've <UKN> subscribing get <UKN> tells n't
+index: 376, real:1, predict:0
+ feel looking movie thru live action movie glass think <UKN> digest think loyal adaptation cartoon movie better look different perspective
+index: 377, real:1, predict:0
+ agree new jafar played <UKN> n't top n't seem menacing
+index: 380, real:1, predict:0
+ saw movie 's fucking good go watch
+index: 385, real:1, predict:0
+ ok thank u <UKN> smith maybe jafar two actors film like big issue aladdin ’ act sing neither could smith neither could jasmine mind u musical good <UKN> <UKN> ruff whole thing cheesy
+index: 387, real:1, predict:0
+ nice review go cinema sunday main reason nostalgia aladdin one first movies saw <UKN> screen

@@ -1,0 +1,174 @@
+index: 1, real:1, predict:0
+ critics harsh every regular person ik loved
+index: 9, real:1, predict:0
+ ’ even know matthew broderick voiced simba
+index: 17, real:1, predict:0
+ really disagree review thought really good fan aladdin
+index: 18, real:1, predict:0
+ really liked thought performances good genie ’ jasmine ’ great aladdin ’ <UKN> thing agree jafar really really weak
+index: 19, real:1, predict:0
+ think 's cultural thing lots arab indian <UKN> actually tigers <UKN> <UKN> <UKN>
+index: 20, real:1, predict:0
+ think movie rather enjoyable especially jasmin 's song n't think jafar good villain also bothered <UKN> scared aladdin acted became prince
+index: 25, real:1, predict:0
+ spanish genie voiced original actor animated movies n't different
+index: 27, real:1, predict:0
+ interesting <UKN> critics audiences movie 57 <UKN> critic rating <UKN> audience rating
+index: 28, real:1, predict:0
+ jafar upon time wonderland far better <UKN> well performance even snake staff
+index: 31, real:1, predict:0
+ love movie entertaining love fact <UKN> style scenes style <UKN> movies past decades addition clear style bollywood movies addition gave characters background story love movie
+index: 33, real:1, predict:0
+ never listen critics movie lot fun lion king sucked
+index: 35, real:1, predict:0
+ please review avatar want know opinion favourite movie bad
+index: 40, real:1, predict:0
+ thats liked 1st <UKN> movie gritty
+index: 41, real:1, predict:0
+ disney live action watch multiple times alice wonderland maleficent aladdin movie awesome trust doubt watch trailer guy richie realy
+index: 42, real:1, predict:0
+ thing disliked movie jasmine 's song speechless n't original soundtrack adding new songs beloved classic <UKN> anything could sang beautiful <UKN> whole new world instead maybe <UKN> sense sense eyes open new world aladdin showed convinced believe n stand jafar <UKN> kingdom even <UKN> life
+index: 44, real:1, predict:0
+ think simba think <UKN>
+index: 58, real:0, predict:1
+ chris
+index: 59, real:0, predict:1
+ dammit
+index: 61, real:0, predict:1
+ eddie murphy genie would great cinematic <UKN>
+index: 62, real:0, predict:1
+ hate guy <UKN> bengal tiger siberian
+index: 63, real:0, predict:1
+ give blockbuster t shirt c minus
+index: 64, real:0, predict:1
+ expectation movie n't seen looking forward seeing guess anyway heard making life action remake movie n't impressed thought oh well another disney classic loved kids <UKN> ruined like maleficent disney movies put life action movie especially
+index: 66, real:0, predict:1
+ stopped watching started singing <UKN> time bad cant stand singing movies primary reason stopped watching disney movies
+index: 67, real:0, predict:1
+ think disney needs look bollywood inspiration remakes <UKN> probably <UKN> best live action disney movie ever far even disney
+index: 69, real:0, predict:1
+ 'm hard time getting excited disney live action remakes
+index: 73, real:0, predict:1
+ 's musical bad musical
+index: 76, real:0, predict:1
+ little thank end made whole day
+index: 77, real:0, predict:1
+ 's good honest <UKN> nice work
+index: 78, real:0, predict:1
+ singing pretty bad ’ line plus time expression songs ’ match expression actors also “ speechless ” song jasmine sang <UKN> <UKN> ’ added mean scene ’ music scene regular scene <UKN> feelings would ’ effective hey ’ disney smith good though really carried film
+index: 80, real:0, predict:1
+ cgi people kinda forgot <UKN> blue smith
+index: 82, real:0, predict:1
+ live action remake would care <UKN> <UKN>
+index: 85, real:0, predict:1
+ top 3 cartoon actors role
+index: 86, real:0, predict:1
+ wow almost 98 comments disagree chris review aladdin bad movie
+index: 91, real:0, predict:1
+ looking forward seeing film ’ want support <UKN> <UKN> form
+index: 95, real:0, predict:1
+ get shirt looks badass
+index: 96, real:0, predict:1
+ damn dude speak bit <UKN> ’ video phone call
+index: 98, real:0, predict:1
+ personally surprised violent expecting violence gore mind surprised oh <UKN> <UKN> n't bad except know
+index: 101, real:0, predict:1
+ damn jeremy ranting <UKN>
+index: 102, real:0, predict:1
+ 'm surprised movies come lately expecting dogshit mad max would decent best lot people loving movies props hollywood bad <UKN>
+index: 103, real:0, predict:1
+ jeremy think ratings <UKN> quality movie amount <UKN> <UKN> watching
+index: 104, real:0, predict:1
+ still ca n't believe rated 12 year <UKN> germany
+index: 106, real:0, predict:1
+ jeremy dude chill
+index: 107, real:0, predict:1
+ well expect hear cuntbag dipshits early day
+index: 109, real:0, predict:1
+ melissa mccarthy <UKN> kevin james female <UKN> <UKN> stale <UKN> play fat card
+index: 115, real:1, predict:0
+ love jeremy since <UKN> subs nearly <UKN> subs well deserved man
+index: 126, real:1, predict:0
+ mostly <UKN> <UKN> n't mind <UKN>
+index: 142, real:1, predict:0
+ preach
+index: 143, real:1, predict:0
+ feel like making shit ton new <UKN> <UKN> thumbs rant lol
+index: 147, real:1, predict:0
+ rating cool review forget makes happy
+index: 151, real:1, predict:0
+ n't think 've ever seen jeremy get red anger
+index: 157, real:1, predict:0
+ eddie murphy spy thats movie
+index: 163, real:1, predict:0
+ way feel spy title way feel killers <UKN> 're telling one history rock n roll hard rock <UKN> <UKN> <UKN> etc ever idea calling killers guys one would think 're going edgy anti <UKN> <UKN> vibe killers would like name 2 right fuck <UKN> iron <UKN> <UKN> called killers somebody
+index: 164, real:1, predict:0
+ went spy without knowing lot expect except melissa mccarthy movie must say adored laughed throughout whole thing got extreme good mood felt <UKN> good funny movie make us yes 's stupid silly <UKN> 's also plain fun relatable
+index: 170, real:1, predict:0
+ agree ratings use ratings 's may give movie 1 10 someone may give 10 10 like movie like movie
+index: 171, real:1, predict:0
+ hate melissa mccarthy cant believe im saying actually really enjoyed movie statham made imo hes funny
+index: 177, real:1, predict:0
+ holy shit never saw someone get <UKN> angry since <UKN> 1 <UKN> teacher <UKN> class nobody <UKN> damn know love jeremy n't let <UKN> get
+index: 181, real:1, predict:0
+ wish movie could personal rating
+index: 189, real:1, predict:0
+ rate jeremy jahns sir awesometacular
+index: 193, real:1, predict:0
+ preach
+index: 199, real:1, predict:0
+ <UKN> melissa mccarthy kevin james
+index: 206, real:1, predict:0
+ though kind predictable beginning movie honestly work art acting music cinematography
+index: 208, real:1, predict:0
+ 2 thumbs <UKN> perfect “ noice ”
+index: 211, real:1, predict:0
+ 's black everything must praised actually critiquing something black person obviously racist
+index: 218, real:1, predict:0
+ movie <UKN> imo
+index: 225, real:1, predict:0
+ reveal could ’ better red ’ spoken died would better overall pretty good 7 5 10
+index: 226, real:1, predict:0
+ <UKN> trailer alone really scary expert things camera way shot <UKN> made think oh one well made <UKN> acting seemed strong well seen good scary trailer quite
+index: 229, real:1, predict:0
+ film gets better think loved subtext questions film brings american culture
+index: 235, real:1, predict:0
+ like hereditary ’ like movie personally let entire movie plays mystery horror comedy waiting explanation end <UKN> everything together finally get ’ big let <UKN> piece entire film whole c
+index: 237, real:0, predict:1
+ watch <UKN> 's <UKN> series chris <UKN> 'll fall love <UKN> video analyzing
+index: 239, real:0, predict:1
+ really wanted love film n't interesting creepy times n't stay way get would go far say got bored
+index: 242, real:0, predict:1
+ watched movie liked im actually thinking jordan peele really thought movie coz watched <UKN> movie decade ago theres many <UKN>
+index: 246, real:0, predict:1
+ aight ignore plot holes
+index: 247, real:0, predict:1
+ actually bland
+index: 248, real:0, predict:1
+ liked move overall thought <UKN> way quickly <UKN> <UKN> <UKN> ruined creepy pacing
+index: 249, real:0, predict:1
+ definitely agree review thought comedy horror good movie ’ find much horror lot suspense nothing would consider scary
+index: 250, real:0, predict:1
+ movie <UKN> big time u liked super wierd
+index: 253, real:0, predict:1
+ cant see casting white dude lead
+index: 254, real:0, predict:1
+ holy shit red <UKN> reference <UKN> <UKN> political party <UKN> <UKN> party <UKN> red <UKN> <UKN> <UKN> represent ” <UKN> ” <UKN> <UKN> <UKN> <UKN> etc
+index: 256, real:0, predict:1
+ im glad everyone else enjoying get us really like either
+index: 257, real:0, predict:1
+ lets honest wasnt jordan peele movie everyone giving movie 4 10 boring generic af
+index: 259, real:0, predict:1
+ get better <UKN> film one still really solid
+index: 261, real:0, predict:1
+ horror genre many cliches great ones still coming oscars <UKN> people get oscar good film sometimes bad fine example <UKN> <UKN> <UKN> two one got one blood diamond fell asleep watching <UKN> got bored cinematography great bit slow might pick left think oscars bit political wait go ’ <UKN> year
+index: 265, real:0, predict:1
+ turned movie 1 hour 11 minutes disappointment
+index: 273, real:0, predict:1
+ lupita kills 's giving us year 's toni collette hereditary level performance
+index: 274, real:0, predict:1
+ things missed men attend <UKN> howard physically <UKN> ’ <UKN> <UKN> gun lol
+index: 275, real:0, predict:1
+ went see film lot excitement came away disappointed ever trailer better film
+index: 276, real:0, predict:1
+ hard pass movie one

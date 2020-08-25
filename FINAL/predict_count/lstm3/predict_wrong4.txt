@@ -1,0 +1,178 @@
+index: 8, real:1, predict:0
+ miss book review
+index: 12, real:1, predict:0
+ ca n't describe joy felt first seconds video music played knew going another pewd literature club 3
+index: 17, real:1, predict:0
+ thought video going book mormon review lmao
+index: 18, real:1, predict:0
+ got ptsd intro music
+index: 24, real:0, predict:1
+ find unlikeable
+index: 26, real:0, predict:1
+ feel like people overglorify
+index: 42, real:1, predict:0
+ beautufulll
+index: 46, real:1, predict:0
+ vitiligo left arm actually like
+index: 47, real:1, predict:0
+ beautifulllllll
+index: 54, real:1, predict:0
+ face art beaut
+index: 57, real:0, predict:1
+ ready robot overlords
+index: 61, real:0, predict:1
+ yeah cool anyone remember og g
+index: 62, real:0, predict:1
+ anime greatest invention japanese
+index: 67, real:0, predict:1
+ future doomed
+index: 79, real:0, predict:1
+ crazy negative way going back right great flood
+index: 81, real:0, predict:1
+ legit scared dog ’ blame
+index: 82, real:0, predict:1
+ getting ready dog extinction
+index: 85, real:1, predict:0
+ ’ get end personally loving break cry
+index: 86, real:1, predict:0
+ get 're alone life allergic dogs
+index: 91, real:1, predict:0
+ ’ die
+index: 96, real:1, predict:0
+ really great upset science destroy everything civil engineer say going wrong way
+index: 105, real:1, predict:0
+ 's smarter real dog
+index: 107, real:1, predict:0
+ ill get real dog dies
+index: 110, real:1, predict:0
+ obeying real one
+index: 113, real:1, predict:0
+ great piece technology sony
+index: 119, real:0, predict:1
+ one side ok try next always messed god
+index: 127, real:1, predict:0
+ 5 05 love
+index: 128, real:1, predict:0
+ 're lucky really long thick black eyelashes get way eye liner make impossible apply easily
+index: 132, real:1, predict:0
+ 're gorgeous remind grace american horror story asylum
+index: 143, real:1, predict:0
+ basically art class dummies
+index: 145, real:0, predict:1
+ watching totally forgot clicked see camera quality
+index: 149, real:0, predict:1
+ huge step back apple
+index: 151, real:0, predict:1
+ 5g
+index: 153, real:0, predict:1
+ ios 13 1 least ipad 13 1 ’
+index: 157, real:1, predict:0
+ n't look horrible phone costs 1000
+index: 158, real:1, predict:0
+ still ugly af ’ keep old phone dies 3 hours least looks good
+index: 161, real:1, predict:0
+ 'm glad apple cheapest phone market 've always wanted one
+index: 162, real:1, predict:0
+ loved beginning video
+index: 168, real:0, predict:1
+ actually looks like trollface brought human form
+index: 170, real:0, predict:1
+ screamed school every friday
+index: 180, real:1, predict:0
+ hey guys dont rude like dont dislike ont
+index: 181, real:1, predict:0
+ shes older hopefully remix better song
+index: 182, real:1, predict:0
+ 'm actually starting enjoy
+index: 184, real:1, predict:0
+ hey rebecca getting nostalgia song
+index: 187, real:0, predict:1
+ literally n't recognize 90 stuff video
+index: 192, real:0, predict:1
+ video deserves dislikes
+index: 199, real:1, predict:0
+ bad good edit finished watching never mind horrible
+index: 201, real:1, predict:0
+ end credits man slapping piece mud better entire video
+index: 206, real:0, predict:1
+ really helps fail exam
+index: 210, real:1, predict:0
+ good attempt
+index: 211, real:0, predict:1
+ yo lol man throws sooo much shade
+index: 214, real:0, predict:1
+ always synchronization help us learn better videos amazing u start coding get scared u say something type something flow bro anyways u helped lot opinion
+index: 219, real:0, predict:1
+ 's funny
+index: 223, real:1, predict:0
+ love riot scene arthur '' got car <UKN> pulled <UKN> car time bruce 's parents <UKN> <UKN> killer thomas wayne wife got shot killed front bruce arthur '' woke <UKN> blood <UKN> reason live meet match future
+index: 244, real:0, predict:1
+ weird
+index: 253, real:0, predict:1
+ obviously watched completely different film absolute rubbish
+index: 266, real:0, predict:1
+ may disagree stuff buy favorite bring <UKN> world
+index: 274, real:0, predict:1
+ comment section <UKN>
+index: 280, real:0, predict:1
+ seem stressed
+index: 281, real:0, predict:1
+ well n't going see maybe 'll watch free version course n't want encourage producers much
+index: 283, real:0, predict:1
+ gouda 's pronounced gouda <UKN>
+index: 284, real:0, predict:1
+ dutch person ca n't stand way rhett <UKN> gouda
+index: 285, real:0, predict:1
+ mozzarella favourite burger cheese especially chicken burgers
+index: 295, real:0, predict:1
+ disagree couple points chris mentions review surely respect
+index: 298, real:0, predict:1
+ mena <UKN> ’ couple lover chemistry ’ brings strong like ’ trying hard still missing something yea without smith outcome different
+index: 309, real:0, predict:1
+ worked blockbuster three years shirt <UKN> n't <UKN> <UKN> big fat <UKN> wedding ' back room n't back room
+index: 312, real:0, predict:1
+ 5 08 make fun <UKN> 's cobra staff
+index: 317, real:0, predict:1
+ points valid n't mention bugged movie <UKN> <UKN> core story began <UKN> arabian days nothing true arabian <UKN> indian <UKN> <UKN> <UKN> 'm really disappointed
+index: 322, real:0, predict:1
+ u never capture magic animation live action 's watch animation
+index: 323, real:0, predict:1
+ remember blockbusters <UKN> suggested section miss days
+index: 328, real:1, predict:0
+ “ ’ ford man ” hurt <UKN> person
+index: 335, real:1, predict:0
+ stayed 4 00am
+index: 336, real:1, predict:0
+ cheddar <UKN>
+index: 341, real:1, predict:0
+ swiss disgusting ca n't change mind <UKN>
+index: 342, real:1, predict:0
+ 'm american man like american cheese
+index: 345, real:1, predict:0
+ honestly kinda liked
+index: 346, real:1, predict:0
+ whole time watched film could n't stop comparing disney channel original movies <UKN> girls one world anyone
+index: 347, real:1, predict:0
+ exactly said thing jafar review
+index: 348, real:1, predict:0
+ try animated <UKN> ’ cases cinematic magic left alone ’ <UKN>
+index: 350, real:1, predict:0
+ bad everyone internet thought going
+index: 351, real:1, predict:0
+ got feelings exactly
+index: 357, real:1, predict:0
+ ’ shocked ’ bring “ <UKN> ” easily biggest letdown personally
+index: 360, real:1, predict:0
+ another thing noticed smith ’ genie <UKN> reminds character previously played hitch even <UKN> scene end reminiscent ending scene hitch liked actually
+index: 361, real:1, predict:0
+ tough critic actually really liked ’ expected live action alladin movie ∠ think people would complained ’ things original started changing things point remake completely different movie
+index: 366, real:1, predict:0
+ ow ow ow <UKN> guys come get
+index: 367, real:1, predict:0
+ <UKN> know <UKN> video
+index: 376, real:1, predict:0
+ think 's cultural thing lots arab indian <UKN> actually tigers <UKN> <UKN> pets
+index: 377, real:1, predict:0
+ love shirt dude really miss going blockbusters
+index: 382, real:1, predict:0
+ 're right chris came theatre low expectations genie performance knew robin set <UKN> high animated film movie genie said smith <UKN> genie version beyond likeable like portrayed best <UKN> aladdin one though portray alot genie 's ability performance still greatly appreciated

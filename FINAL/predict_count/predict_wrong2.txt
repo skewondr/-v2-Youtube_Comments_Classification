@@ -1,0 +1,184 @@
+index: 1, real:1, predict:0
+ c much think movie amazing great adaptations deserve c maybe b b
+index: 2, real:1, predict:0
+ chris genuinely believe comment section <UKN> <UKN> like well usual
+index: 3, real:1, predict:0
+ dude must fun <UKN>
+index: 5, real:1, predict:0
+ looks like ’ fire kingdom guess
+index: 8, real:1, predict:0
+ n't catch problems catch watching movie think like way
+index: 10, real:1, predict:0
+ watched film enjoyable say agree literally everything said chris main problem simply movie felt stretched longer needed liked actors hated actor <UKN> jafar weak anyway good time movies
+index: 11, real:1, predict:0
+ knew saw trailer n't problem smith jafar n't scary
+index: 18, real:1, predict:0
+ would give aladdin 2019 b
+index: 19, real:1, predict:0
+ smith still alive guess 's got cause ' keeps <UKN> kid movies make horrible i e day earth stood still <UKN> kid earth
+index: 24, real:1, predict:0
+ say done chris
+index: 27, real:1, predict:0
+ nice blockbuster shirt love aladdin 1992 robin williams ' genie
+index: 30, real:1, predict:0
+ ow ow ow <UKN> guys come get
+index: 37, real:1, predict:0
+ movie great idk people <UKN>
+index: 39, real:1, predict:0
+ yeah agree movie bland
+index: 42, real:1, predict:0
+ reviews usually match liking movie first time <UKN> <UKN> rating movie good c way low easily b even a
+index: 43, real:0, predict:1
+ “ best part movie ” look got jokes
+index: 44, real:0, predict:1
+ 10 <UKN> years give ya <UKN> <UKN>
+index: 45, real:0, predict:1
+ 5 <UKN> make fun <UKN> 's cobra staff
+index: 48, real:0, predict:1
+ beauty beast way better
+index: 50, real:0, predict:1
+ came back watching today okay good fun feels like movie rushed long acting okay except jafar
+index: 52, real:0, predict:1
+ dude imagine someone 's issue every clean perfect get
+index: 53, real:0, predict:1
+ everybody quick judge smith making fresh prince jokes makes wonder
+index: 54, real:0, predict:1
+ many subs critical got play part
+index: 56, real:0, predict:1
+ actually like kenzari 's jafar 's version always idea watching human form scar original version
+index: 57, real:0, predict:1
+ always following useful well explained reviews however aladdin completely disagree nothing felt cheesy weak spectacular movie every possible aspect two hours full enjoyment surprised n't find anything good say movie
+index: 60, real:0, predict:1
+ give movie b smith awesome consistently laughing think actors <UKN> great however give good call <UKN>
+index: 62, real:0, predict:1
+ honestly loved thought smith awesome jafar character thought really <UKN> portrayed
+index: 64, real:0, predict:1
+ watched movie review chris saying
+index: 66, real:0, predict:1
+ worked blockbuster three years shirt <UKN> n't copies <UKN> big fat <UKN> <UKN> ' back room n't back room
+index: 67, real:0, predict:1
+ 'm going see john wick 3 weekend
+index: 69, real:0, predict:1
+ ’ way better c first time ’ ever disagreed chris believe excellent
+index: 70, real:0, predict:1
+ jafar many edited parts n't expecting <UKN> get broke story art gave genie life lamp
+index: 71, real:0, predict:1
+ <UKN> michael key would amazing genie way
+index: 73, real:0, predict:1
+ next month ’ got even better live action disney film coming lion king
+index: 74, real:0, predict:1
+ oh idea guy ritchie directed love older films style though <UKN> sure ’ perfect hopes gets bad period
+index: 75, real:0, predict:1
+ correct term street rat keep original stuckmann
+index: 81, real:0, predict:1
+ tried hard dislike film sure probably great love original many pleasant surprise n't <UKN> met <UKN>
+index: 83, real:0, predict:1
+ better let go otherwise may create next mexican joker
+index: 85, real:0, predict:1
+ joker best movie last 12 years since <UKN> country old men ' <UKN>
+index: 86, real:0, predict:1
+ love film joaquin amazing negative opinion reference taxi driver de <UKN> film <UKN>
+index: 89, real:1, predict:0
+ movie makes feel emotions think deeper stuff <UKN> <UKN> conversation society life general people 's good movie movie masterpiece
+index: 93, real:1, predict:0
+ saw joker completely fresh never seen taxi driver king comedy phoenix fantastic clown
+index: 94, real:1, predict:0
+ everyone <UKN> <UKN> acting also noticed cinematography work outstanding allowed actor shown best excellent round
+index: 97, real:0, predict:1
+ exact plot get smart
+index: 98, real:0, predict:1
+ arm <UKN> completely <UKN> using arm
+index: 99, real:0, predict:1
+ jeremy <UKN> 's <UKN> <UKN>
+index: 100, real:0, predict:1
+ 'm jeremy burn ratings come see movie worth watching
+index: 101, real:0, predict:1
+ made jeremy feel rating system rant necessary words <UKN> <UKN> <UKN> ''
+index: 102, real:0, predict:1
+ spy 2 maybe 2016
+index: 107, real:0, predict:1
+ seem stressed
+index: 108, real:0, predict:1
+ love rant pretty much reviews remember hate a k a comment <UKN> internet <UKN> anger
+index: 115, real:1, predict:0
+ mr jahns may say heartfelt thank '' giving voice rest us ever annoyed people <UKN> actually pay attention anything rating systems <UKN>
+index: 131, real:1, predict:0
+ though 'm <UKN> jeremy need know dammit
+index: 134, real:1, predict:0
+ jeremy goddamn <UKN> hero fight good fight
+index: 141, real:1, predict:0
+ edge hating mccarthy ca n't hate much <UKN> english chick <UKN> perfect
+index: 149, real:1, predict:0
+ c bomb scared little
+index: 153, real:1, predict:0
+ like star system 's nice way say feel film
+index: 164, real:1, predict:0
+ hey
+index: 165, real:1, predict:0
+ jj man n't <UKN> seriously live <UKN> god dammit one bro
+index: 179, real:1, predict:0
+ going watch spy anyway coz 's roll got looking forward way
+index: 186, real:1, predict:0
+ wtf buy blu ray <UKN> mad max <UKN> love jeremy forever
+index: 188, real:1, predict:0
+ cheese heads omg dead expected c word
+index: 191, real:1, predict:0
+ loved movie thought fantastic scenes however n't find scary kinda disappointed thought funny anything
+index: 200, real:1, predict:0
+ <UKN> watch film <UKN> video deeper themes explained think <UKN> <UKN> top get
+index: 201, real:1, predict:0
+ finally came country amazing film n't get 100 ca n't wait see understand better
+index: 207, real:1, predict:0
+ low key still <UKN> lupita played two characters seemed vastly different complex literally best acting year seen far
+index: 208, real:1, predict:0
+ movie <UKN> open enough ’ think needs anymore ambiguous
+index: 209, real:1, predict:0
+ great review man always <UKN> good feeling would
+index: 210, real:1, predict:0
+ n't forget 98 people comments saying movie good people loved <UKN> <UKN> films thought absolutely hilarious
+index: 216, real:1, predict:0
+ tv <UKN> <UKN> shows lot <UKN> show look like
+index: 219, real:1, predict:0
+ didnt like 'get ' n't scary seemed bit silly
+index: 225, real:1, predict:0
+ know 's great movie drops f bomb
+index: 235, real:1, predict:0
+ ’ think even really counts horror movie
+index: 237, real:1, predict:0
+ honestly thought movie ok felt pretentious kind disappointed considering ’ hyped
+index: 238, real:0, predict:1
+ toni collette nominated hereditary last <UKN> oscars 're obviously lost little <UKN>
+index: 241, real:0, predict:1
+ movie would perfect without plot holes
+index: 242, real:0, predict:1
+ movie eyes disaster <UKN> <UKN> <UKN> <UKN>
+index: 246, real:0, predict:1
+ plot looks lot like movie broken actress plays <UKN> good
+index: 247, real:0, predict:1
+ n't understand plot first watching keep watching 'll understand
+index: 248, real:0, predict:1
+ found dull <UKN> <UKN> loved get much fear jordan peele <UKN> m night shyamalan <UKN> basically becoming one trick <UKN> increasingly <UKN> movies
+index: 250, real:0, predict:1
+ umm 's nooice
+index: 251, real:0, predict:1
+ lupita <UKN> amazing loved get movie actually <UKN> movie terribly written comedic <UKN> awful throwing 5 song <UKN> <UKN> final scene cringing suprised seeing tim heidecker though
+index: 252, real:0, predict:1
+ film deserves <UKN> box lost <UKN>
+index: 254, real:0, predict:1
+ love puts movie version get top <UKN> instead <UKN>
+index: 256, real:0, predict:1
+ chris trying hard make movie seem good good try brother
+index: 258, real:0, predict:1
+ movie reminds movie <UKN> <UKN> horror movie <UKN> better watch
+index: 260, real:0, predict:1
+ a movie good could 1 hour episode twilight zone black mirror
+index: 261, real:0, predict:1
+ know lot people n't dig movie 's cool film felt way <UKN> 'get '
+index: 271, real:0, predict:1
+ never expected see tim heidecker movie like
+index: 272, real:0, predict:1
+ hmm 've watched two reviews one people loving film giving 4 10 'll watch
+index: 275, real:0, predict:1
+ <UKN> really <UKN> review
+index: 276, real:0, predict:1
+ movie goddamn weird hell
